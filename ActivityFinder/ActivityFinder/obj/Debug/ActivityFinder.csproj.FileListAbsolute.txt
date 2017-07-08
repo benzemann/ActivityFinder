@@ -1,0 +1,15 @@
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\obj\Debug\ActivityFinder.csprojResolveAssemblyReference.cache
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Debug\ActivityFinder.exe.config
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Debug\ActivityFinder.exe
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Debug\ActivityFinder.pdb
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Debug\ActivityModel.dll
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Debug\EntityFramework.dll
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Debug\ActivityModel.pdb
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Debug\ActivityModel.dll.config
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Debug\EntityFramework.xml
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\obj\Debug\ActivityFinder.exe
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\obj\Debug\ActivityFinder.pdb
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Debug\log4net.dll
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Debug\log4net.xml

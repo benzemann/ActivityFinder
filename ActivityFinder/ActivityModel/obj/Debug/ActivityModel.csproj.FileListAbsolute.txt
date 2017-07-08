@@ -1,0 +1,10 @@
+D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\bin\Debug\ActivityModel.dll.config
+D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\bin\Debug\ActivityModel.dll
+D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\bin\Debug\ActivityModel.pdb
+D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\bin\Debug\EntityFramework.dll
+D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\bin\Debug\EntityFramework.xml
+D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\obj\Debug\ActivityModel.dll
+D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\obj\Debug\ActivityModel.pdb
+D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\obj\Debug\ActivityModel.csprojResolveAssemblyReference.cache
