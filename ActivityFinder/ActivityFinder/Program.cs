@@ -20,6 +20,8 @@ namespace ActivityFinder
 
             var activities = new List<Activity>();
 
+            TicketMasterAPI.GetAllActivities().Wait();
+
             log.Debug("Ending ActivityFinder");
             Console.ReadLine();
         }

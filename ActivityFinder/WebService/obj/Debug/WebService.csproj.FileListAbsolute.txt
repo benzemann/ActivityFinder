@@ -37,6 +37,5 @@ D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\Newtonsoft.Json.xml
 D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\System.Net.Http.Formatting.xml
 D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\System.Web.Http.xml
 D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\System.Web.Http.WebHost.xml
-D:\Programming\AktivityFinder\ActivityFinder\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
 D:\Programming\AktivityFinder\ActivityFinder\WebService\obj\Debug\WebService.dll
 D:\Programming\AktivityFinder\ActivityFinder\WebService\obj\Debug\WebService.pdb

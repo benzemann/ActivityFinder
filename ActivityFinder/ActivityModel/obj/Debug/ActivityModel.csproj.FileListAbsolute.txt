@@ -7,4 +7,3 @@ D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\bin\Debug\EntityFrame
 D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\bin\Debug\EntityFramework.SqlServer.xml
 D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\obj\Debug\ActivityModel.dll
 D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\obj\Debug\ActivityModel.pdb
-D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\obj\Debug\ActivityModel.csprojResolveAssemblyReference.cache
