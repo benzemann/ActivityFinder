@@ -13,12 +13,14 @@ namespace ActivityModel
         public string Image { get; set; }
         public string Description { get; set; }
         public string Address { get; set; }
+        public string PostalCode { get; set; }
+        public string City { get; set; }
         public string Latitude { get; set; }
         public string Longitude { get; set; }
         public string Website { get; set; }
         public string OpenHours { get; set; }
-        public DateTime StartDate { get; set; }
-        public DateTime EndDate { get; set; }
+        public string StartDate { get; set; }
+        public string EndDate { get; set; }
         public string Price { get; set; }
         public string Url { get; set; }
         public int Category { get; set; }

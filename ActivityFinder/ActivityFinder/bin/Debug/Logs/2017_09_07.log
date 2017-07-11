@@ -1,1 +1,424 @@
-2017-07-09 02:58:15,032 DEBUG Logger - Starting ActivityFinder
+2017-07-09 20:14:04,734 DEBUG Logger - Starting ActivityFinder
+2017-07-09 20:27:45,273 DEBUG ActivityFinder.Program - ActivityFinder: Started
+2017-07-09 20:27:45,304 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Started
+2017-07-09 20:51:14,670 DEBUG ActivityFinder.Program - Started
+2017-07-09 20:51:14,695 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 20:51:16,452 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Der opstod en fejl under deserialisering af objektet af typen ActivityFinder.TicketMasterModel. Værdien 36.75 kan ikke fortolkes som typen Int32. 
+StacTrace:    ved System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   ved System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(XmlDictionaryReader reader)
+   ved System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(Stream stream)
+   ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMasterAPI.cs:linje 35
+2017-07-09 20:51:16,457 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-09 20:51:16,460 DEBUG ActivityFinder.Program - Ended
+2017-07-09 20:51:48,775 DEBUG ActivityFinder.Program - Started
+2017-07-09 20:51:48,803 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 20:51:49,436 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Der opstod en fejl under deserialisering af objektet af typen ActivityFinder.TicketMasterModel. Værdien 36.75 kan ikke fortolkes som typen Int32. 
+StacTrace:    ved System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   ved System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(XmlDictionaryReader reader)
+   ved System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(Stream stream)
+   ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMasterAPI.cs:linje 35
+2017-07-09 20:51:49,445 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-09 20:51:49,454 DEBUG ActivityFinder.Program - Ended
+2017-07-09 20:52:29,204 DEBUG ActivityFinder.Program - Started
+2017-07-09 20:52:29,247 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 20:52:30,019 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Der opstod en fejl under deserialisering af objektet af typen ActivityFinder.TicketMasterModel. Værdien 36.75 kan ikke fortolkes som typen Int32. 
+StacTrace:    ved System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   ved System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(XmlDictionaryReader reader)
+   ved System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(Stream stream)
+   ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMasterAPI.cs:linje 35
+2017-07-09 20:52:30,026 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-09 20:52:30,031 DEBUG ActivityFinder.Program - Ended
+2017-07-09 20:52:42,413 DEBUG ActivityFinder.Program - Started
+2017-07-09 20:52:42,441 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 20:53:13,502 DEBUG ActivityFinder.Program - Started
+2017-07-09 20:53:13,526 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 20:57:51,860 DEBUG ActivityFinder.Program - Started
+2017-07-09 20:57:51,885 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster.
+2017-07-09 20:57:53,092 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Der opstod en fejl under deserialisering af objektet af typen ActivityFinder.TicketMasterModel. Værdien 36.75 kan ikke fortolkes som typen Int32. 
+StacTrace:    ved System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   ved System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(XmlDictionaryReader reader)
+   ved System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(Stream stream)
+   ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMasterAPI.cs:linje 35
+2017-07-09 20:57:53,098 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-09 20:57:53,101 DEBUG ActivityFinder.Program - Ended
+2017-07-09 20:58:05,006 DEBUG ActivityFinder.Program - Started
+2017-07-09 20:58:05,031 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster.
+2017-07-09 21:00:56,292 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:00:56,322 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster.
+2017-07-09 21:02:26,019 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:02:26,048 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:02:32,988 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:02:33,014 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:02:33,747 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:02:34,109 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:02:34,477 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:02:34,846 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:02:35,183 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:02:35,520 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:02:35,873 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:02:36,249 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:02:36,584 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:02:36,935 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:02:37,280 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:02:37,865 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:02:38,370 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:02:48,016 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:02:48,049 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:02:48,661 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1
+2017-07-09 21:02:49,659 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Objektreferencen er ikke indstillet til en forekomst af et objekt. 
+StacTrace:    ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMasterAPI.cs:linje 45
+2017-07-09 21:02:49,664 DEBUG ActivityFinder.Program - Found 28 activites from Ticketmaster
+2017-07-09 21:02:49,668 DEBUG ActivityFinder.Program - Ended
+2017-07-09 21:04:27,661 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:04:27,693 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:04:28,388 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1
+2017-07-09 21:04:28,784 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Objektreferencen er ikke indstillet til en forekomst af et objekt. 
+StacTrace:    ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMasterAPI.cs:linje 45
+2017-07-09 21:04:28,789 DEBUG ActivityFinder.Program - Found 28 activites from Ticketmaster
+2017-07-09 21:04:28,793 DEBUG ActivityFinder.Program - Ended
+2017-07-09 21:05:25,514 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:05:25,544 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:05:26,158 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1
+2017-07-09 21:05:26,494 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2
+2017-07-09 21:05:27,177 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 3
+2017-07-09 21:05:28,422 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 4
+2017-07-09 21:05:30,457 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 5
+2017-07-09 21:05:31,666 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 6
+2017-07-09 21:05:32,953 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 7
+2017-07-09 21:05:33,940 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 8
+2017-07-09 21:05:35,046 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 9
+2017-07-09 21:05:36,175 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 10
+2017-07-09 21:05:37,205 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 11
+2017-07-09 21:05:38,115 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 12
+2017-07-09 21:05:38,860 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 13
+2017-07-09 21:05:39,721 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 14
+2017-07-09 21:05:40,594 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 15
+2017-07-09 21:05:41,317 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 16
+2017-07-09 21:05:42,015 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 17
+2017-07-09 21:05:42,646 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 18
+2017-07-09 21:05:43,636 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 19
+2017-07-09 21:05:44,325 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 20
+2017-07-09 21:05:45,260 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 21
+2017-07-09 21:05:46,092 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 22
+2017-07-09 21:05:46,967 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 23
+2017-07-09 21:05:47,700 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 24
+2017-07-09 21:05:48,763 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 25
+2017-07-09 21:05:49,515 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 26
+2017-07-09 21:05:51,355 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 27
+2017-07-09 21:05:51,969 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 28
+2017-07-09 21:05:52,522 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 29
+2017-07-09 21:05:53,228 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 30
+2017-07-09 21:05:53,920 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 31
+2017-07-09 21:05:54,592 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 32
+2017-07-09 21:05:55,321 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 33
+2017-07-09 21:05:56,057 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 34
+2017-07-09 21:05:56,808 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 35
+2017-07-09 21:05:57,476 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 36
+2017-07-09 21:05:58,229 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 37
+2017-07-09 21:05:59,024 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 38
+2017-07-09 21:05:59,584 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 39
+2017-07-09 21:06:00,317 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 40
+2017-07-09 21:06:01,107 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 41
+2017-07-09 21:06:01,771 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 42
+2017-07-09 21:06:02,716 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 43
+2017-07-09 21:06:03,485 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 44
+2017-07-09 21:06:04,188 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 45
+2017-07-09 21:06:05,027 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 46
+2017-07-09 21:06:05,713 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 47
+2017-07-09 21:06:06,451 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 48
+2017-07-09 21:06:07,223 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 49
+2017-07-09 21:06:07,866 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 50
+2017-07-09 21:06:08,664 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Der opstod en fejl under deserialisering af objektet af typen ActivityFinder.TicketMasterModel. Der blev fundet et uventet tegn: ''. 
+StacTrace:    ved System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   ved System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(XmlDictionaryReader reader)
+   ved System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(Stream stream)
+   ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMasterAPI.cs:linje 35
+2017-07-09 21:06:08,676 DEBUG ActivityFinder.Program - Found 1000 activites from Ticketmaster
+2017-07-09 21:06:08,683 DEBUG ActivityFinder.Program - Ended
+2017-07-09 21:07:05,267 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:07:05,291 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:07:05,900 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1
+2017-07-09 21:07:06,258 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2
+2017-07-09 21:07:06,614 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 3
+2017-07-09 21:07:07,258 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 4
+2017-07-09 21:07:07,635 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 5
+2017-07-09 21:07:08,246 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 6
+2017-07-09 21:07:08,651 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 7
+2017-07-09 21:07:09,074 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 8
+2017-07-09 21:07:09,512 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 9
+2017-07-09 21:07:10,073 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 10
+2017-07-09 21:07:10,416 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 11
+2017-07-09 21:07:10,807 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 12
+2017-07-09 21:07:11,218 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 13
+2017-07-09 21:07:11,595 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 14
+2017-07-09 21:07:11,964 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 15
+2017-07-09 21:07:12,667 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 16
+2017-07-09 21:07:13,169 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 17
+2017-07-09 21:07:13,677 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 18
+2017-07-09 21:07:14,197 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 19
+2017-07-09 21:07:14,676 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 20
+2017-07-09 21:07:15,203 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 21
+2017-07-09 21:07:15,657 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 22
+2017-07-09 21:07:16,168 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 23
+2017-07-09 21:07:16,678 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 24
+2017-07-09 21:07:17,175 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 25
+2017-07-09 21:07:17,699 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 26
+2017-07-09 21:07:18,173 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 27
+2017-07-09 21:07:18,665 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 28
+2017-07-09 21:07:19,158 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 29
+2017-07-09 21:07:19,673 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 30
+2017-07-09 21:07:20,166 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 31
+2017-07-09 21:07:20,657 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 32
+2017-07-09 21:07:21,553 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 33
+2017-07-09 21:07:22,410 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 34
+2017-07-09 21:07:23,075 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 35
+2017-07-09 21:07:23,895 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 36
+2017-07-09 21:07:24,234 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 37
+2017-07-09 21:07:24,632 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 38
+2017-07-09 21:07:25,012 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 39
+2017-07-09 21:07:25,418 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 40
+2017-07-09 21:07:26,169 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 41
+2017-07-09 21:07:26,669 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 42
+2017-07-09 21:07:27,256 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 43
+2017-07-09 21:07:27,638 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 44
+2017-07-09 21:07:48,253 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:07:48,284 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:08:05,563 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:08:05,596 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:08:15,197 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:08:15,224 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:08:15,765 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1
+2017-07-09 21:08:16,360 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2
+2017-07-09 21:08:17,080 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 3
+2017-07-09 21:08:17,763 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 4
+2017-07-09 21:08:19,478 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 5
+2017-07-09 21:08:20,163 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 6
+2017-07-09 21:08:20,859 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 7
+2017-07-09 21:08:21,559 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 8
+2017-07-09 21:08:22,209 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 9
+2017-07-09 21:08:23,039 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 10
+2017-07-09 21:08:23,697 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 11
+2017-07-09 21:08:24,269 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 12
+2017-07-09 21:08:24,827 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 13
+2017-07-09 21:08:25,563 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 14
+2017-07-09 21:08:26,191 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 15
+2017-07-09 21:08:26,689 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 16
+2017-07-09 21:08:27,393 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 17
+2017-07-09 21:08:27,963 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 18
+2017-07-09 21:08:28,523 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 19
+2017-07-09 21:08:29,192 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 20
+2017-07-09 21:08:29,668 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 21
+2017-07-09 21:08:30,232 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 22
+2017-07-09 21:08:30,976 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 23
+2017-07-09 21:08:31,603 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 24
+2017-07-09 21:08:32,064 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 25
+2017-07-09 21:08:32,706 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 26
+2017-07-09 21:08:33,048 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Could not read data from Ticketmaster API.
+Result from API: {"_links":{"first":{"href":"/discovery/v2/events?countryCode=DK&page=0&size=20"},"prev":{"href":"/discovery/v2/events?countryCode=DK&page=25&size=20"},"self":{"href":"/discovery/v2/events?countryCode=DK&page=26"},"last":{"href":"/discovery/v2/events?countryCode=DK&page=25&size=20"}},"page":{"size":20,"totalElements":505,"totalPages":26,"number":26}} 
+StacTrace:    ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMasterAPI.cs:linje 40
+2017-07-09 21:08:33,056 DEBUG ActivityFinder.Program - Found 505 activites from Ticketmaster
+2017-07-09 21:08:33,060 DEBUG ActivityFinder.Program - Ended
+2017-07-09 21:09:28,362 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:09:28,398 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:09:29,045 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1
+2017-07-09 21:09:29,338 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2
+2017-07-09 21:09:29,658 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 3
+2017-07-09 21:09:29,942 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 4
+2017-07-09 21:09:30,238 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 5
+2017-07-09 21:09:30,549 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 6
+2017-07-09 21:09:30,860 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 7
+2017-07-09 21:09:31,148 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 8
+2017-07-09 21:09:31,431 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 9
+2017-07-09 21:09:31,737 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 10
+2017-07-09 21:09:32,196 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 11
+2017-07-09 21:09:32,671 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 12
+2017-07-09 21:09:33,196 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 13
+2017-07-09 21:09:33,697 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 14
+2017-07-09 21:09:34,203 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 15
+2017-07-09 21:09:34,761 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 16
+2017-07-09 21:09:35,202 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 17
+2017-07-09 21:09:35,712 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 18
+2017-07-09 21:09:36,186 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 19
+2017-07-09 21:09:36,700 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 20
+2017-07-09 21:09:37,190 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 21
+2017-07-09 21:09:37,681 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 22
+2017-07-09 21:09:38,189 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 23
+2017-07-09 21:09:38,702 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 24
+2017-07-09 21:09:39,198 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 25
+2017-07-09 21:09:39,600 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 26
+2017-07-09 21:09:40,071 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Could not read data from Ticketmaster API.
+Result from API: {"_links":{"first":{"href":"/discovery/v2/events?countryCode=DK&page=0&size=20"},"prev":{"href":"/discovery/v2/events?countryCode=DK&page=25&size=20"},"self":{"href":"/discovery/v2/events?countryCode=DK&page=26"},"last":{"href":"/discovery/v2/events?countryCode=DK&page=25&size=20"}},"page":{"size":20,"totalElements":505,"totalPages":26,"number":26}} 
+StacTrace:    ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMasterAPI.cs:linje 40
+2017-07-09 21:09:40,079 DEBUG ActivityFinder.Program - Found 505 activites from Ticketmaster
+2017-07-09 21:09:40,083 DEBUG ActivityFinder.Program - Ended
+2017-07-09 21:09:58,938 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:09:58,970 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:09:59,534 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1
+2017-07-09 21:09:59,828 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2
+2017-07-09 21:10:00,132 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 3
+2017-07-09 21:10:00,418 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 4
+2017-07-09 21:10:00,706 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 5
+2017-07-09 21:10:01,016 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 6
+2017-07-09 21:10:01,319 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 7
+2017-07-09 21:10:01,611 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 8
+2017-07-09 21:10:01,917 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 9
+2017-07-09 21:10:02,197 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 10
+2017-07-09 21:10:02,767 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 11
+2017-07-09 21:10:03,245 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 12
+2017-07-09 21:10:03,767 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 13
+2017-07-09 21:10:04,265 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 14
+2017-07-09 21:10:04,765 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 15
+2017-07-09 21:10:05,244 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 16
+2017-07-09 21:10:05,745 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 17
+2017-07-09 21:10:06,259 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 18
+2017-07-09 21:10:06,768 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 19
+2017-07-09 21:10:07,266 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 20
+2017-07-09 21:10:07,759 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 21
+2017-07-09 21:10:08,264 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 22
+2017-07-09 21:10:08,755 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 23
+2017-07-09 21:10:09,248 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 24
+2017-07-09 21:10:09,751 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 25
+2017-07-09 21:10:10,160 DEBUG ActivityFinder.Program - Found 505 activites from Ticketmaster
+2017-07-09 21:10:10,164 DEBUG ActivityFinder.Program - Ended
+2017-07-09 21:11:05,790 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:11:05,825 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:11:06,406 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1
+2017-07-09 21:11:06,693 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2
+2017-07-09 21:11:06,986 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 3
+2017-07-09 21:11:07,294 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 4
+2017-07-09 21:11:07,580 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 5
+2017-07-09 21:11:07,872 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 6
+2017-07-09 21:11:08,188 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 7
+2017-07-09 21:11:08,471 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 8
+2017-07-09 21:11:08,757 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 9
+2017-07-09 21:11:09,051 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 10
+2017-07-09 21:11:09,634 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 11
+2017-07-09 21:11:10,130 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 12
+2017-07-09 21:11:51,089 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:11:51,118 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:11:51,661 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1
+2017-07-09 21:11:51,946 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2
+2017-07-09 21:11:52,301 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 3
+2017-07-09 21:11:52,603 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 4
+2017-07-09 21:11:52,912 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 5
+2017-07-09 21:11:53,208 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 6
+2017-07-09 21:11:53,526 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 7
+2017-07-09 21:11:53,804 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 8
+2017-07-09 21:11:54,111 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 9
+2017-07-09 21:11:54,383 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 10
+2017-07-09 21:11:54,896 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 11
+2017-07-09 21:11:55,427 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 12
+2017-07-09 21:11:55,917 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 13
+2017-07-09 21:11:56,429 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 14
+2017-07-09 21:11:56,912 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 15
+2017-07-09 21:11:57,427 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 16
+2017-07-09 21:11:57,915 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 17
+2017-07-09 21:11:58,423 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 18
+2017-07-09 21:11:58,933 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 19
+2017-07-09 21:11:59,411 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 20
+2017-07-09 21:11:59,903 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 21
+2017-07-09 21:12:00,399 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 22
+2017-07-09 21:12:00,916 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 23
+2017-07-09 21:12:01,437 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 24
+2017-07-09 21:12:01,909 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 25
+2017-07-09 21:12:02,317 DEBUG ActivityFinder.Program - Found 505 activites from Ticketmaster
+2017-07-09 21:12:02,322 DEBUG ActivityFinder.Program - Ended
+2017-07-09 21:14:26,756 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:14:26,782 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:14:27,340 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1
+2017-07-09 21:14:27,620 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2
+2017-07-09 21:14:27,923 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 3
+2017-07-09 21:14:28,230 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 4
+2017-07-09 21:14:28,507 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 5
+2017-07-09 21:14:28,816 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 6
+2017-07-09 21:14:29,106 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 7
+2017-07-09 21:14:29,397 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 8
+2017-07-09 21:14:29,675 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 9
+2017-07-09 21:14:29,986 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 10
+2017-07-09 21:14:30,275 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 11
+2017-07-09 21:14:30,567 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 12
+2017-07-09 21:14:31,066 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 13
+2017-07-09 21:14:31,595 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 14
+2017-07-09 21:14:32,069 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 15
+2017-07-09 21:14:32,581 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 16
+2017-07-09 21:14:33,099 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 17
+2017-07-09 21:14:33,592 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 18
+2017-07-09 21:14:34,082 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 19
+2017-07-09 21:14:34,577 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 20
+2017-07-09 21:14:35,061 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 21
+2017-07-09 21:14:35,568 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 22
+2017-07-09 21:14:36,082 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 23
+2017-07-09 21:14:36,579 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 24
+2017-07-09 21:14:37,067 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 25
+2017-07-09 21:14:37,485 DEBUG ActivityFinder.Program - Found 505 activites from Ticketmaster
+2017-07-09 21:14:37,490 DEBUG ActivityFinder.Program - Added activities to database
+2017-07-09 21:15:42,540 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:15:42,571 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:15:43,202 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1
+2017-07-09 21:15:43,472 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2
+2017-07-09 21:15:43,780 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 3
+2017-07-09 21:15:44,075 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 4
+2017-07-09 21:15:44,390 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 5
+2017-07-09 21:15:44,687 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 6
+2017-07-09 21:15:44,977 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 7
+2017-07-09 21:15:45,290 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 8
+2017-07-09 21:15:45,565 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 9
+2017-07-09 21:15:45,864 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 10
+2017-07-09 21:15:46,349 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 11
+2017-07-09 21:15:47,170 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 12
+2017-07-09 21:15:47,451 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 13
+2017-07-09 21:15:47,869 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 14
+2017-07-09 21:15:48,372 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 15
+2017-07-09 21:15:48,868 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 16
+2017-07-09 21:15:49,356 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 17
+2017-07-09 21:15:49,877 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 18
+2017-07-09 21:15:50,356 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 19
+2017-07-09 21:15:50,854 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 20
+2017-07-09 21:15:51,365 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 21
+2017-07-09 21:15:51,850 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 22
+2017-07-09 21:15:52,352 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 23
+2017-07-09 21:15:52,879 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 24
+2017-07-09 21:15:53,348 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 25
+2017-07-09 21:15:53,762 DEBUG ActivityFinder.Program - Found 505 activites from Ticketmaster
+2017-07-09 21:15:53,766 DEBUG ActivityFinder.Program - Added activities to database
+2017-07-09 21:16:14,638 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:16:14,702 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:16:56,024 DEBUG ActivityFinder.Program - Started
+2017-07-09 21:16:56,053 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-09 21:16:56,630 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1
+2017-07-09 21:16:57,026 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2
+2017-07-09 21:16:57,329 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 3
+2017-07-09 21:16:57,617 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 4
+2017-07-09 21:16:57,923 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 5
+2017-07-09 21:16:58,224 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 6
+2017-07-09 21:16:58,508 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 7
+2017-07-09 21:16:58,796 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 8
+2017-07-09 21:16:59,071 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 9
+2017-07-09 21:16:59,376 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 10
+2017-07-09 21:16:59,841 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 11
+2017-07-09 21:17:00,337 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 12
+2017-07-09 21:17:00,858 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 13
+2017-07-09 21:17:01,373 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 14
+2017-07-09 21:17:01,848 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 15
+2017-07-09 21:17:02,338 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 16
+2017-07-09 21:17:02,832 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 17
+2017-07-09 21:17:03,357 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 18
+2017-07-09 21:17:03,860 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 19
+2017-07-09 21:17:04,344 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 20
+2017-07-09 21:17:04,888 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 21
+2017-07-09 21:17:05,424 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 22
+2017-07-09 21:17:05,861 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 23
+2017-07-09 21:17:06,354 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 24
+2017-07-09 21:17:06,863 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 25
+2017-07-09 21:17:07,269 DEBUG ActivityFinder.Program - Found 505 activites from Ticketmaster
+2017-07-09 21:17:07,275 DEBUG ActivityFinder.Program - Added activities to database
+2017-07-09 21:17:09,631 DEBUG ActivityFinder.Program - Ended

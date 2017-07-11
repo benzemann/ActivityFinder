@@ -1,0 +1,106 @@
+2017-07-12 00:04:47,650 DEBUG ActivityFinder.Program - Started
+2017-07-12 00:04:47,669 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Start iterating all latlongs and types
+2017-07-12 00:04:47,680 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-12 00:05:17,946 DEBUG ActivityFinder.Program - Started
+2017-07-12 00:05:17,969 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Start iterating all latlongs and types
+2017-07-12 00:05:17,984 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-12 00:05:24,572 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-12 00:05:30,570 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-12 00:05:32,328 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 57.048,9.9187
+2017-07-12 00:05:36,845 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 56.15674,10.21076
+2017-07-12 00:05:42,358 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67938,12.53463
+2017-07-12 00:05:44,570 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67938,12.53463
+2017-07-12 00:05:46,675 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67938,12.53463
+2017-07-12 00:05:47,119 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.39594,10.38831
+2017-07-12 00:05:51,781 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.39594,10.38831
+2017-07-12 00:05:53,250 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.25377,9.48982
+2017-07-12 00:05:56,603 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67594,12.56553
+2017-07-12 00:06:04,780 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67594,12.56553
+2017-07-12 00:06:08,567 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 57.048,9.9187
+2017-07-12 00:06:14,909 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 56.15674,10.21076
+2017-07-12 00:06:20,350 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67938,12.53463
+2017-07-12 00:06:23,124 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67938,12.53463
+2017-07-12 00:06:24,256 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.39594,10.38831
+2017-07-12 00:06:28,384 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.25377,9.48982
+2017-07-12 00:06:32,480 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.67594,12.56553
+2017-07-12 00:06:37,856 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 57.048,9.9187
+2017-07-12 00:06:39,489 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 56.15674,10.21076
+2017-07-12 00:06:40,267 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.67938,12.53463
+2017-07-12 00:06:42,121 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.39594,10.38831
+2017-07-12 00:06:42,301 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.25377,9.48982
+2017-07-12 00:06:42,676 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67594,12.56553
+2017-07-12 00:06:49,319 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67594,12.56553
+2017-07-12 00:06:55,678 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67594,12.56553
+2017-07-12 00:07:01,617 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 57.048,9.9187
+2017-07-12 00:07:06,776 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 57.048,9.9187
+2017-07-12 00:07:12,386 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 57.048,9.9187
+2017-07-12 00:07:19,021 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 56.15674,10.21076
+2017-07-12 00:07:25,988 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 56.15674,10.21076
+2017-07-12 00:07:32,244 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 56.15674,10.21076
+2017-07-12 00:07:38,788 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67938,12.53463
+2017-07-12 00:07:41,091 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67938,12.53463
+2017-07-12 00:07:43,911 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67938,12.53463
+2017-07-12 00:07:46,714 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.39594,10.38831
+2017-07-12 00:07:52,614 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.39594,10.38831
+2017-07-12 00:07:59,166 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.39594,10.38831
+2017-07-12 00:08:03,676 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.25377,9.48982
+2017-07-12 00:08:07,664 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.25377,9.48982
+2017-07-12 00:08:12,069 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.25377,9.48982
+2017-07-12 00:08:15,619 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.67594,12.56553
+2017-07-12 00:08:17,717 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 57.048,9.9187
+2017-07-12 00:08:18,722 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 56.15674,10.21076
+2017-07-12 00:08:20,250 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.67938,12.53463
+2017-07-12 00:08:20,888 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.39594,10.38831
+2017-07-12 00:08:22,261 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.25377,9.48982
+2017-07-12 00:08:23,123 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67594,12.56553
+2017-07-12 00:08:30,400 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67594,12.56553
+2017-07-12 00:08:37,159 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67594,12.56553
+2017-07-12 00:08:43,798 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 57.048,9.9187
+2017-07-12 00:08:50,060 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 56.15674,10.21076
+2017-07-12 00:08:56,922 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 56.15674,10.21076
+2017-07-12 00:08:57,953 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67938,12.53463
+2017-07-12 00:08:59,995 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67938,12.53463
+2017-07-12 00:09:02,218 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67938,12.53463
+2017-07-12 00:09:02,314 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.39594,10.38831
+2017-07-12 00:09:10,232 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.25377,9.48982
+2017-07-12 00:09:16,016 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.67594,12.56553
+2017-07-12 00:09:22,010 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 57.048,9.9187
+2017-07-12 00:09:28,973 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 57.048,9.9187
+2017-07-12 00:09:33,435 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 57.048,9.9187
+2017-07-12 00:09:39,706 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 56.15674,10.21076
+2017-07-12 00:09:47,681 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 56.15674,10.21076
+2017-07-12 00:09:55,904 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 56.15674,10.21076
+2017-07-12 00:10:02,151 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.67938,12.53463
+2017-07-12 00:10:05,518 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.39594,10.38831
+2017-07-12 00:10:13,519 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.39594,10.38831
+2017-07-12 00:10:20,101 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.39594,10.38831
+2017-07-12 00:10:25,910 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.25377,9.48982
+2017-07-12 00:10:32,465 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.25377,9.48982
+2017-07-12 00:10:38,196 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.25377,9.48982
+2017-07-12 00:10:44,601 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67594,12.56553
+2017-07-12 00:10:53,044 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67594,12.56553
+2017-07-12 00:11:00,364 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67594,12.56553
+2017-07-12 00:11:08,621 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 57.048,9.9187
+2017-07-12 00:11:14,753 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 57.048,9.9187
+2017-07-12 00:11:17,417 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 56.15674,10.21076
+2017-07-12 00:11:24,347 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 56.15674,10.21076
+2017-07-12 00:11:31,760 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 56.15674,10.21076
+2017-07-12 00:11:37,521 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67938,12.53463
+2017-07-12 00:11:42,812 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67938,12.53463
+2017-07-12 00:11:47,486 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67938,12.53463
+2017-07-12 00:11:52,350 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.39594,10.38831
+2017-07-12 00:11:58,670 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.39594,10.38831
+2017-07-12 00:12:03,307 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.25377,9.48982
+2017-07-12 00:12:09,135 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.25377,9.48982
+2017-07-12 00:12:13,673 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.25377,9.48982
+2017-07-12 00:12:14,166 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.67594,12.56553
+2017-07-12 00:12:18,007 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 57.048,9.9187
+2017-07-12 00:12:20,154 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 56.15674,10.21076
+2017-07-12 00:12:22,644 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.67938,12.53463
+2017-07-12 00:12:24,047 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.39594,10.38831
+2017-07-12 00:12:25,409 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.25377,9.48982
+2017-07-12 00:12:26,718 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps.
+2017-07-12 00:12:26,747 DEBUG ActivityFinder.Program - Found 1336 activities from googleMaps
+2017-07-12 00:12:27,156 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-12 00:12:38,550 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-12 00:12:38,554 DEBUG ActivityFinder.Program - Ended

@@ -1,0 +1,35 @@
+2017-07-09 20:14:34,186 DEBUG Logger - Starting ActivityFinder
+2017-07-09 20:19:04,488 DEBUG Logger - Starting ActivityFinder
+2017-07-09 20:19:04,881 ERROR ActivityFinder.TicketMasterAPI - .GetAllActivities(): Failed to get content from ticket master API. 
+Exception: Could not read data from Ticketmaster API. 
+Result from API: {"fault":{"faultstring":"Invalid ApiKey","detail":{"errorcode":"oauth.v2.InvalidApiKey"}}} 
+StacTrace:    ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMasterAPI.cs:linje 38
+2017-07-09 20:19:04,891 DEBUG Logger - Ending ActivityFinder
+2017-07-09 20:20:06,783 DEBUG Logger - Starting ActivityFinder
+2017-07-09 20:20:07,127 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Could not read data from Ticketmaster API. 
+Result from API: {"fault":{"faultstring":"Invalid ApiKey","detail":{"errorcode":"oauth.v2.InvalidApiKey"}}} 
+StacTrace:    ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMasterAPI.cs:linje 38
+2017-07-09 20:20:07,132 DEBUG Logger - Ending ActivityFinder
+2017-07-09 20:22:27,862 DEBUG Logger - Starting ActivityFinder
+2017-07-09 20:22:28,472 DEBUG Logger - Ending ActivityFinder
+2017-07-09 20:22:39,479 DEBUG Logger - Starting ActivityFinder
+2017-07-09 20:22:39,780 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Could not read data from Ticketmaster API. 
+Result from API: {"fault":{"faultstring":"Invalid ApiKey","detail":{"errorcode":"oauth.v2.InvalidApiKey"}}} 
+StacTrace:    ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMasterAPI.cs:linje 38
+2017-07-09 20:22:39,785 DEBUG Logger - Ending ActivityFinder
+2017-07-09 20:23:21,274 DEBUG Logger - Starting ActivityFinder
+2017-07-09 20:23:21,589 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Could not read data from Ticketmaster API.
+Result from API: {"fault":{"faultstring":"Invalid ApiKey","detail":{"errorcode":"oauth.v2.InvalidApiKey"}}} 
+StacTrace:    ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMasterAPI.cs:linje 38
+2017-07-09 20:23:21,595 DEBUG Logger - Ending ActivityFinder
+2017-07-09 20:26:46,601 DEBUG ActivityFinder.Program - ActivityFinder: Started
+2017-07-09 20:26:46,624 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Started
+2017-07-09 20:26:47,244 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Ended
+2017-07-09 20:26:47,248 DEBUG ActivityFinder.Program - ActivityFinder: Ended
+2017-07-09 20:27:35,579 DEBUG ActivityFinder.Program - ActivityFinder: Started
+2017-07-09 20:27:35,599 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Started
+2017-07-09 20:27:36,119 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Ended
+2017-07-09 20:27:36,124 DEBUG ActivityFinder.Program - ActivityFinder: Ended
