@@ -55,5 +55,9 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Stored procedures\DeleteAllData.sql" />
+    <Content Include="Stored procedures\FindCloseActivities.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
