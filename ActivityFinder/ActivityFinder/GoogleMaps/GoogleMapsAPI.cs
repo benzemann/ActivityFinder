@@ -17,28 +17,30 @@ namespace ActivityFinder.GoogleMaps
 
         private static readonly ILog log = log4net.LogManager.GetLogger
             (System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
-
+        #region Types
         private static string[] types = new string[] { "bowling_alley", "amusement_park", "aquarium", "art_gallery",
         "casino", "movie_theater", "museum", "spa", "zoo" };
+        #endregion
+        #region Search position
         private static string[] latlongs = new string[] { "55.67594,12.56553", "57.048,9.9187", "56.15674,10.21076",
-        "55.67938,12.53463", "55.39594,10.38831", "55.25377,9.48982" }; // mayor cities in DK
-
+        "55.67938,12.53463", "55.39594,10.38831", "55.25377,9.48982", "55.639589,12.096941" }; // mayor cities in DK
+        #endregion
         public async static Task GetAllActivities(List<Activity> activities)
         {
             log.Debug($"GetAllActivities: Start iterating all latlongs and types");
-
+            var googleActivities = new List<Activity>();
             foreach (var type in types)
             {
                 foreach(var latlong in latlongs)
                 {
-                    await GetAllActivities(activities, latlong, type);
+                    await GetAllActivities(googleActivities, latlong, type);
                 }
             }
             // Remove duplicates by place_id and remove it from the description field
-            activities = activities.AsEnumerable().GroupBy(x => x.Description).Select(x => x.First()).ToList();
+            activities.AddRange(googleActivities.AsEnumerable().GroupBy(x => x.Description).Select(x => x.FirstOrDefault()).ToList());
             foreach(var a in activities)
             {
-                a.Description = "";
+                a.Description = null;
             }
             
             log.Debug($"GetAllActivities: Getting events from google maps.");
@@ -126,11 +128,13 @@ namespace ActivityFinder.GoogleMaps
                                 where a.types.Contains("locality") && a.long_name != null
                                 select a.long_name).FirstOrDefault(),
                         Latitude = googleMapsDetailModel.result.geometry != null ?
-                                    googleMapsDetailModel.result.geometry.location.lat.ToString() : "",
+                                    googleMapsDetailModel.result.geometry.location.lat : 0.0,
                         Longitude = googleMapsDetailModel.result.geometry != null ?
-                                    googleMapsDetailModel.result.geometry.location.lng.ToString() : "",
+                                    googleMapsDetailModel.result.geometry.location.lng : 0.0,
                         Website = googleMapsDetailModel.result.website,
-                        Description = googleMapsDetailModel.result.place_id
+                        Description = googleMapsDetailModel.result.place_id,
+                        Category = googleMapsDetailModel.result.types != null ? 
+                        googleMapsDetailModel.result.types.FirstOrDefault() : ""
                     };
                     activities.Add(newActivity);
                 }

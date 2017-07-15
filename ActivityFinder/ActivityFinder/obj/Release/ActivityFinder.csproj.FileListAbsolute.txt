@@ -10,5 +10,6 @@ D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Release\Activity
 D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Release\EntityFramework.xml
 D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Release\EntityFramework.SqlServer.xml
 D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Release\log4net.xml
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\obj\Release\ActivityFinder.csprojResolveAssemblyReference.cache
 D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\obj\Release\ActivityFinder.exe
 D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\obj\Release\ActivityFinder.pdb

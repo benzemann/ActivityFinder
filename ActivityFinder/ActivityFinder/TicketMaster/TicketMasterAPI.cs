@@ -25,8 +25,8 @@ namespace ActivityFinder
             {
                 // Get data from api
                 var http = new HttpClient();
-                var url = $"https://app.ticketmaster.eu/discovery/v2/events?apikey=" +
-                    $"{ ConfigurationManager.AppSettings["TicketMasterAPIKey"] }&page={pageNumber}&countryCode=DK";
+                var url = $"https://app.ticketmaster.eu/mfxapi/v1/events?domain_ids=denmark&rows=250&apikey=" +
+                    $"{ ConfigurationManager.AppSettings["TicketMasterAPIKey"] }&start={pageNumber}";
                 var response = await http.GetAsync(url);
                 var result = await response.Content.ReadAsStringAsync();
                 var serializer = new DataContractJsonSerializer(typeof(TicketMasterModel));
@@ -34,13 +34,12 @@ namespace ActivityFinder
                 var ms = new MemoryStream(Encoding.UTF8.GetBytes(result));
                 var ticketMasterModel = (TicketMasterModel)serializer.ReadObject(ms);
                 // Check for errors 
-                if (ticketMasterModel._embedded == null || ticketMasterModel._links == null ||
-                    ticketMasterModel.page == null)
+                if (ticketMasterModel.events == null)
                 {
                     throw new Exception($"Could not read data from Ticketmaster API.{Environment.NewLine}Result from API: {result}");
                 }
                 // Create and add all events from ticketmaster
-                foreach(var tmEvent in ticketMasterModel._embedded.events)
+                foreach(var tmEvent in ticketMasterModel.events)
                 {
                     var newActivity = new Activity
                     {
@@ -48,22 +47,30 @@ namespace ActivityFinder
                         Title = tmEvent.name,
                         Image = tmEvent.images != null && tmEvent.images.Count > 0 ? 
                         tmEvent.images.FirstOrDefault().url : "",
-                        StartDate = tmEvent.dates != null ? tmEvent.dates.start.dateTime : "",
-                        Price = tmEvent.priceRanges != null ? tmEvent.priceRanges.ToString() : "",
+                        StartDate = tmEvent.eventdate != null ? tmEvent.eventdate.value : "",
+                        Price = tmEvent.price_ranges != null ? (tmEvent.price_ranges.including_ticket_fees != null ?
+                        "Min: " + tmEvent.price_ranges.including_ticket_fees.min +
+                        " Max: " + tmEvent.price_ranges.including_ticket_fees.max : "") : "",
                         Url = tmEvent.url,
-                        Address = tmEvent._embedded.venues != null && tmEvent._embedded.venues.Count > 0 ?
-                        tmEvent._embedded.venues.FirstOrDefault().address.line1 : "",
-                        PostalCode = tmEvent._embedded.venues != null && tmEvent._embedded.venues.Count > 0 ?
-                        tmEvent._embedded.venues.FirstOrDefault().postalCode : "",
-                        City = tmEvent._embedded.venues != null && tmEvent._embedded.venues.Count > 0 ?
-                        tmEvent._embedded.venues.FirstOrDefault().city.name : ""
+                        Address = tmEvent.venue != null ? 
+                        (tmEvent.venue.location.address != null ? tmEvent.venue.location.address.address : "") : "",
+                        PostalCode = tmEvent.venue != null ? 
+                        (tmEvent.venue.location.address != null ? tmEvent.venue.location.address.postal_code : "") : "",
+                        City = tmEvent.venue != null ? 
+                        (tmEvent.venue.location.address != null ? tmEvent.venue.location.address.city : "") : "",
+                        Latitude = tmEvent.venue != null ? 
+                        (tmEvent.venue.location.address != null ? tmEvent.venue.location.address.lat : 0.0) : 0.0,
+                        Longitude = tmEvent.venue != null ? 
+                        (tmEvent.venue.location.address != null ? tmEvent.venue.location.address.@long : 0.0) : 0.0,
+                        Category = tmEvent.categories != null ? tmEvent.categories.FirstOrDefault().name : "",
+                        Website = tmEvent.url
                     };
                     activities.Add(newActivity);
                 }
                 // Get events from the next page if not on the last page
-                if(pageNumber < ticketMasterModel.page.totalPages - 1)
+                if(pageNumber + 250 < ticketMasterModel.pagination.total)
                 {
-                    GetAllActivities(activities, ++pageNumber).Wait();
+                    GetAllActivities(activities, pageNumber + 250).Wait();
                 }
             } catch(Exception e)
             {

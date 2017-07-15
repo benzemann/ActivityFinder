@@ -21,14 +21,18 @@ namespace ActivityFinder
             // List of to store all activites from the different sites
             var activities = new List<Activity>();
             // Get Activities from ticket master
-            //TicketMasterAPI.GetAllActivities(activities).Wait();
-            //log.Debug($"Found {activities.Count} activites from Ticketmaster");
-
-            GoogleMaps.GoogleMapsAPI.GetAllActivities(activities).Wait();
-            log.Debug($"Found {activities.Count} activities from googleMaps");
-
+            var ticketMasterActivities = new List<Activity>();
+            TicketMasterAPI.GetAllActivities(ticketMasterActivities).Wait();
+            log.Debug($"Found {ticketMasterActivities.Count} activites from Ticketmaster");
+            // Get Activities from google maps
+            var googleMapsActivities = new List<Activity>();
+            GoogleMaps.GoogleMapsAPI.GetAllActivities(googleMapsActivities).Wait();
+            log.Debug($"Found {googleMapsActivities.Count} activities from googleMaps");
+            // Add all activities to the database
+            activities.AddRange(ticketMasterActivities);
+            activities.AddRange(googleMapsActivities);
+            log.Debug($"Total number of activities found: {activities.Count}");
             CreateActivitiesInDB(activities);
-
             log.Debug("Ended");
             Console.ReadLine();
         }

@@ -15,14 +15,14 @@ namespace ActivityModel
         public string Address { get; set; }
         public string PostalCode { get; set; }
         public string City { get; set; }
-        public string Latitude { get; set; }
-        public string Longitude { get; set; }
+        public double Latitude { get; set; }
+        public double Longitude { get; set; }
         public string Website { get; set; }
         public string OpenHours { get; set; }
         public string StartDate { get; set; }
         public string EndDate { get; set; }
         public string Price { get; set; }
         public string Url { get; set; }
-        public int Category { get; set; }
+        public string Category { get; set; }
     }
 }

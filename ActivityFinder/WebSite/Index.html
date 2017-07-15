@@ -1,0 +1,173 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script src="Scripts/jquery-3.1.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="activity_search.js"></script>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        #custom-search-input {
+            font-family: Arial, sans-serif;
+            padding: 3px;
+            border: solid 1px #E4E4E4;
+            border-radius: 6px;
+            background-color: #fff;
+        }
+        #custom-search-input input {
+            font-family: Arial, sans-serif;
+            border: 0;
+            box-shadow: none;
+        }
+        #custom-search-input button {
+            margin: 2px 0 0 0;
+            background: none;
+            box-shadow: none;
+            border: 0;
+            color: #666666;
+            padding: 0 8px 0 10px;
+            border-left: solid 1px #ccc;
+        }
+        #custom-search-input button:hover {
+            border: 0;
+            box-shadow: none;
+            border-left: solid 1px #ccc;
+        }
+        #custom-search-input .glyphicon-search {
+            font-size: 23px;
+        }
+        h2 {
+            font-family: Arial, sans-serif;
+            font-size: 24px;
+            text-transform: uppercase;
+            color: #000000;
+            font-weight: 600;
+            margin-bottom: 30px;
+        }
+
+        h4 {
+            font-family: Arial, sans-serif;
+            font-size: 19px;
+            line-height: 1.375em;
+            color: #88453e;
+            font-weight: 400;
+            margin-bottom: 30px;
+        }
+        .jumbotron {
+            background-color: #52B278;
+            color: #fff;
+            padding: 100px 25px;
+            font-family: Arial, sans-serif;
+        }
+        .activity_title{
+            padding: 10px;
+            font-family: Arial, sans-serif;
+            font-size: x-large;
+        }
+        .activity_category {
+            padding: 0px 10px;
+            font-family: Arial, sans-serif;
+            color: #777777;
+        }
+        .activity_icon{
+            padding: 10px 10px;
+            width: 100%;
+        }
+        .activity_icon_tekst{
+            padding: 5px;
+            font: initial;
+            font-family: Arial, sans-serif;
+            font-size: smaller;
+        }
+        .nounderline {
+            color: #000000 !important;
+            text-decoration: none !important;
+        }
+        .copyright {
+            min-height: 40px;
+            background-color: #000000;
+        }
+        .copyright p {
+            text-align: left;
+            color: #FFF;
+            padding: 10px 0;
+            margin-bottom: 0px;
+        }
+        .bottom_ul {
+            list-style-type: none;
+            float: right;
+            margin-bottom: 0px;
+        }
+        .bottom_ul li {
+            float: left;
+            line-height: 40px;
+        }
+        .bottom_ul li:after {
+            content: "/";
+            color: #FFF;
+            margin-right: 8px;
+            margin-left: 8px;
+        }
+        .bottom_ul li a {
+            color: #FFF;
+            font-size: 12px;
+        }
+    </style>
+    <title>Find Aktiviteter</title>
+</head>
+<body>
+    <!--Search area-->
+    <div class="jumbotron text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-10 col-sm-8 col-md-6 col-lg-6 col-xs-offset-1 col-sm-offset-2 col-md-offset-3 col-lg-offset-3">
+                    <h2>Find aktiviteter i nærheden</h2>
+                    <div id="custom-search-input">
+                        <div class="input-group col-md-12">
+                            <input type="text" class="form-control input-lg" placeholder="By, postnummer, adresse" id="search_area" />
+                            <span class="input-group-btn" id="search_btn">
+                                <button class="btn btn-info btn-lg" type="button">
+                                    <i class="glyphicon glyphicon-search"></i>
+                                </button>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Activities -->
+    <div class="container">
+        <div class="row" id="activity_rows">
+            <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-md-3 col-lg-3 col-sm-offset-0">
+                <a class="nounderline" href="http://www.ticketmaster.dk/event/428197?language=da-dk&track=DiscoveryAPI&subchannel_id=1">
+                    <div class="panel panel-default">
+                        <div class="activity_title">INFERNAL</div>
+                        <div class="activity_category">Musik</div>
+                        <img src="http://media.ticketmaster.com/img/tat/dam/a/71d/d7271cd3-9989-4728-8f4f-a5c57302271d_377681_CUSTOM.jpg"
+                             class="img-responsive" style="padding-left: 0px;  padding-right: 0px;" />
+                        <div class="activity_icon glyphicon glyphicon-calendar"><i class="activity_icon_tekst">27-10-2017 19:00</i></div>
+                        <div class="activity_icon glyphicon glyphicon-map-marker"><i class="activity_icon_tekst">Toldbodgade 6, 8000 Aarhus C</i></div>
+                        <div class="activity_icon glyphicon glyphicon-piggy-bank"><i class="activity_icon_tekst">200 kr.</i></div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <!--Footer-->
+    <div class="copyright">
+        <div class="container">
+            <div class="col-md-6">
+                <p>Find Aktiviteter</p>
+            </div>
+            <div class="col-md-6">
+                <ul class="bottom_ul">
+                    <li><a href="http://findaktiviteter.dk">findaktiviteter.dk</a></li>
+                    <li><a href="#">Om Find Aktiviteter</a></li>
+                    <li><a href="#">Kontakt</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,1525 @@
+2017-07-13 00:03:33,476 DEBUG ActivityFinder.Program - Started
+2017-07-13 00:03:33,498 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Start iterating all latlongs and types
+2017-07-13 00:03:33,516 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-13 00:03:38,072 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-13 00:03:42,053 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-13 00:03:42,710 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 57.048,9.9187
+2017-07-13 00:03:46,074 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 56.15674,10.21076
+2017-07-13 00:03:49,756 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67938,12.53463
+2017-07-13 00:03:51,403 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67938,12.53463
+2017-07-13 00:03:53,041 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67938,12.53463
+2017-07-13 00:03:53,135 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.39594,10.38831
+2017-07-13 00:03:57,045 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.39594,10.38831
+2017-07-13 00:03:57,858 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.25377,9.48982
+2017-07-13 00:04:00,243 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67594,12.56553
+2017-07-13 00:04:04,908 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67594,12.56553
+2017-07-13 00:04:07,154 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 57.048,9.9187
+2017-07-13 00:04:11,031 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 56.15674,10.21076
+2017-07-13 00:04:14,956 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67938,12.53463
+2017-07-13 00:04:16,797 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67938,12.53463
+2017-07-13 00:04:16,895 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.39594,10.38831
+2017-07-13 00:04:19,727 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.25377,9.48982
+2017-07-13 00:04:22,521 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.67594,12.56553
+2017-07-13 00:04:25,583 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 57.048,9.9187
+2017-07-13 00:04:26,504 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 56.15674,10.21076
+2017-07-13 00:04:26,846 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.67938,12.53463
+2017-07-13 00:04:28,059 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.39594,10.38831
+2017-07-13 00:04:28,180 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.25377,9.48982
+2017-07-13 00:04:28,434 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67594,12.56553
+2017-07-13 00:04:32,578 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67594,12.56553
+2017-07-13 00:04:37,151 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67594,12.56553
+2017-07-13 00:04:42,071 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 57.048,9.9187
+2017-07-13 00:04:46,290 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 57.048,9.9187
+2017-07-13 00:04:50,160 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 57.048,9.9187
+2017-07-13 00:04:55,043 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 56.15674,10.21076
+2017-07-13 00:04:59,989 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 56.15674,10.21076
+2017-07-13 00:05:03,921 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 56.15674,10.21076
+2017-07-13 00:05:09,005 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67938,12.53463
+2017-07-13 00:05:10,743 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67938,12.53463
+2017-07-13 00:05:10,838 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.39594,10.38831
+2017-07-13 00:05:14,601 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.39594,10.38831
+2017-07-13 00:05:18,327 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.39594,10.38831
+2017-07-13 00:05:21,085 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.25377,9.48982
+2017-07-13 00:05:24,498 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.25377,9.48982
+2017-07-13 00:05:28,255 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.25377,9.48982
+2017-07-13 00:05:30,836 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.67594,12.56553
+2017-07-13 00:05:32,148 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 57.048,9.9187
+2017-07-13 00:05:32,779 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 56.15674,10.21076
+2017-07-13 00:05:33,781 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.67938,12.53463
+2017-07-13 00:05:35,021 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.39594,10.38831
+2017-07-13 00:05:35,828 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.25377,9.48982
+2017-07-13 00:05:36,433 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67594,12.56553
+2017-07-13 00:05:41,154 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67594,12.56553
+2017-07-13 00:05:47,249 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67594,12.56553
+2017-07-13 00:05:52,535 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 57.048,9.9187
+2017-07-13 00:05:57,524 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 56.15674,10.21076
+2017-07-13 00:06:02,760 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 56.15674,10.21076
+2017-07-13 00:06:03,685 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67938,12.53463
+2017-07-13 00:06:06,032 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67938,12.53463
+2017-07-13 00:06:08,487 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67938,12.53463
+2017-07-13 00:06:11,178 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.39594,10.38831
+2017-07-13 00:06:15,780 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.25377,9.48982
+2017-07-13 00:06:19,421 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.67594,12.56553
+2017-07-13 00:06:23,857 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 57.048,9.9187
+2017-07-13 00:06:29,201 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 57.048,9.9187
+2017-07-13 00:06:33,207 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 57.048,9.9187
+2017-07-13 00:06:38,193 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 56.15674,10.21076
+2017-07-13 00:06:43,723 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 56.15674,10.21076
+2017-07-13 00:06:49,507 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 56.15674,10.21076
+2017-07-13 00:06:54,165 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.67938,12.53463
+2017-07-13 00:06:57,142 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.39594,10.38831
+2017-07-13 00:07:03,076 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.39594,10.38831
+2017-07-13 00:07:08,336 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.39594,10.38831
+2017-07-13 00:07:12,705 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.25377,9.48982
+2017-07-13 00:07:17,414 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.25377,9.48982
+2017-07-13 00:07:22,770 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.25377,9.48982
+2017-07-13 00:07:28,061 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67594,12.56553
+2017-07-13 00:07:33,384 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67594,12.56553
+2017-07-13 00:07:37,788 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67594,12.56553
+2017-07-13 00:07:42,100 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 57.048,9.9187
+2017-07-13 00:07:47,579 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 57.048,9.9187
+2017-07-13 00:07:50,661 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 56.15674,10.21076
+2017-07-13 00:07:55,717 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 56.15674,10.21076
+2017-07-13 00:08:01,134 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 56.15674,10.21076
+2017-07-13 00:08:05,948 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67938,12.53463
+2017-07-13 00:08:08,491 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67938,12.53463
+2017-07-13 00:08:11,437 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67938,12.53463
+2017-07-13 00:08:14,256 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.39594,10.38831
+2017-07-13 00:08:18,757 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.39594,10.38831
+2017-07-13 00:08:22,195 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.25377,9.48982
+2017-07-13 00:08:27,145 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.25377,9.48982
+2017-07-13 00:08:31,345 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.25377,9.48982
+2017-07-13 00:08:31,962 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.67594,12.56553
+2017-07-13 00:08:34,428 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 57.048,9.9187
+2017-07-13 00:08:36,260 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 56.15674,10.21076
+2017-07-13 00:08:38,309 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.67938,12.53463
+2017-07-13 00:08:39,891 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.39594,10.38831
+2017-07-13 00:08:40,869 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.25377,9.48982
+2017-07-13 00:08:42,329 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps.
+2017-07-13 00:08:42,335 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-13 00:08:42,638 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-13 00:08:55,646 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-13 00:08:55,650 DEBUG ActivityFinder.Program - Ended
+2017-07-13 00:14:15,328 DEBUG ActivityFinder.Program - Started
+2017-07-13 00:14:15,359 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Start iterating all latlongs and types
+2017-07-13 00:14:15,391 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-13 00:14:19,919 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-13 00:14:23,633 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-13 00:14:24,542 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 57.048,9.9187
+2017-07-13 00:14:27,817 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 56.15674,10.21076
+2017-07-13 00:14:30,877 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67938,12.53463
+2017-07-13 00:14:32,737 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67938,12.53463
+2017-07-13 00:14:34,391 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67938,12.53463
+2017-07-13 00:14:34,648 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.39594,10.38831
+2017-07-13 00:14:38,121 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.39594,10.38831
+2017-07-13 00:14:38,979 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.25377,9.48982
+2017-07-13 00:14:41,242 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67594,12.56553
+2017-07-13 00:14:45,618 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67594,12.56553
+2017-07-13 00:14:47,768 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 57.048,9.9187
+2017-07-13 00:14:51,130 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 56.15674,10.21076
+2017-07-13 00:14:54,667 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67938,12.53463
+2017-07-13 00:14:56,332 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67938,12.53463
+2017-07-13 00:14:57,271 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.39594,10.38831
+2017-07-13 00:14:59,930 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.25377,9.48982
+2017-07-13 00:15:02,021 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.67594,12.56553
+2017-07-13 00:15:04,710 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 57.048,9.9187
+2017-07-13 00:15:05,700 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 56.15674,10.21076
+2017-07-13 00:15:06,204 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.67938,12.53463
+2017-07-13 00:15:07,553 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.39594,10.38831
+2017-07-13 00:15:07,661 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.25377,9.48982
+2017-07-13 00:15:07,921 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67594,12.56553
+2017-07-13 00:15:11,735 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67594,12.56553
+2017-07-13 00:15:15,740 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67594,12.56553
+2017-07-13 00:15:20,436 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 57.048,9.9187
+2017-07-13 00:15:23,821 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 57.048,9.9187
+2017-07-13 00:15:27,400 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 57.048,9.9187
+2017-07-13 00:15:31,619 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 56.15674,10.21076
+2017-07-13 00:15:36,206 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 56.15674,10.21076
+2017-07-13 00:15:39,462 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 56.15674,10.21076
+2017-07-13 00:15:42,969 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67938,12.53463
+2017-07-13 00:15:44,553 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67938,12.53463
+2017-07-13 00:15:44,652 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.39594,10.38831
+2017-07-13 00:15:48,108 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.39594,10.38831
+2017-07-13 00:15:51,380 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.39594,10.38831
+2017-07-13 00:15:53,614 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.25377,9.48982
+2017-07-13 00:15:56,556 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.25377,9.48982
+2017-07-13 00:15:59,384 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.25377,9.48982
+2017-07-13 00:16:01,677 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.67594,12.56553
+2017-07-13 00:16:02,834 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 57.048,9.9187
+2017-07-13 00:16:03,357 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 56.15674,10.21076
+2017-07-13 00:16:04,467 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.67938,12.53463
+2017-07-13 00:16:04,994 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.39594,10.38831
+2017-07-13 00:16:05,605 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.25377,9.48982
+2017-07-13 00:16:06,208 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67594,12.56553
+2017-07-13 00:16:10,897 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67594,12.56553
+2017-07-13 00:16:15,224 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67594,12.56553
+2017-07-13 00:16:19,147 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 57.048,9.9187
+2017-07-13 00:16:23,720 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 56.15674,10.21076
+2017-07-13 00:16:29,147 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 56.15674,10.21076
+2017-07-13 00:16:29,763 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67938,12.53463
+2017-07-13 00:16:31,795 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67938,12.53463
+2017-07-13 00:16:33,979 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67938,12.53463
+2017-07-13 00:16:35,780 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.39594,10.38831
+2017-07-13 00:16:39,592 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.25377,9.48982
+2017-07-13 00:16:42,513 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.67594,12.56553
+2017-07-13 00:16:46,052 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 57.048,9.9187
+2017-07-13 00:16:50,549 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 57.048,9.9187
+2017-07-13 00:16:54,049 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 57.048,9.9187
+2017-07-13 00:16:58,025 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 56.15674,10.21076
+2017-07-13 00:17:02,837 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 56.15674,10.21076
+2017-07-13 00:17:07,262 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 56.15674,10.21076
+2017-07-13 00:17:10,926 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.67938,12.53463
+2017-07-13 00:17:12,782 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.39594,10.38831
+2017-07-13 00:17:17,481 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.39594,10.38831
+2017-07-13 00:17:21,510 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.39594,10.38831
+2017-07-13 00:17:25,163 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.25377,9.48982
+2017-07-13 00:17:29,071 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.25377,9.48982
+2017-07-13 00:17:33,251 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.25377,9.48982
+2017-07-13 00:17:37,140 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67594,12.56553
+2017-07-13 00:17:41,302 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67594,12.56553
+2017-07-13 00:17:45,183 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67594,12.56553
+2017-07-13 00:17:49,547 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 57.048,9.9187
+2017-07-13 00:17:53,423 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 57.048,9.9187
+2017-07-13 00:17:55,279 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 56.15674,10.21076
+2017-07-13 00:18:00,285 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 56.15674,10.21076
+2017-07-13 00:18:04,662 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 56.15674,10.21076
+2017-07-13 00:18:08,680 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67938,12.53463
+2017-07-13 00:18:10,464 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67938,12.53463
+2017-07-13 00:18:12,286 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67938,12.53463
+2017-07-13 00:18:14,172 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.39594,10.38831
+2017-07-13 00:18:18,206 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.39594,10.38831
+2017-07-13 00:18:21,601 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.25377,9.48982
+2017-07-13 00:18:25,476 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.25377,9.48982
+2017-07-13 00:18:28,660 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.25377,9.48982
+2017-07-13 00:18:29,165 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.67594,12.56553
+2017-07-13 00:18:31,477 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 57.048,9.9187
+2017-07-13 00:18:33,052 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 56.15674,10.21076
+2017-07-13 00:18:34,899 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.67938,12.53463
+2017-07-13 00:18:35,872 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.39594,10.38831
+2017-07-13 00:18:36,866 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.25377,9.48982
+2017-07-13 00:18:38,047 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps.
+2017-07-13 00:18:38,056 DEBUG ActivityFinder.Program - Found 1040 activities from googleMaps
+2017-07-13 00:18:38,100 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-13 00:18:41,341 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-13 00:18:41,345 DEBUG ActivityFinder.Program - Ended
+2017-07-13 21:31:07,645 DEBUG ActivityFinder.Program - Started
+2017-07-13 21:31:07,670 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-13 21:31:09,058 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Could not read data from Ticketmaster API.
+Result from API: {
+  "events": [
+    {
+      "id": "431557",
+      "domain_id": "denmark",
+      "name": "Acoustic Guitars - latin/world/folk",
+      "url": "http://www.ticketmaster.dk/event/431557?language=da-dk&track=DiscoveryAPI&subchannel_id=1",
+      "externalUrl": false,
+      "eventdate": {
+        "format": "datetime",
+        "value": "2017-07-14T12:00:00Z"
+      },
+      "day_of_week": "Fredag",
+      "timezone": "Europe/Copenhagen",
+      "localeventdate": "2017-07-14T14:00:00Z",
+      "images": [
+        {
+          "url": "http://media.ticketmaster.com/img/tat/cft1/201505/20/652440.png",
+          "type": "large",
+          "width": 305,
+          "height": 225
+        },
+        {
+          "url": "http://media.ticketmaster.com/img/tat/cft1/201505/20/652450.png",
+          "type": "standard",
+          "width": 205,
+          "height": 115
+        }
+      ],
+      "onsale": {
+        "format": "datetime",
+        "value": "2017-06-10T18:52:22Z"
+      },
+      "offsale": {
+        "format": "datetime",
+        "value": "2017-07-14T11:00:00Z"
+      },
+      "properties": {
+        "cancelled": false,
+        "rescheduled": false,
+        "seats_avail": true,
+        "sold_out": false,
+        "package": false,
+        "canceled": false
+      },
+      "venue": {
+        "id": "8367",
+        "name": "Bartof Café",
+        "url": "http://www.ticketmaster.dk/venue/bartof-cafe-frederiksberg-billetter/BAE/303?track=DiscoveryAPI&language=da-dk&subchannel_id=1",
+        "location": {
+          "address": {
+            "address": "Nordre Fasanvej 46",
+            "postal_code": "2000",
+            "city": "Frederiksberg",
+            "country": "Danmark",
+            "long": 12.52463,
+            "lat": 55.68381
+          }
+        }
+      },
+      "categories": [
+        {
+          "name": "Musik",
+          "id": 10001,
+          "subcategories": [
+            {
+              "name": "Jazz/Blues",
+              "id": 4
+            }
+          ]
+        }
+      ],
+      "attractions": [
+        {
+          "id": 960062,
+          "name": "Mikkel Nordsø Band",
+          "url": "http://www.ticketmaster.dk/artist/mikkel-nordso-band-billetter/960062?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        },
+        {
+          "id": 972081,
+          "name": "Steen Kyed",
+          "url": "http://www.ticketmaster.dk/artist/steen-kyed-billetter/972081?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        },
+        {
+          "id": 969688,
+          "name": "Christian Ratzer",
+          "url": "http://www.ticketmaster.dk/artist/christian-ratzer-billetter/969688?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        }
+      ],
+      "price_ranges": {
+        "excluding_ticket_fees": {
+          "min": 100,
+          "max": 100
+        },
+        "including_ticket_fees": {
+          "min": 110,
+          "max": 110
+        }
+      },
+      "currency": "DKK"
+    },
+    {
+      "id": "431363",
+      "domain_id": "denmark",
+      "name": "Melissa Stylianou (USA), Nikolaj Hess, Graig Earle & Janus Templeton",
+      "url": "http://www.ticketmaster.dk/event/431363?language=da-dk&track=DiscoveryAPI&subchannel_id=1",
+      "externalUrl": false,
+      "eventdate": {
+        "format": "datetime",
+        "value": "2017-07-14T13:00:00Z"
+      },
+      "day_of_week": "Fredag",
+      "timezone": "Europe/Copenhagen",
+      "localeventdate": "2017-07-14T15:00:00Z",
+      "images": [
+        {
+          "url": "http://media.ticketmaster.com/img/tat/dam/a/858/47ff4c19-4833-409c-8969-ed2ae28d2858_252931_CUSTOM.jpg",
+          "type": "large",
+          "width": 305,
+          "height": 225
+        },
+        {
+          "url": "http://media.ticketmaster.com/img/tat/dam/a/858/47ff4c19-4833-409c-8969-ed2ae28d2858_252931_EVENT_DETAIL_PAGE_16_9.jpg",
+          "type": "standard",
+          "width": 205,
+          "height": 115
+        }
+      ],
+      "onsale": {
+        "format": "datetime",
+        "value": "2017-06-08T10:08:08Z"
+      },
+      "offsale": {
+        "format": "datetime",
+        "value": "2017-07-14T12:00:00Z"
+      },
+      "properties": {
+        "cancelled": false,
+        "rescheduled": false,
+        "seats_avail": true,
+        "sold_out": false,
+        "package": false,
+        "canceled": false
+      },
+      "venue": {
+        "id": "8369",
+        "name": "Bartof Station",
+        "url": "http://www.ticketmaster.dk/venue/bartof-station-frederiksberg-billetter/BAR/303?track=DiscoveryAPI&language=da-dk&subchannel_id=1",
+        "location": {
+          "address": {
+            "address": "Solbjergvej 3 A",
+            "postal_code": "2000",
+            "city": "Frederiksberg",
+            "country": "Danmark",
+            "long": 12.53329,
+            "lat": 55.681
+          }
+        }
+      },
+      "categories": [
+        {
+          "name": "Musik",
+          "id": 10001,
+          "subcategories": [
+            {
+              "name": "Jazz/Blues",
+              "id": 4
+            }
+          ]
+        }
+      ],
+      "attractions": [
+        {
+          "id": 27627,
+          "name": "Melissa Styliano",
+          "url": "http://www.ticketmaster.dk/artist/melissa-styliano-billetter/27627?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        },
+        {
+          "id": 966982,
+          "name": "Nikolaj Hess",
+          "url": "http://www.ticketmaster.dk/artist/nikolaj-hess-billetter/966982?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        }
+      ],
+      "price_ranges": {
+        "excluding_ticket_fees": {
+          "min": 140,
+          "max": 260
+        },
+        "including_ticket_fees": {
+          "min": 155,
+          "max": 275
+        }
+      },
+      "currency": "DKK"
+    },
+    {
+      "id": "425583",
+      "domain_id": "denmark",
+      "name": "Cirkus Arena - Nordens Største Cirkus m. Bubber",
+      "url": "http://www.ticketmaster.dk/event/425583?language=da-dk&track=DiscoveryAPI&subchannel_id=1",
+      "externalUrl": false,
+      "eventdate": {
+        "format": "datetime",
+        "value": "2017-07-14T15:00:00Z"
+      },
+      "day_of_week": "Fredag",
+      "timezone": "Europe/Copenhagen",
+      "localeventdate": "2017-07-14T17:00:00Z",
+      "images": [
+        {
+          "url": "http://media.ticketmaster.com/img/tat/dam/a/ac3/b354a376-a41b-4a35-bd04-8cfd38852ac3_275841_CUSTOM.jpg",
+          "type": "large",
+          "width": 305,
+          "height": 225
+        },
+        {
+          "url": "http://media.ticketmaster.com/img/tat/dam/a/ac3/b354a376-a41b-4a35-bd04-8cfd38852ac3_275841_EVENT_DETAIL_PAGE_16_9.jpg",
+          "type": "standard",
+          "width": 205,
+          "height": 115
+        }
+      ],
+      "onsale": {
+        "format": "datetime",
+        "value": "2017-03-10T09:00:00Z"
+      },
+      "offsale": {
+        "format": "datetime",
+        "value": "2017-07-14T15:00:00Z"
+      },
+      "properties": {
+        "cancelled": false,
+        "rescheduled": false,
+        "seats_avail": true,
+        "sold_out": false,
+        "package": false,
+        "canceled": false
+      },
+      "venue": {
+        "id": "7929",
+        "name": "Mosede Fort",
+        "url": "http://www.ticketmaster.dk/venue/mosede-fort-greve-billetter/A079/203?track=DiscoveryAPI&language=da-dk&subchannel_id=1",
+        "location": {
+          "address": {
+            "address": "Mosede Strandvej 87 A",
+            "postal_code": "2670",
+            "city": "Greve",
+            "country": "Danmark",
+            "long": 12.27428,
+            "lat": 55.56428
+          }
+        }
+      },
+      "categories": [
+        {
+          "name": "Familie",
+          "id": 10003,
+          "subcategories": [
+            {
+              "name": "Mere familie",
+              "id": 55
+            },
+            {
+              "name": "Cirkus",
+              "id": 1115
+            }
+          ]
+        }
+      ],
+      "attractions": [
+        {
+          "id": 980981,
+          "name": "Cirkus Arena Bubber",
+          "url": "http://www.ticketmaster.dk/artist/cirkus-arena-bubber-billetter/980981?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        },
+        {
+          "id": 954615,
+          "name": "Cirkus Arena",
+          "url": "http://www.ticketmaster.dk/artist/cirkus-arena-billetter/954615?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        }
+      ],
+      "price_ranges": {
+        "excluding_ticket_fees": {
+          "min": 160,
+          "max": 350
+        },
+        "including_ticket_fees": {
+          "min": 170,
+          "max": 360
+        }
+      },
+      "currency": "DKK"
+    },
+    {
+      "id": "430771",
+      "domain_id": "denmark",
+      "name": "Sommer Jam på Residensen - Thomas Ring",
+      "url": "http://www.ticketmaster.dk/event/430771?language=da-dk&track=DiscoveryAPI&subchannel_id=1",
+      "externalUrl": false,
+      "eventdate": {
+        "format": "datetime",
+        "value": "2017-07-14T15:00:00Z"
+      },
+      "day_of_week": "Fredag",
+      "timezone": "Europe/Copenhagen",
+      "localeventdate": "2017-07-14T17:00:00Z",
+      "images": [
+        {
+          "url": "http://media.ticketmaster.com/img/tat/dam/a/5bc/ea12a12f-4239-4345-84a2-92e7377195bc_423651_CUSTOM.jpg",
+          "type": "large",
+          "width": 305,
+          "height": 225
+        },
+        {
+          "url": "http://media.ticketmaster.com/img/tat/dam/a/5bc/ea12a12f-4239-4345-84a2-92e7377195bc_423651_EVENT_DETAIL_PAGE_16_9.jpg",
+          "type": "standard",
+          "width": 205,
+          "height": 115
+        }
+      ],
+      "onsale": {
+        "format": "datetime",
+        "value": "2017-05-26T11:43:00Z"
+      },
+      "offsale": {
+        "format": "datetime",
+        "value": "2017-07-14T15:00:00Z"
+      },
+      "properties": {
+        "cancelled": false,
+        "rescheduled": false,
+        "seats_avail": true,
+        "sold_out": false,
+        "package": false,
+        "canceled": false
+      },
+      "venue": {
+        "id": "9453",
+        "name": "Residens Møen",
+        "url": "http://www.ticketmaster.dk/venue/residens-moen-stege-billetter/RMN/203?track=DiscoveryAPI&language=da-dk&subchannel_id=1",
+        "location": {
+          "address": {
+            "address": "Langelinie 44",
+            "postal_code": "4780",
+            "city": "Stege",
+            "country": "Danmark",
+            "long": 12.28106,
+            "lat": 54.98627
+          }
+        }
+      },
+      "categories": [
+        {
+          "name": "Musik",
+          "id": 10001,
+          "subcategories": [
+            {
+              "name": "Mere musik",
+              "id": 52
+            }
+          ]
+        }
+      ],
+      "attractions": [
+        {
+          "id": 985365,
+          "name": "Thomas Ring",
+          "url": "http://www.ticketmaster.dk/artist/thomas-ring-billetter/985365?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        }
+      ],
+      "price_ranges": {
+        "excluding_ticket_fees": {
+          "min": 50,
+          "max": 50
+        },
+        "including_ticket_fees": {
+          "min": 60,
+          "max": 60
+        }
+      },
+      "currency": "DKK"
+    },
+    {
+      "id": "424241",
+      "domain_id": "denmark",
+      "name": "Byron Katie Live in Copenhagen",
+      "url": "http://www.ticketmaster.dk/event/424241?language=da-dk&track=DiscoveryAPI&subchannel_id=1",
+      "externalUrl": false,
+      "eventdate": {
+        "format": "datetime",
+        "value": "2017-07-14T16:30:00Z"
+      },
+      "day_of_week": "Fredag",
+      "timezone": "Europe/Copenhagen",
+      "localeventdate": "2017-07-14T18:30:00Z",
+      "images": [
+        {
+          "url": "http://media.ticketmaster.com/img/tat/dam/a/bcf/582add66-224e-4ce7-9313-70b1b1eb0bcf_285831_CUSTOM.jpg",
+          "type": "large",
+          "width": 305,
+          "height": 225
+        },
+        {
+          "url": "http://media.ticketmaster.eu/denmark/156040d8d3d90f74de7d7c75fef668c6.jpg",
+          "type": "standard",
+          "width": 205,
+          "height": 115
+        }
+      ],
+      "onsale": {
+        "format": "datetime",
+        "value": "2017-02-09T11:10:00Z"
+      },
+      "offsale": {
+        "format": "datetime",
+        "value": "2017-07-14T16:30:00Z"
+      },
+      "properties": {
+        "cancelled": false,
+        "rescheduled": false,
+        "seats_avail": false,
+        "sold_out": false,
+        "package": false,
+        "canceled": false
+      },
+      "venue": {
+        "id": "9271",
+        "name": "Scandic Hotel",
+        "url": "http://www.ticketmaster.dk/venue/scandic-hotel-kobenhavn-v-billetter/SCJ/203?track=DiscoveryAPI&language=da-dk&subchannel_id=1",
+        "location": {
+          "address": {
+            "address": "Vester Søgade 8",
+            "postal_code": "1601",
+            "city": "København V",
+            "country": "Danmark",
+            "long": 12.55925,
+            "lat": 55.6751
+          }
+        }
+      },
+      "categories": [
+        {
+          "name": "Musik",
+          "id": 10001,
+          "subcategories": [
+            {
+              "name": "Mere musik",
+              "id": 52
+            },
+            {
+              "name": "Klassisk",
+              "id": 1012
+            }
+          ]
+        }
+      ],
+      "attractions": [
+        {
+          "id": 961059,
+          "name": "Ann Mette Elten",
+          "url": "http://www.ticketmaster.dk/artist/ann-mette-elten-billetter/961059?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        }
+      ],
+      "price_ranges": {
+        "excluding_ticket_fees": {
+          "min": 550,
+          "max": 550
+        },
+        "including_ticket_fees": {
+          "min": 575,
+          "max": 575
+        }
+      },
+      "currency": "DKK"
+    },
+    {
+      "id": "424361",
+      "domain_id": "denmark",
+      "name": "Jacob Dinesen",
+      "url": "http://www.ticketmaster.dk/event/424361?language=da-dk&track=DiscoveryAPI&subchannel_id=1",
+      "externalUrl": false,
+      "eventdate": {
+        "format": "datetime",
+        "value": "2017-07-14T17:00:00Z"
+      },
+      "day_of_week": "Fredag",
+      "timezone": "Europe/Copenhagen",
+      "localeventdate": "2017-07-14T19:00:00Z",
+      "images": [
+        {
+          "url": "http://media.ticketmaster.com/img/tat/dam/a/580/c251692f-c9e3-4c67-9fce-f6b41e1c5580_251821_CUSTOM.jpg",
+          "type": "large",
+          "width": 305,
+          "height": 225
+        },
+        {
+          "url": "http://media.ticketmaster.com/img/tat/dam/a/580/c251692f-c9e3-4c67-9fce-f6b41e1c5580_251821_EVENT_DETAIL_PAGE_16_9.jpg",
+          "type": "standard",
+          "width": 205,
+          "height": 115
+        }
+      ],
+      "onsale": {
+        "format": "datetime",
+        "value": "2017-02-10T15:00:00Z"
+      },
+      "offsale": {
+        "format": "datetime",
+        "value": "2017-07-14T12:00:00Z"
+      },
+      "properties": {
+        "cancelled": false,
+        "rescheduled": false,
+        "seats_avail": true,
+        "sold_out": false,
+        "package": false,
+        "canceled": false
+      },
+      "venue": {
+        "id": "8221",
+        "name": "Sct. Knuds Kilde",
+        "url": "http://www.ticketmaster.dk/venue/sct-knuds-kilde-hjorring-billetter/SUE/203?track=DiscoveryAPI&language=da-dk&subchannel_id=1",
+        "location": {
+          "address": {
+            "address": "Åstrupvej 52",
+            "postal_code": "9800",
+            "city": "Hjørring",
+            "country": "Danmark",
+            "long": 9.97288,
+            "lat": 57.45364
+          }
+        }
+      },
+      "categories": [
+        {
+          "name": "Musik",
+          "id": 10001,
+          "subcategories": [
+            {
+              "name": "Rock/Pop",
+              "id": 1
+            },
+            {
+              "name": "Mere musik",
+              "id": 52
+            }
+          ]
+        }
+      ],
+      "attractions": [
+        {
+          "id": 964764,
+          "name": "Jacob Dinesen",
+          "url": "http://www.ticketmaster.dk/artist/jacob-dinesen-billetter/964764?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        }
+      ],
+      "price_ranges": {
+        "excluding_ticket_fees": {
+          "min": 250,
+          "max": 250
+        },
+        "including_ticket_fees": {
+          "min": 270,
+          "max": 270
+        }
+      },
+      "currency": "DKK"
+    },
+    {
+      "id": "428159",
+      "domain_id": "denmark",
+      "name": "Cæcilie Norby, Lars Danielsson (SE) og Ulf Wakenius (SE)",
+      "url": "http://www.ticketmaster.dk/event/428159?language=da-dk&track=DiscoveryAPI&subchannel_id=1",
+      "externalUrl": false,
+      "eventdate": {
+        "format": "datetime",
+        "value": "2017-07-14T18:00:00Z"
+      },
+      "day_of_week": "Fredag",
+      "timezone": "Europe/Copenhagen",
+      "localeventdate": "2017-07-14T20:00:00Z",
+      "images": [
+        {
+          "url": "http://media.ticketmaster.com/img/tat/cft1/201604/13/838470.jpg",
+          "type": "large",
+          "width": 305,
+          "height": 225
+        },
+        {
+          "url": "http://media.ticketmaster.com/img/tat/cft1/201604/13/838450.jpg",
+          "type": "standard",
+          "width": 205,
+          "height": 115
+        }
+      ],
+      "onsale": {
+        "format": "datetime",
+        "value": "2017-04-07T12:00:00Z"
+      },
+      "offsale": {
+        "format": "datetime",
+        "value": "2017-07-14T18:00:00Z"
+      },
+      "properties": {
+        "cancelled": false,
+        "rescheduled": false,
+        "seats_avail": true,
+        "sold_out": false,
+        "package": false,
+        "canceled": false
+      },
+      "venue": {
+        "id": "2285",
+        "name": "Krudttønden",
+        "url": "http://www.ticketmaster.dk/venue/krudttonden-kobenhavn-billetter/KRU/203?track=DiscoveryAPI&language=da-dk&subchannel_id=1",
+        "location": {
+          "address": {
+            "address": "Serridslevvej 2",
+            "postal_code": "2100",
+            "city": "København Ø",
+            "country": "Danmark",
+            "long": 12.57458,
+            "lat": 55.70545
+          }
+        }
+      },
+      "categories": [
+        {
+          "name": "Musik",
+          "id": 10001,
+          "subcategories": [
+            {
+              "name": "Jazz/Blues",
+              "id": 4
+            },
+            {
+              "name": "Mere musik",
+              "id": 52
+            }
+          ]
+        }
+      ],
+      "attractions": [
+        {
+          "id": 874649,
+          "name": "Cæcilie Norby",
+          "url": "http://www.ticketmaster.dk/artist/caecilie-norby-billetter/874649?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        }
+      ],
+      "price_ranges": {
+        "excluding_ticket_fees": {
+          "min": 230,
+          "max": 230
+        },
+        "including_ticket_fees": {
+          "min": 250,
+          "max": 250
+        }
+      },
+      "currency": "DKK"
+    },
+    {
+      "id": "431415",
+      "domain_id": "denmark",
+      "name": "Acoustic Guitars feat. Eliel Lazo - latin/world/folk",
+      "url": "http://www.ticketmaster.dk/event/431415?language=da-dk&track=DiscoveryAPI&subchannel_id=1",
+      "externalUrl": false,
+      "eventdate": {
+        "format": "datetime",
+        "value": "2017-07-14T19:00:00Z"
+      },
+      "day_of_week": "Fredag",
+      "timezone": "Europe/Copenhagen",
+      "localeventdate": "2017-07-14T21:00:00Z",
+      "images": [
+        {
+          "url": "http://media.ticketmaster.com/img/tat/cft1/201505/20/652440.png",
+          "type": "large",
+          "width": 305,
+          "height": 225
+        },
+        {
+          "url": "http://media.ticketmaster.com/img/tat/cft1/201505/20/652450.png",
+          "type": "standard",
+          "width": 205,
+          "height": 115
+        }
+      ],
+      "onsale": {
+        "format": "datetime",
+        "value": "2017-06-08T12:26:08Z"
+      },
+      "offsale": {
+        "format": "datetime",
+        "value": "2017-07-14T18:00:00Z"
+      },
+      "properties": {
+        "cancelled": false,
+        "rescheduled": false,
+        "seats_avail": true,
+        "sold_out": false,
+        "package": false,
+        "canceled": false
+      },
+      "venue": {
+        "id": "8369",
+        "name": "Bartof Station",
+        "url": "http://www.ticketmaster.dk/venue/bartof-station-frederiksberg-billetter/BAR/303?track=DiscoveryAPI&language=da-dk&subchannel_id=1",
+        "location": {
+          "address": {
+            "address": "Solbjergvej 3 A",
+            "postal_code": "2000",
+            "city": "Frederiksberg",
+            "country": "Danmark",
+            "long": 12.53329,
+            "lat": 55.681
+          }
+        }
+      },
+      "categories": [
+        {
+          "name": "Musik",
+          "id": 10001,
+          "subcategories": [
+            {
+              "name": "Jazz/Blues",
+              "id": 4
+            }
+          ]
+        }
+      ],
+      "attractions": [
+        {
+          "id": 960062,
+          "name": "Mikkel Nordsø Band",
+          "url": "http://www.ticketmaster.dk/artist/mikkel-nordso-band-billetter/960062?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        },
+        {
+          "id": 969689,
+          "name": "Eliel Lazo",
+          "url": "http://www.ticketmaster.dk/artist/eliel-lazo-billetter/969689?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        },
+        {
+          "id": 972081,
+          "name": "Steen Kyed",
+          "url": "http://www.ticketmaster.dk/artist/steen-kyed-billetter/972081?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        },
+        {
+          "id": 969688,
+          "name": "Christian Ratzer",
+          "url": "http://www.ticketmaster.dk/artist/christian-ratzer-billetter/969688?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        }
+      ],
+      "price_ranges": {
+        "excluding_ticket_fees": {
+          "min": 120,
+          "max": 240
+        },
+        "including_ticket_fees": {
+          "min": 135,
+          "max": 255
+        }
+      },
+      "currency": "DKK"
+    },
+    {
+      "id": "431627",
+      "domain_id": "denmark",
+      "name": "Coco O",
+      "url": "http://www.ticketmaster.dk/event/431627?language=da-dk&track=DiscoveryAPI&subchannel_id=1",
+      "externalUrl": false,
+      "eventdate": {
+        "format": "datetime",
+        "value": "2017-07-14T19:00:00Z"
+      },
+      "day_of_week": "Fredag",
+      "timezone": "Europe/Copenhagen",
+      "localeventdate": "2017-07-14T21:00:00Z",
+      "onsale": {
+        "format": "datetime",
+        "value": "2017-06-13T13:00:00Z"
+      },
+      "offsale": {
+        "format": "datetime",
+        "value": "2017-07-14T19:00:00Z"
+      },
+      "properties": {
+        "cancelled": false,
+        "rescheduled": false,
+        "seats_avail": true,
+        "sold_out": false,
+        "package": false,
+        "canceled": false
+      },
+      "venue": {
+        "id": "6239",
+        "name": "Brundby Rockhotel",
+        "url": "http://www.ticketmaster.dk/venue/brundby-rockhotel-samso-billetter/BRR/203?track=DiscoveryAPI&language=da-dk&subchannel_id=1",
+        "location": {
+          "address": {
+            "address": "Brundby Hovedgade 63",
+            "postal_code": "8305",
+            "city": "Samsø",
+            "country": "Danmark",
+            "long": 10.60365,
+            "lat": 55.81331
+          }
+        }
+      },
+      "categories": [
+        {
+          "name": "Musik",
+          "id": 10001,
+          "subcategories": [
+            {
+              "name": "Rock/Pop",
+              "id": 1
+            },
+            {
+              "name": "Mere musik",
+              "id": 52
+            }
+          ]
+        }
+      ],
+      "attractions": [
+        {
+          "id": 986050,
+          "name": "Coco O",
+          "url": "http://www.ticketmaster.dk/artist/coco-o-billetter/986050?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        }
+      ],
+      "price_ranges": {
+        "excluding_ticket_fees": {
+          "min": 230,
+          "max": 230
+        },
+        "including_ticket_fees": {
+          "min": 230,
+          "max": 230
+        }
+      },
+      "currency": "DKK"
+    },
+    {
+      "id": "431559",
+      "domain_id": "denmark",
+      "name": "Paul Banks, Svante Sjöblom, J.Tex & Peter Nande",
+      "url": "http://www.ticketmaster.dk/event/431559?language=da-dk&track=DiscoveryAPI&subchannel_id=1",
+      "externalUrl": false,
+      "eventdate": {
+        "format": "datetime",
+        "value": "2017-07-14T19:00:00Z"
+      },
+      "day_of_week": "Fredag",
+      "timezone": "Europe/Copenhagen",
+      "localeventdate": "2017-07-14T21:00:00Z",
+      "onsale": {
+        "format": "datetime",
+        "value": "2017-06-10T19:07:03Z"
+      },
+      "offsale": {
+        "format": "datetime",
+        "value": "2017-07-14T18:00:00Z"
+      },
+      "properties": {
+        "cancelled": false,
+        "rescheduled": false,
+        "seats_avail": true,
+        "sold_out": false,
+        "package": false,
+        "canceled": false
+      },
+      "venue": {
+        "id": "8367",
+        "name": "Bartof Café",
+        "url": "http://www.ticketmaster.dk/venue/bartof-cafe-frederiksberg-billetter/BAE/303?track=DiscoveryAPI&language=da-dk&subchannel_id=1",
+        "location": {
+          "address": {
+            "address": "Nordre Fasanvej 46",
+            "postal_code": "2000",
+            "city": "Frederiksberg",
+            "country": "Danmark",
+            "long": 12.52463,
+            "lat": 55.68381
+          }
+        }
+      },
+      "categories": [
+        {
+          "name": "Musik",
+          "id": 10001,
+          "subcategories": [
+            {
+              "name": "Jazz/Blues",
+              "id": 4
+            }
+          ]
+        }
+      ],
+      "attractions": [
+        {
+          "id": 966285,
+          "name": "Peter Nande",
+          "url": "http://www.ticketmaster.dk/artist/peter-nande-billetter/966285?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        },
+        {
+          "id": 907712,
+          "name": "Paul Banks",
+          "url": "http://www.ticketmaster.dk/artist/paul-banks-billetter/907712?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        },
+        {
+          "id": 966287,
+          "name": "J Tex",
+          "url": "http://www.ticketmaster.dk/artist/j-tex-billetter/966287?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        },
+        {
+          "id": 972073,
+          "name": "Svante Sjoblom",
+          "url": "http://www.ticketmaster.dk/artist/svante-sjoblom-billetter/972073?track=DiscoveryAPI&language=da-dk&subchannel_id=1"
+        }
+      ],
+      "price_ranges": {
+        "excluding_ticket_fees": {
+          "min": 100,
+          "max": 100
+        },
+        "including_ticket_fees": {
+          "min": 110,
+          "max": 110
+        }
+      },
+      "currency": "DKK"
+    }
+  ],
+  "pagination": {
+    "start": 0,
+    "rows": 10,
+    "total": 2870
+  }
+} 
+StacTrace:    ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMaster\TicketMasterAPI.cs:linje 40
+2017-07-13 21:31:09,178 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-13 21:31:09,182 DEBUG ActivityFinder.Program - Ended
+2017-07-13 21:50:21,380 DEBUG ActivityFinder.Program - Started
+2017-07-13 21:50:21,407 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-13 21:50:26,372 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Objektreferencen er ikke indstillet til en forekomst af et objekt. 
+StacTrace:    ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMaster\TicketMasterAPI.cs:linje 44
+2017-07-13 21:50:26,377 DEBUG ActivityFinder.Program - Found 141 activites from Ticketmaster
+2017-07-13 21:50:26,780 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-13 21:50:38,133 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-13 21:50:38,138 DEBUG ActivityFinder.Program - Ended
+2017-07-13 21:54:13,110 DEBUG ActivityFinder.Program - Started
+2017-07-13 21:54:13,133 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-13 21:54:14,232 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Objektreferencen er ikke indstillet til en forekomst af et objekt. 
+StacTrace:    ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMaster\TicketMasterAPI.cs:linje 44
+2017-07-13 21:54:14,238 DEBUG ActivityFinder.Program - Found 141 activites from Ticketmaster
+2017-07-13 21:54:14,242 DEBUG ActivityFinder.Program - Ended
+2017-07-13 21:54:41,886 DEBUG ActivityFinder.Program - Started
+2017-07-13 21:54:41,915 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-13 21:54:42,823 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1
+2017-07-13 21:54:48,133 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2
+2017-07-13 21:55:20,288 DEBUG ActivityFinder.Program - Started
+2017-07-13 21:55:20,309 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-13 21:55:21,337 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1
+2017-07-13 21:55:22,202 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2
+2017-07-13 21:55:23,028 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 3
+2017-07-13 21:55:27,169 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 4
+2017-07-13 21:55:32,368 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 5
+2017-07-13 21:55:36,695 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 6
+2017-07-13 21:56:31,403 DEBUG ActivityFinder.Program - Started
+2017-07-13 21:56:31,426 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-13 21:56:36,650 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1
+2017-07-13 21:56:37,644 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2
+2017-07-13 21:56:38,430 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 3
+2017-07-13 21:56:39,239 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 4
+2017-07-13 21:56:40,041 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 5
+2017-07-13 21:56:40,835 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 6
+2017-07-13 21:56:41,759 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 7
+2017-07-13 21:56:45,011 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 8
+2017-07-13 21:56:48,272 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 9
+2017-07-13 21:56:51,957 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 10
+2017-07-13 21:56:55,918 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 11
+2017-07-13 21:56:59,714 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 12
+2017-07-13 21:57:03,326 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 13
+2017-07-13 21:57:06,845 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 14
+2017-07-13 21:57:11,166 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 15
+2017-07-13 21:57:15,768 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 16
+2017-07-13 21:57:20,798 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 17
+2017-07-13 21:57:23,973 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 18
+2017-07-13 21:57:27,266 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 19
+2017-07-13 21:59:20,730 DEBUG ActivityFinder.Program - Started
+2017-07-13 21:59:20,756 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-13 21:59:21,747 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 250
+2017-07-13 21:59:25,136 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 500
+2017-07-13 21:59:30,188 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 750
+2017-07-13 21:59:33,555 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Der opstod en fejl under deserialisering af objektet af typen ActivityFinder.TicketMasterModel. Værdien 191.25 kan ikke fortolkes som typen Int32. 
+StacTrace:    ved System.Runtime.Serialization.XmlObjectSerializer.ReadObjectHandleExceptions(XmlReaderDelegator reader, Boolean verifyObjectName, DataContractResolver dataContractResolver)
+   ved System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(XmlDictionaryReader reader)
+   ved System.Runtime.Serialization.Json.DataContractJsonSerializer.ReadObject(Stream stream)
+   ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMaster\TicketMasterAPI.cs:linje 34
+2017-07-13 21:59:33,560 DEBUG ActivityFinder.Program - Found 750 activites from Ticketmaster
+2017-07-13 21:59:33,580 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-13 21:59:44,714 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-13 21:59:44,717 DEBUG ActivityFinder.Program - Ended
+2017-07-13 22:03:06,827 DEBUG ActivityFinder.Program - Started
+2017-07-13 22:03:06,851 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-13 22:03:10,945 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 250
+2017-07-13 22:03:11,883 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 500
+2017-07-13 22:03:12,717 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 750
+2017-07-13 22:03:13,869 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1000
+2017-07-13 22:03:18,827 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1250
+2017-07-13 22:03:22,446 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1500
+2017-07-13 22:03:27,285 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1750
+2017-07-13 22:03:30,956 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2000
+2017-07-13 22:03:34,159 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2250
+2017-07-13 22:03:37,430 ERROR ActivityFinder.TicketMasterAPI - GetAllActivities:
+Exception: Objektreferencen er ikke indstillet til en forekomst af et objekt. 
+StacTrace:    ved ActivityFinder.TicketMasterAPI.<GetAllActivities>d__1.MoveNext() i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TicketMaster\TicketMasterAPI.cs:linje 44
+2017-07-13 22:03:37,430 DEBUG ActivityFinder.Program - Found 2345 activites from Ticketmaster
+2017-07-13 22:03:37,811 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-13 22:03:41,178 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-13 22:03:41,193 DEBUG ActivityFinder.Program - Ended
+2017-07-13 22:05:50,400 DEBUG ActivityFinder.Program - Started
+2017-07-13 22:05:50,422 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-13 22:05:51,450 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 250
+2017-07-13 22:05:54,864 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 500
+2017-07-13 22:05:58,387 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 750
+2017-07-13 22:06:01,620 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1000
+2017-07-13 22:06:02,432 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1250
+2017-07-13 22:06:03,211 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1500
+2017-07-13 22:06:04,150 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1750
+2017-07-13 22:06:04,966 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2000
+2017-07-13 22:06:06,298 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2250
+2017-07-13 22:06:07,132 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2500
+2017-07-13 22:06:11,206 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2750
+2017-07-13 22:06:13,900 DEBUG ActivityFinder.Program - Found 2870 activites from Ticketmaster
+2017-07-13 22:06:13,932 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-13 22:06:16,017 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-13 22:06:16,017 DEBUG ActivityFinder.Program - Ended
+2017-07-13 22:09:59,605 DEBUG ActivityFinder.Program - Started
+2017-07-13 22:09:59,634 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-13 22:10:04,806 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 250
+2017-07-13 22:10:05,592 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 500
+2017-07-13 22:10:06,438 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 750
+2017-07-13 22:10:07,270 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1000
+2017-07-13 22:10:11,782 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1250
+2017-07-13 22:10:15,025 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1500
+2017-07-13 22:10:19,857 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1750
+2017-07-13 22:10:24,866 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2000
+2017-07-13 22:10:29,915 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2250
+2017-07-13 22:10:34,867 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2500
+2017-07-13 22:10:35,672 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2750
+2017-07-13 22:10:36,203 DEBUG ActivityFinder.Program - Found 2870 activites from Ticketmaster
+2017-07-13 22:10:36,223 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-13 22:10:48,016 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-13 22:10:48,019 DEBUG ActivityFinder.Program - Ended
+2017-07-13 22:34:20,323 DEBUG ActivityFinder.Program - Started
+2017-07-13 22:34:20,348 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-13 22:34:25,941 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 250
+2017-07-13 22:34:29,341 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 500
+2017-07-13 22:34:34,136 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 750
+2017-07-13 22:34:37,576 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1000
+2017-07-13 22:34:50,675 DEBUG ActivityFinder.Program - Started
+2017-07-13 22:34:50,700 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-13 22:34:51,827 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 250
+2017-07-13 22:34:52,640 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 500
+2017-07-13 22:34:53,450 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 750
+2017-07-13 22:34:54,250 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1000
+2017-07-13 22:34:55,207 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1250
+2017-07-13 22:35:01,938 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1500
+2017-07-13 22:35:07,659 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1750
+2017-07-13 22:35:13,279 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2000
+2017-07-13 22:35:18,959 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2250
+2017-07-13 22:35:23,669 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2500
+2017-07-13 22:35:29,094 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2750
+2017-07-13 22:35:32,128 DEBUG ActivityFinder.Program - Found 2870 activites from Ticketmaster
+2017-07-13 22:35:32,136 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Start iterating all latlongs and types
+2017-07-13 22:35:32,147 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-13 22:35:38,660 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-13 22:35:43,363 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-13 22:35:44,115 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 57.048,9.9187
+2017-07-13 22:35:47,806 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 56.15674,10.21076
+2017-07-13 22:35:52,101 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67938,12.53463
+2017-07-13 22:35:54,571 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67938,12.53463
+2017-07-13 22:35:57,133 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67938,12.53463
+2017-07-13 22:35:57,457 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.39594,10.38831
+2017-07-13 22:36:01,905 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.39594,10.38831
+2017-07-13 22:36:03,652 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.25377,9.48982
+2017-07-13 22:36:07,453 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67594,12.56553
+2017-07-13 22:36:14,193 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67594,12.56553
+2017-07-13 22:36:16,965 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 57.048,9.9187
+2017-07-13 22:36:21,241 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 56.15674,10.21076
+2017-07-13 22:36:25,575 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67938,12.53463
+2017-07-13 22:36:28,186 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67938,12.53463
+2017-07-13 22:36:29,396 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.39594,10.38831
+2017-07-13 22:36:33,002 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.25377,9.48982
+2017-07-13 22:36:35,588 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.67594,12.56553
+2017-07-13 22:36:40,006 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 57.048,9.9187
+2017-07-13 22:36:41,124 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 56.15674,10.21076
+2017-07-13 22:36:41,530 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.67938,12.53463
+2017-07-13 22:36:43,154 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.39594,10.38831
+2017-07-13 22:36:43,267 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.25377,9.48982
+2017-07-13 22:36:43,512 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67594,12.56553
+2017-07-13 22:36:49,418 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67594,12.56553
+2017-07-13 22:36:54,435 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67594,12.56553
+2017-07-13 22:36:59,762 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 57.048,9.9187
+2017-07-13 22:37:04,290 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 57.048,9.9187
+2017-07-13 22:37:08,899 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 57.048,9.9187
+2017-07-13 22:37:15,120 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 56.15674,10.21076
+2017-07-13 22:37:21,066 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 56.15674,10.21076
+2017-07-13 22:37:26,630 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 56.15674,10.21076
+2017-07-13 22:37:32,243 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67938,12.53463
+2017-07-13 22:37:34,149 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67938,12.53463
+2017-07-13 22:37:36,055 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67938,12.53463
+2017-07-13 22:37:38,106 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.39594,10.38831
+2017-07-13 22:37:44,012 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.39594,10.38831
+2017-07-13 22:37:48,606 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.39594,10.38831
+2017-07-13 22:37:51,782 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.25377,9.48982
+2017-07-13 22:37:55,114 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.25377,9.48982
+2017-07-13 22:38:00,074 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.25377,9.48982
+2017-07-13 22:38:03,415 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.67594,12.56553
+2017-07-13 22:38:05,106 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 57.048,9.9187
+2017-07-13 22:38:05,958 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 56.15674,10.21076
+2017-07-13 22:38:07,244 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.67938,12.53463
+2017-07-13 22:38:07,983 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.39594,10.38831
+2017-07-13 22:38:08,879 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.25377,9.48982
+2017-07-13 22:38:10,053 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67594,12.56553
+2017-07-13 22:38:17,073 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67594,12.56553
+2017-07-13 22:38:23,123 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67594,12.56553
+2017-07-13 22:38:28,341 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 57.048,9.9187
+2017-07-13 22:38:33,780 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 56.15674,10.21076
+2017-07-13 22:38:40,111 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 56.15674,10.21076
+2017-07-13 22:38:40,997 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67938,12.53463
+2017-07-13 22:38:42,830 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67938,12.53463
+2017-07-13 22:38:46,771 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67938,12.53463
+2017-07-13 22:38:50,474 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.39594,10.38831
+2017-07-13 22:38:56,095 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.25377,9.48982
+2017-07-13 22:38:59,343 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.67594,12.56553
+2017-07-13 22:39:04,960 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 57.048,9.9187
+2017-07-13 22:39:10,935 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 57.048,9.9187
+2017-07-13 22:39:16,405 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 57.048,9.9187
+2017-07-13 22:39:21,791 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 56.15674,10.21076
+2017-07-13 22:39:28,641 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 56.15674,10.21076
+2017-07-13 22:39:34,796 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 56.15674,10.21076
+2017-07-13 22:39:40,018 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.67938,12.53463
+2017-07-13 22:39:42,198 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.39594,10.38831
+2017-07-13 22:39:48,622 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.39594,10.38831
+2017-07-13 22:39:53,857 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.39594,10.38831
+2017-07-13 22:39:59,065 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.25377,9.48982
+2017-07-13 22:40:04,394 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.25377,9.48982
+2017-07-13 22:40:09,719 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.25377,9.48982
+2017-07-13 22:40:14,971 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67594,12.56553
+2017-07-13 22:40:20,671 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67594,12.56553
+2017-07-13 22:40:26,837 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67594,12.56553
+2017-07-13 22:40:32,356 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 57.048,9.9187
+2017-07-13 22:40:37,875 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 57.048,9.9187
+2017-07-13 22:40:40,332 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 56.15674,10.21076
+2017-07-13 22:40:46,198 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 56.15674,10.21076
+2017-07-13 22:40:52,827 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 56.15674,10.21076
+2017-07-13 22:40:58,150 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67938,12.53463
+2017-07-13 22:41:00,233 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67938,12.53463
+2017-07-13 22:41:02,350 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67938,12.53463
+2017-07-13 22:41:05,312 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.39594,10.38831
+2017-07-13 22:41:11,565 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.39594,10.38831
+2017-07-13 22:41:16,180 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.25377,9.48982
+2017-07-13 22:41:21,604 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.25377,9.48982
+2017-07-13 22:41:26,945 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.25377,9.48982
+2017-07-13 22:41:27,587 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.67594,12.56553
+2017-07-13 22:41:30,584 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 57.048,9.9187
+2017-07-13 22:41:32,633 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 56.15674,10.21076
+2017-07-13 22:41:35,297 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.67938,12.53463
+2017-07-13 22:41:36,474 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.39594,10.38831
+2017-07-13 22:41:37,793 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.25377,9.48982
+2017-07-13 22:41:39,274 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps.
+2017-07-13 22:41:39,284 DEBUG ActivityFinder.Program - Found 1040 activities from googleMaps
+2017-07-13 22:41:39,297 DEBUG ActivityFinder.Program - Total number of activities found: 3910
+2017-07-13 22:41:39,324 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-13 22:41:41,085 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-13 22:41:41,089 DEBUG ActivityFinder.Program - Ended
+2017-07-13 22:50:24,505 DEBUG ActivityFinder.Program - Started
+2017-07-13 22:50:24,530 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-13 22:50:29,440 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 250
+2017-07-13 22:50:32,796 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 500
+2017-07-13 22:50:37,598 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 750
+2017-07-13 22:50:42,563 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1000
+2017-07-13 22:50:47,387 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1250
+2017-07-13 22:50:51,939 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1500
+2017-07-13 22:50:56,346 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1750
+2017-07-13 22:51:01,186 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2000
+2017-07-13 22:51:04,748 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2250
+2017-07-13 22:51:09,275 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2500
+2017-07-13 22:51:14,091 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2750
+2017-07-13 22:51:16,997 DEBUG ActivityFinder.Program - Found 2870 activites from Ticketmaster
+2017-07-13 22:51:17,008 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Start iterating all latlongs and types
+2017-07-13 22:51:17,018 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-13 22:51:21,271 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-13 22:51:25,100 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-13 22:51:25,972 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 57.048,9.9187
+2017-07-13 22:51:29,774 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 56.15674,10.21076
+2017-07-13 22:51:33,669 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67938,12.53463
+2017-07-13 22:51:35,908 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67938,12.53463
+2017-07-13 22:51:37,650 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67938,12.53463
+2017-07-13 22:51:37,749 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.39594,10.38831
+2017-07-13 22:51:42,315 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.39594,10.38831
+2017-07-13 22:51:43,406 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.25377,9.48982
+2017-07-13 22:51:47,045 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.639589,12.096941
+2017-07-13 22:51:49,063 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.639589,12.096941
+2017-07-13 22:51:51,813 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67594,12.56553
+2017-07-13 22:51:56,877 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67594,12.56553
+2017-07-13 22:51:59,249 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 57.048,9.9187
+2017-07-13 22:52:03,670 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 56.15674,10.21076
+2017-07-13 22:52:08,643 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67938,12.53463
+2017-07-13 22:52:10,814 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.67938,12.53463
+2017-07-13 22:52:11,817 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.39594,10.38831
+2017-07-13 22:52:14,573 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.25377,9.48982
+2017-07-13 22:52:17,094 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.639589,12.096941
+2017-07-13 22:52:19,893 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.639589,12.096941
+2017-07-13 22:52:22,205 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.67594,12.56553
+2017-07-13 22:52:25,222 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 57.048,9.9187
+2017-07-13 22:52:26,180 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 56.15674,10.21076
+2017-07-13 22:52:26,590 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.67938,12.53463
+2017-07-13 22:52:28,140 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.39594,10.38831
+2017-07-13 22:52:28,271 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.25377,9.48982
+2017-07-13 22:52:28,527 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.639589,12.096941
+2017-07-13 22:52:30,043 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67594,12.56553
+2017-07-13 22:52:35,255 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67594,12.56553
+2017-07-13 22:52:39,302 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67594,12.56553
+2017-07-13 22:52:43,389 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 57.048,9.9187
+2017-07-13 22:52:48,343 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 57.048,9.9187
+2017-07-13 22:52:52,719 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 57.048,9.9187
+2017-07-13 22:52:58,557 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 56.15674,10.21076
+2017-07-13 22:53:03,852 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 56.15674,10.21076
+2017-07-13 22:53:08,165 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 56.15674,10.21076
+2017-07-13 22:53:13,182 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67938,12.53463
+2017-07-13 22:53:15,384 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67938,12.53463
+2017-07-13 22:53:17,335 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.67938,12.53463
+2017-07-13 22:53:19,594 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.39594,10.38831
+2017-07-13 22:53:25,487 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.39594,10.38831
+2017-07-13 22:53:29,913 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.39594,10.38831
+2017-07-13 22:53:32,545 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.25377,9.48982
+2017-07-13 22:53:35,916 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.25377,9.48982
+2017-07-13 22:53:40,227 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.25377,9.48982
+2017-07-13 22:53:43,149 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.639589,12.096941
+2017-07-13 22:53:47,109 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.639589,12.096941
+2017-07-13 22:53:50,906 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type art_gallery and latlong 55.639589,12.096941
+2017-07-13 22:53:55,291 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.67594,12.56553
+2017-07-13 22:53:56,690 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 57.048,9.9187
+2017-07-13 22:53:57,367 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 56.15674,10.21076
+2017-07-13 22:53:58,547 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.67938,12.53463
+2017-07-13 22:53:59,166 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.39594,10.38831
+2017-07-13 22:54:00,046 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.25377,9.48982
+2017-07-13 22:54:00,811 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.639589,12.096941
+2017-07-13 22:54:01,386 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67594,12.56553
+2017-07-13 22:54:06,125 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67594,12.56553
+2017-07-13 22:54:11,349 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67594,12.56553
+2017-07-13 22:54:16,068 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 57.048,9.9187
+2017-07-13 22:54:21,894 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 56.15674,10.21076
+2017-07-13 22:54:27,537 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 56.15674,10.21076
+2017-07-13 22:54:28,349 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67938,12.53463
+2017-07-13 22:54:30,460 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67938,12.53463
+2017-07-13 22:54:32,632 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.67938,12.53463
+2017-07-13 22:54:35,135 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.39594,10.38831
+2017-07-13 22:54:40,542 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.25377,9.48982
+2017-07-13 22:54:43,989 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.639589,12.096941
+2017-07-13 22:54:46,146 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.639589,12.096941
+2017-07-13 22:54:48,525 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.639589,12.096941
+2017-07-13 22:54:51,778 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.67594,12.56553
+2017-07-13 22:54:56,200 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 57.048,9.9187
+2017-07-13 22:55:02,858 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 57.048,9.9187
+2017-07-13 22:55:08,542 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 57.048,9.9187
+2017-07-13 22:55:13,925 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 56.15674,10.21076
+2017-07-13 22:55:20,470 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 56.15674,10.21076
+2017-07-13 22:55:26,100 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 56.15674,10.21076
+2017-07-13 22:55:30,706 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.67938,12.53463
+2017-07-13 22:55:33,992 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.39594,10.38831
+2017-07-13 22:55:40,842 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.39594,10.38831
+2017-07-13 22:55:46,573 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.39594,10.38831
+2017-07-13 22:55:52,008 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.25377,9.48982
+2017-07-13 22:55:57,230 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.25377,9.48982
+2017-07-13 22:56:03,476 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.25377,9.48982
+2017-07-13 22:56:09,013 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.639589,12.096941
+2017-07-13 22:56:13,818 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67594,12.56553
+2017-07-13 22:56:18,437 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67594,12.56553
+2017-07-13 22:56:22,882 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67594,12.56553
+2017-07-13 22:56:27,493 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 57.048,9.9187
+2017-07-13 22:56:34,096 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 57.048,9.9187
+2017-07-13 22:56:36,859 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 56.15674,10.21076
+2017-07-13 22:56:43,830 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 56.15674,10.21076
+2017-07-13 22:56:49,109 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 56.15674,10.21076
+2017-07-13 22:56:54,381 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67938,12.53463
+2017-07-13 22:56:57,628 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67938,12.53463
+2017-07-13 22:56:59,575 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.67938,12.53463
+2017-07-13 22:56:59,675 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.39594,10.38831
+2017-07-13 22:57:05,128 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.39594,10.38831
+2017-07-13 22:57:09,029 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.25377,9.48982
+2017-07-13 22:57:14,748 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.25377,9.48982
+2017-07-13 22:57:19,737 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.25377,9.48982
+2017-07-13 22:57:20,194 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.639589,12.096941
+2017-07-13 22:57:24,390 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.639589,12.096941
+2017-07-13 22:57:28,884 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type spa and latlong 55.639589,12.096941
+2017-07-13 22:57:35,022 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.67594,12.56553
+2017-07-13 22:57:37,406 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 57.048,9.9187
+2017-07-13 22:57:39,323 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 56.15674,10.21076
+2017-07-13 22:57:41,476 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.67938,12.53463
+2017-07-13 22:57:42,749 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.39594,10.38831
+2017-07-13 22:57:43,808 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.25377,9.48982
+2017-07-13 22:57:45,223 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.639589,12.096941
+2017-07-13 22:57:46,670 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps.
+2017-07-13 22:57:46,675 DEBUG ActivityFinder.Program - Found 1094 activities from googleMaps
+2017-07-13 22:57:46,679 DEBUG ActivityFinder.Program - Total number of activities found: 3964
+2017-07-13 22:57:46,704 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-13 22:57:58,826 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-13 22:57:58,830 DEBUG ActivityFinder.Program - Ended
