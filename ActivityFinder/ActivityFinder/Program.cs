@@ -32,24 +32,12 @@ namespace ActivityFinder
             activities.AddRange(ticketMasterActivities);
             activities.AddRange(googleMapsActivities);
             log.Debug($"Total number of activities found: {activities.Count}");
-            CreateActivitiesInDB(activities);
+            log.Debug("CreateActivitiesInDB: Creating activities");
+            var mng = new ActivityManager();
+            mng.CreateActivitiesInDB(activities);
+            log.Debug("CreateActivitiesInDB: Complete");
             log.Debug("Ended");
             Console.ReadLine();
-        }
-
-        /// <summary>
-        /// Create records for each activity from the given list in the database
-        /// </summary>
-        /// <param name="activities"></param>
-        static void CreateActivitiesInDB(List<Activity> activities)
-        {
-            log.Debug("CreateActivitiesInDB: Creating activities");
-            using(var ctx = new ActivityContext())
-            {
-                ctx.Activities.AddRange(activities);
-                ctx.SaveChanges();
-            }
-            log.Debug("CreateActivitiesInDB: Complete");
         }
     }
 }

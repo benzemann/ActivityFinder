@@ -40,3 +40,10 @@ D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\System.Web.Http.WebH
 D:\Programming\AktivityFinder\ActivityFinder\WebService\obj\Release\WebService.csprojResolveAssemblyReference.cache
 D:\Programming\AktivityFinder\ActivityFinder\WebService\obj\Release\WebService.dll
 D:\Programming\AktivityFinder\ActivityFinder\WebService\obj\Release\WebService.pdb
+D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\ActivityModel.dll
+D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\EntityFramework.dll
+D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\ActivityModel.pdb
+D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\ActivityModel.dll.config
+D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\EntityFramework.xml
+D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\EntityFramework.SqlServer.dll
+D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\EntityFramework.SqlServer.xml

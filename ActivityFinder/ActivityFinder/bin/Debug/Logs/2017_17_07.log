@@ -1,0 +1,159 @@
+2017-07-17 02:00:03,294 DEBUG ActivityFinder.Program - Started
+2017-07-17 02:32:20,221 DEBUG ActivityFinder.Program - Started
+2017-07-17 02:32:58,017 DEBUG ActivityFinder.Program - Started
+2017-07-17 02:34:42,097 DEBUG ActivityFinder.Program - Started
+2017-07-17 02:35:00,266 DEBUG ActivityFinder.Program - Started
+2017-07-17 02:35:17,441 DEBUG ActivityFinder.Program - Started
+2017-07-17 02:35:32,959 DEBUG ActivityFinder.Program - Started
+2017-07-17 14:49:44,797 DEBUG ActivityFinder.Program - Started
+2017-07-17 14:49:44,837 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-17 14:49:48,313 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 250
+2017-07-17 14:49:51,688 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 500
+2017-07-17 14:49:55,177 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 750
+2017-07-17 14:49:58,330 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1000
+2017-07-17 14:50:01,580 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1250
+2017-07-17 14:50:04,930 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1500
+2017-07-17 14:50:07,856 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1750
+2017-07-17 14:50:11,173 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2000
+2017-07-17 14:50:14,289 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2250
+2017-07-17 14:50:17,454 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2500
+2017-07-17 14:50:20,723 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2750
+2017-07-17 14:50:22,577 DEBUG ActivityFinder.Program - Found 2850 activites from Ticketmaster
+2017-07-17 14:50:22,583 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 14:50:22,587 DEBUG ActivityFinder.Program - Total number of activities found: 2850
+2017-07-17 14:50:22,850 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 14:50:26,065 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 14:50:26,069 DEBUG ActivityFinder.Program - Ended
+2017-07-17 14:59:19,001 DEBUG ActivityFinder.Program - Started
+2017-07-17 14:59:19,031 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-07-17 14:59:22,287 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 250
+2017-07-17 14:59:27,259 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 500
+2017-07-17 14:59:30,740 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 750
+2017-07-17 14:59:33,874 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1000
+2017-07-17 14:59:38,570 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1250
+2017-07-17 14:59:43,732 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1500
+2017-07-17 14:59:48,515 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1750
+2017-07-17 14:59:51,770 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2000
+2017-07-17 14:59:56,957 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2250
+2017-07-17 15:00:01,890 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2500
+2017-07-17 15:00:07,218 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2750
+2017-07-17 15:00:09,653 DEBUG ActivityFinder.Program - Found 2850 activites from Ticketmaster
+2017-07-17 15:00:09,657 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:00:09,661 DEBUG ActivityFinder.Program - Total number of activities found: 2850
+2017-07-17 15:00:09,680 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:00:11,974 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 15:00:11,977 DEBUG ActivityFinder.Program - Ended
+2017-07-17 15:02:44,714 DEBUG ActivityFinder.Program - Started
+2017-07-17 15:02:44,731 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 15:02:44,736 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:02:44,740 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-17 15:02:44,774 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:02:45,336 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 15:02:45,341 DEBUG ActivityFinder.Program - Ended
+2017-07-17 15:04:22,367 DEBUG ActivityFinder.Program - Started
+2017-07-17 15:04:22,383 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 15:04:22,389 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:04:22,398 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-17 15:04:22,422 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:04:22,900 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 15:04:22,905 DEBUG ActivityFinder.Program - Ended
+2017-07-17 15:04:31,862 DEBUG ActivityFinder.Program - Started
+2017-07-17 15:04:31,879 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 15:04:31,883 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:04:31,887 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-17 15:04:31,909 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:04:32,352 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 15:04:32,356 DEBUG ActivityFinder.Program - Ended
+2017-07-17 15:06:15,654 DEBUG ActivityFinder.Program - Started
+2017-07-17 15:06:15,667 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 15:06:15,673 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:06:15,679 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-17 15:06:15,702 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:06:16,151 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 15:06:16,155 DEBUG ActivityFinder.Program - Ended
+2017-07-17 15:07:11,308 DEBUG ActivityFinder.Program - Started
+2017-07-17 15:07:11,323 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 15:07:11,329 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:07:11,337 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-17 15:07:11,354 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:07:22,260 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 15:07:22,263 DEBUG ActivityFinder.Program - Ended
+2017-07-17 15:09:07,218 DEBUG ActivityFinder.Program - Started
+2017-07-17 15:09:07,231 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 15:09:07,237 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:09:07,242 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-17 15:09:07,266 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:09:07,767 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 15:09:07,771 DEBUG ActivityFinder.Program - Ended
+2017-07-17 15:10:53,005 DEBUG ActivityFinder.Program - Started
+2017-07-17 15:10:53,019 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 15:10:53,023 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:10:53,031 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-17 15:10:53,050 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:10:53,508 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 15:10:53,512 DEBUG ActivityFinder.Program - Ended
+2017-07-17 15:11:24,610 DEBUG ActivityFinder.Program - Started
+2017-07-17 15:11:24,624 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 15:11:24,630 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:11:24,637 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-17 15:11:24,664 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:11:25,080 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 15:11:25,086 DEBUG ActivityFinder.Program - Ended
+2017-07-17 15:11:53,962 DEBUG ActivityFinder.Program - Started
+2017-07-17 15:11:53,978 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 15:11:53,986 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:11:53,991 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-17 15:11:54,010 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:12:04,802 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 15:12:04,806 DEBUG ActivityFinder.Program - Ended
+2017-07-17 15:13:59,770 DEBUG ActivityFinder.Program - Started
+2017-07-17 15:13:59,783 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 15:13:59,790 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:13:59,798 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-17 15:13:59,818 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:14:00,305 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 15:14:00,311 DEBUG ActivityFinder.Program - Ended
+2017-07-17 15:15:40,981 DEBUG ActivityFinder.Program - Started
+2017-07-17 15:15:40,997 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 15:15:41,006 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:15:41,011 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-17 15:15:41,035 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:15:41,484 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 15:15:41,489 DEBUG ActivityFinder.Program - Ended
+2017-07-17 15:16:05,986 DEBUG ActivityFinder.Program - Started
+2017-07-17 15:16:05,999 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 15:16:06,004 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:16:06,013 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-17 15:16:06,033 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:16:06,430 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 15:16:06,435 DEBUG ActivityFinder.Program - Ended
+2017-07-17 15:22:32,178 DEBUG ActivityFinder.Program - Started
+2017-07-17 15:22:32,190 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 15:22:32,196 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:22:32,202 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-17 15:22:32,220 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:22:42,978 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 15:22:42,983 DEBUG ActivityFinder.Program - Ended
+2017-07-17 15:24:11,505 DEBUG ActivityFinder.Program - Started
+2017-07-17 15:24:11,521 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 15:24:11,526 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:24:11,532 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-17 15:24:11,552 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:24:12,089 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 15:24:12,096 DEBUG ActivityFinder.Program - Ended
+2017-07-17 15:24:18,742 DEBUG ActivityFinder.Program - Started
+2017-07-17 15:24:18,761 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 15:24:18,767 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:24:18,775 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-17 15:24:18,798 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:24:50,237 DEBUG ActivityFinder.Program - Started
+2017-07-17 15:24:50,253 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 15:24:50,262 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-17 15:24:50,267 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-17 15:24:50,285 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-17 15:24:52,231 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-17 15:24:52,237 DEBUG ActivityFinder.Program - Ended
+2017-07-17 16:05:24,953 DEBUG ActivityFinder.Program - Started
+2017-07-17 16:06:04,944 DEBUG ActivityFinder.Program - Started
+2017-07-17 16:06:40,350 DEBUG ActivityFinder.Program - Started
+2017-07-17 16:07:08,204 DEBUG ActivityFinder.Program - Started

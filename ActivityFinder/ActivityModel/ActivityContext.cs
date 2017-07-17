@@ -9,7 +9,7 @@ namespace ActivityModel
 {
     public class ActivityContext : DbContext
     {
-        public ActivityContext() : base()
+        public ActivityContext() : base("Name=ActivityModel")
         {
 
         }

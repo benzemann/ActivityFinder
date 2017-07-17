@@ -38,7 +38,9 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -49,6 +51,9 @@
   <ItemGroup>
     <Compile Include="Activity.cs" />
     <Compile Include="ActivityContext.cs" />
+    <Compile Include="ActivityManager.cs" />
+    <Compile Include="GoogleAddressModel.cs" />
+    <Compile Include="Helper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
