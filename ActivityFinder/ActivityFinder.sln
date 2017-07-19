@@ -4,10 +4,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivityFinder", "ActivityFinder\ActivityFinder.csproj", "{806C3D42-3258-4859-91C4-5D7833958D65}"
+	ProjectSection(ProjectDependencies) = postProject
+		{84CCB1FF-A4CE-4DDC-BF0F-D78684F937A5} = {84CCB1FF-A4CE-4DDC-BF0F-D78684F937A5}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivityModel", "ActivityModel\ActivityModel.csproj", "{84CCB1FF-A4CE-4DDC-BF0F-D78684F937A5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{B1EC58F5-FBDA-4608-9F5A-A8CB34F922D5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{84CCB1FF-A4CE-4DDC-BF0F-D78684F937A5} = {84CCB1FF-A4CE-4DDC-BF0F-D78684F937A5}
+	EndProjectSection
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite(1)", "Website\", "{BAF2C40F-C1C6-4C97-8DB5-33540AE84042}"
 	ProjectSection(WebsiteProperties) = preProject
@@ -28,6 +34,9 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite(1)", "Website\", "{
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "3917"
 		SlnRelativePath = "Website\"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{84CCB1FF-A4CE-4DDC-BF0F-D78684F937A5} = {84CCB1FF-A4CE-4DDC-BF0F-D78684F937A5}
 	EndProjectSection
 EndProject
 Global

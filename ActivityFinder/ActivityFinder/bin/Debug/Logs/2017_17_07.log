@@ -157,3 +157,11 @@
 2017-07-17 16:06:04,944 DEBUG ActivityFinder.Program - Started
 2017-07-17 16:06:40,350 DEBUG ActivityFinder.Program - Started
 2017-07-17 16:07:08,204 DEBUG ActivityFinder.Program - Started
+2017-07-17 22:03:09,248 DEBUG ActivityFinder.Program - Started
+2017-07-17 22:03:09,262 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 22:03:09,271 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Start iterating all latlongs and types
+2017-07-17 22:03:09,296 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553
+2017-07-17 22:17:19,203 DEBUG ActivityFinder.Program - Started
+2017-07-17 22:17:19,215 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-17 22:17:19,223 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Start iterating all latlongs and types
+2017-07-17 22:17:19,249 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.67594,12.56553

@@ -96,6 +96,8 @@ namespace ActivityFinder.GoogleMaps
         public string id { get; set; }
         public string international_phone_number { get; set; }
         public string name { get; set; }
+        public OpeningHours opening_hours { get; set; }
+        public List<Photo> photos { get; set; }
         public string place_id { get; set; }
         public double rating { get; set; }
         public string reference { get; set; }

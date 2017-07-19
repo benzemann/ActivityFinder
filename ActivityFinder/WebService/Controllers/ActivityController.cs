@@ -7,7 +7,6 @@ using System.Web.Http;
 using ActivityModel;
 using System.Threading.Tasks;
 
-
 namespace WebService.Controllers
 {
 

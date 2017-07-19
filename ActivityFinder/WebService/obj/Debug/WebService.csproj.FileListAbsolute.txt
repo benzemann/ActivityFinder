@@ -47,3 +47,6 @@ D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\EntityFramework.xml
 D:\Programming\AktivityFinder\ActivityFinder\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
 D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\EntityFramework.SqlServer.dll
 D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\EntityFramework.SqlServer.xml
+D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\System.Web.Cors.dll
+D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\System.Web.Http.Cors.dll
+D:\Programming\AktivityFinder\ActivityFinder\WebService\bin\System.Web.Http.Cors.xml

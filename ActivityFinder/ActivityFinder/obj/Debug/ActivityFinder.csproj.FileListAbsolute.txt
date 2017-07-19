@@ -13,3 +13,6 @@ D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Debug\log4net.xm
 D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\obj\Debug\ActivityFinder.csprojResolveAssemblyReference.cache
 D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\obj\Debug\ActivityFinder.exe
 D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\obj\Debug\ActivityFinder.pdb
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Debug\HtmlAgilityPack.dll
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Debug\HtmlAgilityPack.pdb
+D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\bin\Debug\HtmlAgilityPack.xml

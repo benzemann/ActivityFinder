@@ -1,0 +1,2 @@
+2017-07-18 01:53:41,529 DEBUG ActivityFinder.Program - Started
+2017-07-18 01:53:41,554 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0

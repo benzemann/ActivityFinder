@@ -18,6 +18,8 @@ namespace ActivityFinder
         static void Main(string[] args)
         {
             log.Debug("Started");
+            // Create activity manager
+            var mng = new ActivityManager();
             // List of to store all activites from the different sites
             var activities = new List<Activity>();
             // Get Activities from ticket master
@@ -28,13 +30,19 @@ namespace ActivityFinder
             var googleMapsActivities = new List<Activity>();
             GoogleMaps.GoogleMapsAPI.GetAllActivities(googleMapsActivities).Wait();
             log.Debug($"Found {googleMapsActivities.Count} activities from googleMaps");
+            // Get Activities from tripadvisor
+            var tripAdvisorActivities = new List<Activity>();
+            TripAdvisor.TripAdvisorAPI.GetAllActivities(tripAdvisorActivities);
+            log.Debug($"Found {tripAdvisorActivities.Count} activities from tripadvisor");
             // Add all activities to the database
             activities.AddRange(ticketMasterActivities);
             activities.AddRange(googleMapsActivities);
+            activities.AddRange(tripAdvisorActivities);
             log.Debug($"Total number of activities found: {activities.Count}");
+            log.Debug("Delete all activities in the database");
+            mng.DeleteAllActivities();
             log.Debug("CreateActivitiesInDB: Creating activities");
-            var mng = new ActivityManager();
-            mng.CreateActivitiesInDB(activities);
+            mng.AddActivitiesToDB(activities);
             log.Debug("CreateActivitiesInDB: Complete");
             log.Debug("Ended");
             Console.ReadLine();

@@ -18,22 +18,129 @@ namespace ActivityFinder.GoogleMaps
         private static readonly ILog log = log4net.LogManager.GetLogger
             (System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
         #region Types
-        private static string[] types = new string[] { "bowling_alley", "amusement_park", "aquarium", "art_gallery",
-        "casino", "movie_theater", "museum", "spa", "zoo" };
+        private static string[] types = new string[] { "bowling_alley", "amusement_park", "aquarium",
+        "casino", "movie_theater", "museum", "zoo" }; // Possible types: art_gallery spa
         #endregion
         #region Search position
-        private static string[] latlongs = new string[] { "55.67594,12.56553", "57.048,9.9187", "56.15674,10.21076",
-        "55.67938,12.53463", "55.39594,10.38831", "55.25377,9.48982", "55.639589,12.096941" }; // mayor cities in DK
+        private static string[] cities = new string[] {
+            "København",
+            /*"Aarhus",
+            "Aalborg",
+            "Odense",
+            "Esbjerg",
+            "Vejle",
+            "Frederiksberg",
+            "Randers",
+            "Viborg",*/
+            "Kolding",
+            /*"Silkeborg",
+            "Herning",
+            "Horsens",*/
+            "Roskilde",
+            /*"Næstved",
+            "Slagelse",
+            "Sønderborg",
+            "Gentofte",
+            "Holbæk",
+            "Gladsaxe",
+            "Hjørring",
+            "Helsingør",
+            "Guldborgsund",
+            "Frederikshavn",
+            "Aabenraa",
+            "Køge",
+            "Skanderborg",
+            "Svendborg",
+            "Holstebro",
+            "Ringkøbing-Skjern",
+            "Haderslev",
+            "Rudersdal",
+            "Lyngby-Taarbæk",
+            "Hvidovre",
+            "Faaborg-Midtfyn",
+            "Fredericia",
+            "Varde",
+            "Høje-Taastrup",
+            "Hillerød",
+            "Greve",
+            "Ballerup",
+            "Kalundborg",
+            "Favrskov",
+            "Skive",
+            "Hedensted",
+            "Vordingborg",
+            "Thisted",
+            "Frederikssund",
+            "Lolland",
+            "Vejen",
+            "Egedal",
+            "Tårnby",
+            "Mariagerfjord",
+            "Syddjurs",
+            "Assens",
+            "Gribskov",
+            "Ikast-Brande",
+            "Bornholm",
+            "Fredensborg",
+            "Furesø",
+            "Jammerbugt",
+            "Tønder",
+            "Middelfart",
+            "Norddjurs",
+            "Rødovre",
+            "Vesthimmerland",
+            "Brønderslev",
+            "Faxe",
+            "Brøndby",
+            "Ringsted",
+            "Odsherred",
+            "Nyborg",
+            "Halsnæs",
+            "Sorø",
+            "Nordfyn",
+            "Rebild",
+            "Herlev",
+            "Albertslund",
+            "Lejre",
+            "Billund",
+            "Hørsholm",
+            "Allerød",
+            "Kerteminde",
+            "Glostrup",
+            "Stevns",
+            "Odder",
+            "Ishøj",
+            "Struer",
+            "Solrød",
+            "Morsø",
+            "Lemvig",
+            "Vallensbæk",
+            "Dragør",
+            "Langeland",
+            "Ærø",
+            "Samsø",
+            "Fanø",
+            "Læsø"*/
+        }; // mayor cities in DK
         #endregion
         public async static Task GetAllActivities(List<Activity> activities)
         {
-            log.Debug($"GetAllActivities: Start iterating all latlongs and types");
+            log.Debug($"GetAllActivities: Start iterating all cities and types");
             var googleActivities = new List<Activity>();
             foreach (var type in types)
             {
-                foreach(var latlong in latlongs)
+                foreach(var city in cities)
                 {
-                    await GetAllActivities(googleActivities, latlong, type);
+                    var latlong = await Helper.LatLongFromAddress(city);
+                    if(latlong == null)
+                    {
+                        continue;
+                    }
+                    await GetAllActivities(
+                        googleActivities, 
+                        latlong.Lat.ToString(System.Globalization.CultureInfo.InvariantCulture) + 
+                        ","+latlong.Long.ToString(System.Globalization.CultureInfo.InvariantCulture),
+                        type);
                 }
             }
             // Remove duplicates by place_id and remove it from the description field
@@ -89,15 +196,15 @@ namespace ActivityFinder.GoogleMaps
                             $"Results from API: {result}");
                     }
                     var openHours = "";
-                    if(res.opening_hours != null && res.opening_hours.weekday_text != null)
+                    if(googleMapsDetailModel.result.opening_hours != null && googleMapsDetailModel.result.opening_hours.weekday_text != null)
                     {
-                        foreach (var oh in res.opening_hours.weekday_text)
+                        foreach (var oh in googleMapsDetailModel.result.opening_hours.weekday_text)
                         {
-                            openHours += oh.ToString() + " ";
+                            openHours += oh + Environment.NewLine;
                         }
                     }
 
-                    var country = (from a in googleMapsDetailModel.result.address_components.AsEnumerable()
+                   var country = (from a in googleMapsDetailModel.result.address_components.AsEnumerable()
                                    where a.types.Contains("country") && a.short_name != null
                                    select a.short_name).FirstOrDefault();
                     if(country != null && country != "DK")
@@ -133,8 +240,10 @@ namespace ActivityFinder.GoogleMaps
                                     googleMapsDetailModel.result.geometry.location.lng : 0.0,
                         Website = googleMapsDetailModel.result.website,
                         Description = googleMapsDetailModel.result.place_id,
-                        Category = googleMapsDetailModel.result.types != null ? 
-                        googleMapsDetailModel.result.types.FirstOrDefault() : ""
+                        Category = googleMapsDetailModel.result.types != null ?
+                        googleMapsDetailModel.result.types.FirstOrDefault() : "",
+                        Image = res.photos != null ? 
+                        $"https://maps.googleapis.com/maps/api/place/photo?maxwidth=250&photoreference={res.photos.FirstOrDefault().photo_reference}&key={ConfigurationManager.AppSettings["GoogleMapsAPIKey"]}" : ""
                     };
                     activities.Add(newActivity);
                 }

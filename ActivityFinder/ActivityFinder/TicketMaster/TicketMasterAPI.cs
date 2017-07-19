@@ -47,10 +47,10 @@ namespace ActivityFinder
                         Title = tmEvent.name,
                         Image = tmEvent.images != null && tmEvent.images.Count > 0 ? 
                         tmEvent.images.FirstOrDefault().url : "",
-                        StartDate = tmEvent.eventdate != null ? tmEvent.eventdate.value : "",
+                        StartDate = tmEvent.eventdate != null ? DateTime.Parse(tmEvent.eventdate.value).ToLocalTime().ToString() : "",
                         Price = tmEvent.price_ranges != null ? (tmEvent.price_ranges.including_ticket_fees != null ?
-                        "Min: " + tmEvent.price_ranges.including_ticket_fees.min +
-                        " Max: " + tmEvent.price_ranges.including_ticket_fees.max : "") : "",
+                        tmEvent.price_ranges.including_ticket_fees.min + " kr." +
+                        " til " + tmEvent.price_ranges.including_ticket_fees.max + " kr." : "") : "",
                         Url = tmEvent.url,
                         Address = tmEvent.venue != null ? 
                         (tmEvent.venue.location.address != null ? tmEvent.venue.location.address.address : "") : "",
