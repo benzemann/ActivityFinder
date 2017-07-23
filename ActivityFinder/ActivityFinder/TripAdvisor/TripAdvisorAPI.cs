@@ -18,25 +18,25 @@ namespace ActivityFinder.TripAdvisor
 
         #region City urls
         private static string[] cities = new string[] {
-            /*"/Attractions-g227593-Activities-Horsens_East_Jutland_Jutland.html",
-            "/Attractions-g230034-Activities-Skive_West_Jutland_Jutland.html",
-            "/Attractions-g1370488-Activities-Holbaek_Holbaek_Municipality_West_Zealand_Zealand.html",
-            "/Attractions-g1102747-Activities-Skanderborg_East_Jutland_Jutland.html",
-            "/Attractions-g226901-Activities-Herning_West_Jutland_Jutland.html",*/
+            /*"/Attractions-g227593-Activities-[PAGE]Horsens_East_Jutland_Jutland.html",
+            "/Attractions-g230034-Activities-[PAGE]Skive_West_Jutland_Jutland.html",
+            "/Attractions-g1370488-Activities-[PAGE]Holbaek_Holbaek_Municipality_West_Zealand_Zealand.html",
+            "/Attractions-g1102747-Activities-[PAGE]Skanderborg_East_Jutland_Jutland.html",
+            "/Attractions-g226901-Activities-[PAGE]Herning_West_Jutland_Jutland.html",*/
             "/Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html",
-            /*"/Attractions-g226902-Activities-Silkeborg_East_Jutland_Jutland.html",
-            "/Attractions-g226904-Activities-Vejle_South_Jutland_Jutland.html",
-            "/Attractions-g189521-Activities-Langeland_Funen_and_Islands.html",
-            "/Attractions-g1601857-Activities-Nykoebing_Odsherred_Municipality_West_Zealand_Zealand.html",
-            "/Attractions-g189528-Activities-Aabenraa_South_Jutland_Jutland.html",
-            "/Attractions-g1222129-Activities-Lemvig_West_Jutland_Jutland.html",
-            "/Attractions-g1069587-Activities-Kerteminde_Funen_and_Islands.html",
-            "/Attractions-g667542-Activities-Naestved_Naestved_Municipality_South_Zealand_Zealand.html",
-            "/Attractions-g2555539-Activities-Kastrup_Taarnby_Municipality_Copenhagen_Region_Zealand.html",*/
+            /*"/Attractions-g226902-Activities-[PAGE]Silkeborg_East_Jutland_Jutland.html",
+            "/Attractions-g226904-Activities-[PAGE]Vejle_South_Jutland_Jutland.html",
+            "/Attractions-g189521-Activities-[PAGE]Langeland_Funen_and_Islands.html",
+            "/Attractions-g1601857-Activities-[PAGE]Nykoebing_Odsherred_Municipality_West_Zealand_Zealand.html",
+            "/Attractions-g189528-Activities-[PAGE]Aabenraa_South_Jutland_Jutland.html",
+            "/Attractions-g1222129-Activities-[PAGE]Lemvig_West_Jutland_Jutland.html",
+            "/Attractions-g1069587-Activities-[PAGE]Kerteminde_Funen_and_Islands.html",
+            "/Attractions-g667542-Activities-[PAGE]Naestved_Naestved_Municipality_South_Zealand_Zealand.html",
+            "/Attractions-g2555539-Activities-[PAGE]Kastrup_Taarnby_Municipality_Copenhagen_Region_Zealand.html",*/
             "/Attractions-g189544-Activities-[PAGE]Roskilde_West_Zealand_Zealand.html",
-            /*"/Attractions-g659281-Activities-Struer_West_Jutland_Jutland.html",
-            "/Attractions-g285705-Activities-Skagen_North_Jutland_Jutland.html",
-            "/Attractions-g1207777-Activities-Assens_Funen_and_Islands.html",
+            /*"/Attractions-g659281-Activities-[PAGE]Struer_West_Jutland_Jutland.html",
+            "/Attractions-g285705-Activities-[PAGE]Skagen_North_Jutland_Jutland.html",
+            "/Attractions-g1207777-Activities-[PAGE]Assens_Funen_and_Islands.html",
             "/Attractions-g230030-Activities-Fredericia_South_Jutland_Jutland.html",
             "/Attractions-g227595-Activities-Ringsted_Ringsted_Municipality_West_Zealand_Zealand.html",
             "/Attractions-g2549257-Activities-Hedensted_East_Jutland_Jutland.html",
@@ -443,6 +443,10 @@ namespace ActivityFinder.TripAdvisor
             if (rgx.IsMatch(document.DocumentNode.OuterHtml))
             {
                 newActivity.Image = rgx.Match(document.DocumentNode.OuterHtml).Groups[1].Value;
+                if(newActivity.Image == "https://static.tacdn.com/img2/branding/rebrand/TA_brand_logo.png")
+                {
+                    newActivity.Image = null;
+                }
             }
             rgx = new Regex(urlPattern);
             if (rgx.IsMatch(document.DocumentNode.OuterHtml))
@@ -470,16 +474,83 @@ namespace ActivityFinder.TripAdvisor
             {
                 newActivity.PostalCode = rgx.Match(document.DocumentNode.OuterHtml).Groups[1].Value;
             }
-            // Get lat long from the address
-            var latlong = Helper.LatLongFromAddress((newActivity.Address != null ? newActivity.Address : "") +
-                newActivity.PostalCode != null ? ", " + newActivity.PostalCode : "");
-            latlong.Wait();
-            if(latlong.Result != null)
+            // Get openinghours
+            var allEmenents = document.DocumentNode.Descendants();
+            if (allEmenents != null)
             {
-                newActivity.Latitude = latlong.Result.Lat;
-                newActivity.Longitude = latlong.Result.Long;
+                var timeRanges = (from element in allEmenents.AsEnumerable()
+                                    where element.Attributes["class"] != null &&
+                                    element.Attributes["class"].Value == "timeRange"
+                                    select element.InnerText).ToList();
+                var dayRanges = (from element in allEmenents.AsEnumerable()
+                                 where element.Attributes["class"] != null &&
+                                 element.Attributes["class"].Value.Contains("dayRange")
+                                 select element.InnerText).ToList();
+                if(timeRanges.Count != dayRanges.Count)
+                {
+                    log.Error("Timeranges and dayranges does not match for url: " + obj.url);
+                } else
+                {
+                    var openingHours = "";
+                    for (int i = 0; i < timeRanges.Count; i++)
+                    {
+                        openingHours += dayRanges[i] + ": " + timeRanges[i] + "\n";
+                    }
+                    if(openingHours != "")
+                    {
+                        newActivity.OpenHours = openingHours;
+                    }
+                }
             }
+            // Get category
+            var category = document.DocumentNode.Descendants()
+                .Where(x => x.Attributes["class"] != null && x.Attributes["class"].Value == "detail")
+                .Select(x => x.InnerText)
+                .ToList();
+            if (category != null)
+            {
+                newActivity.Category = MapTripAdvisorCategory(category.FirstOrDefault());
+            }
+            // Get lat long from the address
+            var add = (newActivity.Address != null ? newActivity.Address : "") +
+                (newActivity.PostalCode != null ? ", " + newActivity.PostalCode : "");
+            try
+            {
+                var latlong = Helper.LatLongFromAddress(add);
+                latlong.Wait();
+                if (latlong.Result != null)
+                {
+                    newActivity.Latitude = latlong.Result.Lat;
+                    newActivity.Longitude = latlong.Result.Long;
 
+                    // Get website from google maps API
+                    var googleDetails = GoogleMaps.GoogleMapsAPI.GetDetailsFromLatLongAndKeyWord(
+                        newActivity.Latitude.ToString(System.Globalization.CultureInfo.InvariantCulture)
+                        + "," + newActivity.Longitude.ToString(System.Globalization.CultureInfo.InvariantCulture),
+                        newActivity.Title);
+                    googleDetails.Wait();
+                    if (googleDetails.Result != null)
+                    {
+                        if (googleDetails.Result.result.website != null)
+                        {
+                            newActivity.Website = googleDetails.Result.result.website;
+                        }
+                        // if no image then try to get from google instead
+                        if (newActivity.Image == null &&
+                            googleDetails.Result.result.photos != null &&
+                           googleDetails.Result.result.photos.FirstOrDefault() != null)
+                        {
+                            newActivity.Image = GoogleMaps.GoogleMapsAPI.GetImageUrlFromGooglePhotoReference(
+                                googleDetails.Result.result.photos.FirstOrDefault().photo_reference);
+                        }
+                    }
+                }
+            } catch (Exception e)
+            {
+                log.Error("Failed to get details from google. " + Environment.NewLine + "Message: " + e.Message +
+                    Environment.NewLine + "StackTrace: " + e.StackTrace);
+            }
+            
             return newActivity;
         }
 
@@ -492,9 +563,9 @@ namespace ActivityFinder.TripAdvisor
 
             if (offset > 0)
             {
-                url = $"https://www.tripadvisor.dk/{cityUrl.Replace("[PAGE]","-oa") + offset.ToString() }-Copenhagen_Zealand.html#ATTRACTION_LIST";
+                url = $"https://www.tripadvisor.dk/{cityUrl.Replace("[PAGE]","oa" + offset.ToString() + "-")  }#ATTRACTION_LIST";
             }
-
+            log.Debug(url);
             var web = new HtmlWeb();
             var document = web.Load(url);
 
@@ -527,6 +598,36 @@ namespace ActivityFinder.TripAdvisor
                 res.Add(lisitingObj);
             }
             return res;
+        }
+
+        static string MapTripAdvisorCategory(string tripAdvisorCategory)
+        {
+            if (tripAdvisorCategory.Contains("Kunstgallerier"))
+            {
+                return "Galleri";
+            }
+            if (tripAdvisorCategory.Contains("Museer"))
+            {
+                return "Museum";
+            }
+            if (tripAdvisorCategory.Contains("Parker") ||
+                tripAdvisorCategory.Contains("Natur og parker") ||
+                tripAdvisorCategory.Contains("Haver"))
+            {
+                return "Park eller naturområde";
+            }
+            if (tripAdvisorCategory.Contains("Teatre") ||
+                tripAdvisorCategory.Contains("Koncerter"))
+            {
+                return "Teater eller koncerthus";
+            }
+            if (tripAdvisorCategory.Contains("Seværdigheder"))
+            {
+                return "Seværdighed";
+            }
+            
+            // Default er serværdighed
+            return "Seværdighed";
         }
 
     }

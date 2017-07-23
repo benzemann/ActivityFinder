@@ -1,0 +1,1128 @@
+2017-07-23 12:47:44,879 DEBUG ActivityFinder.Program - Started
+2017-07-23 12:47:44,892 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 12:47:44,896 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 12:47:44,901 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 3
+2017-07-23 12:47:44,960 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 12:47:45,779 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 12:47:46,443 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 12:47:47,466 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 12:47:48,386 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 12:47:48,422 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 12:48:34,707 DEBUG ActivityFinder.Program - Started
+2017-07-23 12:48:34,720 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 12:48:34,724 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 12:48:34,730 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 3
+2017-07-23 12:48:34,751 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 12:48:35,572 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 12:48:36,246 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 12:48:37,186 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 12:48:38,179 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 12:48:38,208 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 12:49:45,500 DEBUG ActivityFinder.Program - Started
+2017-07-23 12:49:45,515 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 12:49:45,520 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 12:49:45,528 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 3
+2017-07-23 12:49:45,548 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 12:49:46,314 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 12:49:47,025 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 12:49:47,958 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 12:49:48,928 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 12:49:48,955 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 12:51:21,603 DEBUG ActivityFinder.Program - Started
+2017-07-23 12:51:21,617 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 12:51:21,623 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 12:51:21,630 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 3
+2017-07-23 12:51:21,647 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 12:51:22,539 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 12:51:23,222 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 12:51:24,191 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 12:51:25,166 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 12:51:25,193 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 12:51:50,369 DEBUG ActivityFinder.Program - Started
+2017-07-23 12:51:50,398 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 12:51:50,404 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 12:51:50,413 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 3
+2017-07-23 12:51:50,434 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 12:51:51,213 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 12:51:51,893 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 12:51:52,913 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 12:51:53,943 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 12:51:53,971 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 12:52:47,410 DEBUG ActivityFinder.Program - Started
+2017-07-23 12:52:47,423 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 12:52:47,427 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 12:52:47,432 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 3
+2017-07-23 12:52:47,448 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 12:52:48,241 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 12:52:48,934 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 12:52:49,915 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 12:52:50,908 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 12:52:50,935 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 12:56:12,745 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 90
+2017-07-23 12:56:12,759 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d666212-Reviews-Trapholt-Kolding_South_Jutland_Jutland.html
+2017-07-23 12:56:25,976 DEBUG ActivityFinder.Program - Started
+2017-07-23 12:56:26,023 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 12:56:26,044 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 12:56:26,064 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 3
+2017-07-23 12:56:26,122 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 12:56:27,221 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 12:56:28,226 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 12:56:29,461 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 12:56:30,613 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 12:56:30,699 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:17:40,737 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:17:40,751 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:17:40,756 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:17:40,764 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:17:40,784 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:17:41,782 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:17:42,494 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:17:43,454 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:17:44,355 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:17:44,383 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:17:45,670 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 90
+2017-07-23 13:17:45,674 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d666212-Reviews-Trapholt-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:17:46,575 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 90
+2017-07-23 13:17:46,587 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d2219421-Reviews-Geographical_Gardens-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:17:47,687 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 3 out of 90
+2017-07-23 13:17:47,692 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d547636-Reviews-Downtown_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:17:48,721 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 4 out of 90
+2017-07-23 13:17:48,727 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d7758060-Reviews-Legeparken_in_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:17:49,977 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 5 out of 90
+2017-07-23 13:17:49,982 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553210-d3585961-Reviews-Skamlingsbanken-Sjoelund_Kolding_South_Jutland_Jutland.html
+2017-07-23 13:17:50,985 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 6 out of 90
+2017-07-23 13:17:50,990 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598194-Reviews-Kolding_Miniby-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:17:52,044 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 7 out of 90
+2017-07-23 13:17:52,050 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3547217-Reviews-Dansk_Sygeplejehistorisk_Museum-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:17:52,916 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 8 out of 90
+2017-07-23 13:17:52,925 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3590054-Reviews-Marielundssoen-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:06,040 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:18:06,058 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:18:06,062 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:18:06,067 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:18:06,091 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:06,875 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:18:07,563 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:18:08,469 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:18:09,380 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:18:09,412 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:10,563 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 90
+2017-07-23 13:18:10,567 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d666212-Reviews-Trapholt-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:11,515 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 90
+2017-07-23 13:18:11,519 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d2219421-Reviews-Geographical_Gardens-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:12,511 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 3 out of 90
+2017-07-23 13:18:12,516 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d547636-Reviews-Downtown_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:13,458 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 4 out of 90
+2017-07-23 13:18:13,469 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d7758060-Reviews-Legeparken_in_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:14,543 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 5 out of 90
+2017-07-23 13:18:14,547 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553210-d3585961-Reviews-Skamlingsbanken-Sjoelund_Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:15,519 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 6 out of 90
+2017-07-23 13:18:15,526 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598194-Reviews-Kolding_Miniby-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:16,495 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 7 out of 90
+2017-07-23 13:18:16,501 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3547217-Reviews-Dansk_Sygeplejehistorisk_Museum-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:17,382 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 8 out of 90
+2017-07-23 13:18:17,394 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3590054-Reviews-Marielundssoen-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:24,807 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:18:24,819 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:18:24,828 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:18:24,835 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:18:24,855 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:25,595 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:18:26,276 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:18:27,250 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:18:28,144 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:18:28,175 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:28,992 ERROR ActivityFinder.TripAdvisor.TripAdvisorAPI - Failed to get activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html. 
+ Message: '<>f__AnonymousType0<string,string>' indeholder ikke en definition til 'Url' 
+ StackTrace:    ved CallSite.Target(Closure , CallSite , Object )
+   ved System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   ved ActivityFinder.TripAdvisor.TripAdvisorAPI.GetAllActivities(List`1 activities, String cityUrl) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:linje 415
+   ved ActivityFinder.TripAdvisor.TripAdvisorAPI.GetAllActivities(List`1 activities) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:linje 363
+2017-07-23 13:18:28,998 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 13:18:29,004 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-23 13:18:29,009 DEBUG ActivityFinder.Program - Delete all activities in the database
+2017-07-23 13:18:35,384 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:18:35,401 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:18:35,409 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:18:35,417 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:18:35,438 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:36,231 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:18:36,942 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:18:37,867 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:18:38,771 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:18:38,800 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:40,027 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 90
+2017-07-23 13:18:40,032 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d666212-Reviews-Trapholt-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:40,954 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 90
+2017-07-23 13:18:40,963 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d2219421-Reviews-Geographical_Gardens-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:41,975 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 3 out of 90
+2017-07-23 13:18:41,981 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d547636-Reviews-Downtown_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:42,965 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 4 out of 90
+2017-07-23 13:18:42,979 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d7758060-Reviews-Legeparken_in_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:43,959 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 5 out of 90
+2017-07-23 13:18:43,964 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553210-d3585961-Reviews-Skamlingsbanken-Sjoelund_Kolding_South_Jutland_Jutland.html
+2017-07-23 13:18:44,942 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 6 out of 90
+2017-07-23 13:18:44,954 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598194-Reviews-Kolding_Miniby-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:19:15,911 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:19:15,933 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:19:15,937 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:19:15,946 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:19:15,968 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:19:16,853 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:19:17,497 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:19:18,420 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:19:19,385 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:19:19,414 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:19:20,688 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 90
+2017-07-23 13:19:20,693 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d666212-Reviews-Trapholt-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:19:21,603 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 90
+2017-07-23 13:19:21,611 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d2219421-Reviews-Geographical_Gardens-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:19:22,703 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 3 out of 90
+2017-07-23 13:19:22,709 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d547636-Reviews-Downtown_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:19:23,701 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 4 out of 90
+2017-07-23 13:19:23,708 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d7758060-Reviews-Legeparken_in_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:19:24,764 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 5 out of 90
+2017-07-23 13:19:24,771 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553210-d3585961-Reviews-Skamlingsbanken-Sjoelund_Kolding_South_Jutland_Jutland.html
+2017-07-23 13:19:25,855 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 6 out of 90
+2017-07-23 13:19:25,861 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598194-Reviews-Kolding_Miniby-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:19:26,893 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 7 out of 90
+2017-07-23 13:19:26,897 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3547217-Reviews-Dansk_Sygeplejehistorisk_Museum-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:19:27,779 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 8 out of 90
+2017-07-23 13:19:27,786 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3590054-Reviews-Marielundssoen-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:19:53,648 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:19:53,660 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:19:53,664 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:19:53,670 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:19:53,692 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:19:54,485 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:19:55,162 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:19:56,051 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:19:56,962 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:19:56,990 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:21:52,333 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:21:52,349 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:21:52,355 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:21:52,366 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:21:52,392 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:21:53,177 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:21:53,890 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:21:54,814 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:21:55,726 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:21:55,755 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:15,518 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:23:15,534 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:23:15,540 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:23:15,549 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:23:15,571 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:16,327 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:23:17,064 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:23:18,014 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:23:18,920 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:23:18,949 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:20,699 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 90
+2017-07-23 13:23:20,703 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d666212-Reviews-Trapholt-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:21,966 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 90
+2017-07-23 13:23:21,979 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d2219421-Reviews-Geographical_Gardens-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:23,472 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 3 out of 90
+2017-07-23 13:23:23,476 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d547636-Reviews-Downtown_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:24,890 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 4 out of 90
+2017-07-23 13:23:24,898 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d7758060-Reviews-Legeparken_in_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:26,498 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 5 out of 90
+2017-07-23 13:23:26,503 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553210-d3585961-Reviews-Skamlingsbanken-Sjoelund_Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:27,883 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 6 out of 90
+2017-07-23 13:23:27,888 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598194-Reviews-Kolding_Miniby-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:29,353 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 7 out of 90
+2017-07-23 13:23:29,360 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3547217-Reviews-Dansk_Sygeplejehistorisk_Museum-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:30,663 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 8 out of 90
+2017-07-23 13:23:30,669 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3590054-Reviews-Marielundssoen-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:32,375 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 9 out of 90
+2017-07-23 13:23:32,384 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3554496-Reviews-Godset-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:33,904 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 10 out of 90
+2017-07-23 13:23:33,920 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3566481-Reviews-Det_Gamle_Borgerhus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:44,521 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:23:44,538 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:23:44,547 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:23:44,554 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:23:44,575 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:45,331 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:23:45,972 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:23:46,861 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:23:47,774 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:23:47,802 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:48,990 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 90
+2017-07-23 13:23:48,996 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d666212-Reviews-Trapholt-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:49,948 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 90
+2017-07-23 13:23:49,953 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d2219421-Reviews-Geographical_Gardens-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:51,010 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 3 out of 90
+2017-07-23 13:23:51,014 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d547636-Reviews-Downtown_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:51,948 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 4 out of 90
+2017-07-23 13:23:51,956 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d7758060-Reviews-Legeparken_in_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:53,032 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 5 out of 90
+2017-07-23 13:23:53,045 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553210-d3585961-Reviews-Skamlingsbanken-Sjoelund_Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:54,030 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 6 out of 90
+2017-07-23 13:23:54,038 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598194-Reviews-Kolding_Miniby-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:23:55,040 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 7 out of 90
+2017-07-23 13:23:55,047 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3547217-Reviews-Dansk_Sygeplejehistorisk_Museum-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:25:12,824 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:25:12,837 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:25:12,842 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:25:12,847 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:25:12,865 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:25:13,646 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:25:14,370 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:25:15,263 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:25:16,175 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:25:16,206 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:25:17,531 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 90
+2017-07-23 13:25:17,535 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d666212-Reviews-Trapholt-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:25:18,461 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 90
+2017-07-23 13:25:18,469 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d2219421-Reviews-Geographical_Gardens-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:25:19,524 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 3 out of 90
+2017-07-23 13:25:19,529 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d547636-Reviews-Downtown_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:25:20,576 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 4 out of 90
+2017-07-23 13:25:20,582 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d7758060-Reviews-Legeparken_in_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:33:11,465 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:33:11,478 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:33:11,483 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:33:11,488 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:33:11,511 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:33:12,310 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:33:12,971 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:33:13,878 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:33:14,815 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:33:14,846 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:34:53,429 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:34:53,444 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:34:53,448 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:34:53,458 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:34:53,479 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:34:54,254 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:34:54,940 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:34:55,840 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:34:56,769 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:34:56,799 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:36:05,515 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:36:05,530 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:36:05,537 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:36:05,546 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:36:05,576 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:36:06,357 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:36:07,021 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:36:07,943 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:36:08,886 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:36:08,916 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:36:56,087 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:36:56,101 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:36:56,107 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:36:56,116 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:36:56,138 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:36:56,916 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:36:57,558 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:36:58,444 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:36:59,364 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:36:59,393 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:37:33,110 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:37:33,124 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:37:33,131 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:37:33,142 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:37:33,164 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:37:33,955 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:37:34,645 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:37:35,548 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:37:36,447 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:37:36,476 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:38:29,349 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:38:29,366 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:38:29,372 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:38:29,382 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:38:29,403 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:38:30,214 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:38:30,903 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:38:31,842 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:38:32,761 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:38:32,791 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:39:01,988 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:39:02,004 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:39:02,012 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:39:02,018 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:39:02,040 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:39:02,807 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:39:03,511 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:39:04,494 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:39:05,466 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:39:05,496 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:40:46,635 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:40:46,650 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:40:46,660 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:40:46,667 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:40:46,691 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:40:47,461 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:40:48,156 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:40:49,107 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:40:50,027 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:40:50,059 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:40:50,808 ERROR ActivityFinder.TripAdvisor.TripAdvisorAPI - Failed to get activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html. 
+ Message: '<>f__AnonymousType0<string,string>' indeholder ikke en definition til 'Url' 
+ StackTrace:    ved CallSite.Target(Closure , CallSite , Object )
+   ved System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   ved ActivityFinder.TripAdvisor.TripAdvisorAPI.GetAllActivities(List`1 activities, String cityUrl) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:linje 415
+   ved ActivityFinder.TripAdvisor.TripAdvisorAPI.GetAllActivities(List`1 activities) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:linje 363
+2017-07-23 13:40:50,815 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 13:40:50,820 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-23 13:40:50,825 DEBUG ActivityFinder.Program - Delete all activities in the database
+2017-07-23 13:40:56,436 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-23 13:40:56,442 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-23 13:40:56,448 DEBUG ActivityFinder.Program - Ended
+2017-07-23 13:41:04,989 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:41:05,002 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:41:05,008 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:41:05,017 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:41:05,043 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:41:05,822 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:41:06,517 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:41:07,420 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:41:08,443 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:41:08,473 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:41:09,233 ERROR ActivityFinder.TripAdvisor.TripAdvisorAPI - Failed to get activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html. 
+ Message: '<>f__AnonymousType0<string,string>' indeholder ikke en definition til 'Url' 
+ StackTrace:    ved CallSite.Target(Closure , CallSite , Object )
+   ved System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   ved ActivityFinder.TripAdvisor.TripAdvisorAPI.GetAllActivities(List`1 activities, String cityUrl) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:linje 415
+   ved ActivityFinder.TripAdvisor.TripAdvisorAPI.GetAllActivities(List`1 activities) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:linje 363
+2017-07-23 13:41:09,242 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 13:41:09,250 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-23 13:41:09,257 DEBUG ActivityFinder.Program - Delete all activities in the database
+2017-07-23 13:41:10,404 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-23 13:41:10,417 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-23 13:41:10,430 DEBUG ActivityFinder.Program - Ended
+2017-07-23 13:41:36,395 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:41:36,409 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:41:36,418 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:41:36,427 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:41:36,451 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:41:37,318 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:41:38,009 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:41:38,941 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:41:39,856 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:41:39,887 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:44:15,642 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:44:15,659 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:44:15,665 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:44:15,678 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:44:15,701 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:44:16,469 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:44:17,179 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:44:18,350 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:44:19,242 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:44:19,273 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:47:40,969 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:47:40,986 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:47:40,996 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:47:41,007 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:47:41,029 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:47:41,798 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:47:42,477 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:47:43,365 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:47:44,281 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:47:44,309 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:47:57,637 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:47:57,652 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:47:57,659 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:47:57,666 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:47:57,688 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:47:58,461 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:47:59,216 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:48:00,197 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:48:01,530 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:48:01,561 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:49:35,172 DEBUG ActivityFinder.Program - Started
+2017-07-23 13:49:35,190 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 13:49:35,198 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 13:49:35,205 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 13:49:35,226 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 13:49:36,164 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 13:49:36,882 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 13:49:37,839 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 13:49:38,800 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 90
+2017-07-23 13:49:38,829 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:23:15,727 DEBUG ActivityFinder.Program - Started
+2017-07-23 15:23:15,740 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 15:23:15,746 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 15:23:15,754 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 15:23:15,773 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:23:16,540 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 15:23:16,546 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:23:17,238 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 15:23:17,243 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa30-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:23:17,890 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 15:23:17,895 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa60-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:23:18,475 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 56
+2017-07-23 15:23:18,506 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:23:21,120 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 56
+2017-07-23 15:23:21,126 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d666212-Reviews-Trapholt-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:23:22,463 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 56
+2017-07-23 15:23:22,475 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d2219421-Reviews-Geographical_Gardens-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:23:24,175 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 3 out of 56
+2017-07-23 15:23:24,188 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d547636-Reviews-Downtown_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:23:26,030 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 4 out of 56
+2017-07-23 15:23:26,044 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d7758060-Reviews-Legeparken_in_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:23:27,774 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 5 out of 56
+2017-07-23 15:23:27,779 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553210-d3585961-Reviews-Skamlingsbanken-Sjoelund_Kolding_South_Jutland_Jutland.html
+2017-07-23 15:23:29,619 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 6 out of 56
+2017-07-23 15:23:29,629 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598194-Reviews-Kolding_Miniby-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:23:31,432 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 7 out of 56
+2017-07-23 15:23:31,437 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3547217-Reviews-Dansk_Sygeplejehistorisk_Museum-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:23:32,707 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 8 out of 56
+2017-07-23 15:23:32,720 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3590054-Reviews-Marielundssoen-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:23:34,125 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 9 out of 56
+2017-07-23 15:23:34,139 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3554496-Reviews-Godset-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:23:35,721 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 10 out of 56
+2017-07-23 15:23:35,726 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3566481-Reviews-Det_Gamle_Borgerhus-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:24:01,525 DEBUG ActivityFinder.Program - Started
+2017-07-23 15:24:01,536 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 15:24:01,542 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 15:24:01,554 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 15:24:01,577 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:24:02,307 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 15:24:02,312 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:24:02,983 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 15:24:02,990 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa30-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:24:03,736 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 15:24:03,741 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa60-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:24:04,334 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 56
+2017-07-23 15:24:04,366 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:25:47,819 DEBUG ActivityFinder.Program - Started
+2017-07-23 15:25:47,835 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 15:25:47,841 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 15:25:47,853 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 15:25:47,877 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:25:48,680 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 15:25:48,688 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:25:49,363 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 15:25:49,368 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa30-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:25:50,038 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 15:25:50,044 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa60-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:25:50,684 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 56
+2017-07-23 15:25:50,719 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:26:10,139 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 56
+2017-07-23 15:26:10,146 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d666212-Reviews-Trapholt-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:27:26,106 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 56
+2017-07-23 15:27:26,118 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d2219421-Reviews-Geographical_Gardens-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:30:59,322 DEBUG ActivityFinder.Program - Started
+2017-07-23 15:30:59,342 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 15:30:59,352 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 15:30:59,359 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 15:30:59,382 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:31:00,161 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 15:31:00,167 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:31:00,871 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 15:31:00,878 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa30-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:31:01,528 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 15:31:01,532 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa60-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:31:02,105 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 56
+2017-07-23 15:31:02,136 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:31:03,358 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 56
+2017-07-23 15:31:03,363 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d666212-Reviews-Trapholt-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:31:04,380 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 56
+2017-07-23 15:31:04,386 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d2219421-Reviews-Geographical_Gardens-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:31:05,393 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 3 out of 56
+2017-07-23 15:31:05,401 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d547636-Reviews-Downtown_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:31:06,378 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 4 out of 56
+2017-07-23 15:31:06,391 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d7758060-Reviews-Legeparken_in_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:31:07,443 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 5 out of 56
+2017-07-23 15:31:07,448 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553210-d3585961-Reviews-Skamlingsbanken-Sjoelund_Kolding_South_Jutland_Jutland.html
+2017-07-23 15:31:08,501 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 6 out of 56
+2017-07-23 15:31:08,507 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598194-Reviews-Kolding_Miniby-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:31:09,396 ERROR ActivityFinder.TripAdvisor.TripAdvisorAPI - Failed to get activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html. 
+ Message: '<>f__AnonymousType0<string,string>' indeholder ikke en definition til 'Url' 
+ StackTrace:    ved CallSite.Target(Closure , CallSite , Object )
+   ved System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   ved ActivityFinder.TripAdvisor.TripAdvisorAPI.GetAllActivities(List`1 activities, String cityUrl) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:linje 415
+   ved ActivityFinder.TripAdvisor.TripAdvisorAPI.GetAllActivities(List`1 activities) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:linje 363
+2017-07-23 15:31:09,409 DEBUG ActivityFinder.Program - Found 6 activities from tripadvisor
+2017-07-23 15:31:09,417 DEBUG ActivityFinder.Program - Total number of activities found: 6
+2017-07-23 15:31:09,423 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Started
+2017-07-23 15:31:09,429 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Ended
+2017-07-23 15:31:09,436 DEBUG ActivityFinder.Program - Delete all activities in the database
+2017-07-23 15:31:10,947 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-23 15:31:11,383 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-23 15:31:11,401 DEBUG ActivityFinder.Program - Ended
+2017-07-23 15:32:56,642 DEBUG ActivityFinder.Program - Started
+2017-07-23 15:32:56,655 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 15:32:56,664 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 15:32:56,672 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 15:32:56,697 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:32:57,501 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 15:32:57,508 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:32:58,206 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 15:32:58,212 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa30-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:32:58,823 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 15:32:58,829 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa60-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:32:59,436 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 56
+2017-07-23 15:32:59,470 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:00,856 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 56
+2017-07-23 15:33:00,862 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d666212-Reviews-Trapholt-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:02,025 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 56
+2017-07-23 15:33:02,032 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d547636-Reviews-Downtown_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:03,078 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 3 out of 56
+2017-07-23 15:33:03,083 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d2219421-Reviews-Geographical_Gardens-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:04,191 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 4 out of 56
+2017-07-23 15:33:04,195 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d7758060-Reviews-Legeparken_in_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:05,334 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 5 out of 56
+2017-07-23 15:33:05,339 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553210-d3585961-Reviews-Skamlingsbanken-Sjoelund_Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:06,390 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 6 out of 56
+2017-07-23 15:33:06,400 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598194-Reviews-Kolding_Miniby-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:07,268 ERROR ActivityFinder.TripAdvisor.TripAdvisorAPI - Failed to get activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html. 
+ Message: '<>f__AnonymousType0<string,string>' indeholder ikke en definition til 'Url' 
+ StackTrace:    ved CallSite.Target(Closure , CallSite , Object )
+   ved System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   ved ActivityFinder.TripAdvisor.TripAdvisorAPI.GetAllActivities(List`1 activities, String cityUrl) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:linje 415
+   ved ActivityFinder.TripAdvisor.TripAdvisorAPI.GetAllActivities(List`1 activities) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:linje 363
+2017-07-23 15:33:07,285 DEBUG ActivityFinder.Program - Found 6 activities from tripadvisor
+2017-07-23 15:33:07,290 DEBUG ActivityFinder.Program - Total number of activities found: 6
+2017-07-23 15:33:07,298 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Started
+2017-07-23 15:33:07,305 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Ended
+2017-07-23 15:33:07,312 DEBUG ActivityFinder.Program - Delete all activities in the database
+2017-07-23 15:33:08,888 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-23 15:33:09,308 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-23 15:33:09,316 DEBUG ActivityFinder.Program - Ended
+2017-07-23 15:33:44,346 DEBUG ActivityFinder.Program - Started
+2017-07-23 15:33:44,365 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 15:33:44,373 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 15:33:44,382 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 15:33:44,406 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:45,216 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 15:33:45,222 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:45,911 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 15:33:45,916 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa30-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:33:46,559 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 15:33:46,567 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa60-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:33:47,176 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 56
+2017-07-23 15:33:47,214 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:47,985 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 56
+2017-07-23 15:33:47,990 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d666212-Reviews-Trapholt-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:48,745 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 56
+2017-07-23 15:33:48,751 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d2219421-Reviews-Geographical_Gardens-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:49,517 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 3 out of 56
+2017-07-23 15:33:49,521 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d547636-Reviews-Downtown_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:50,258 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 4 out of 56
+2017-07-23 15:33:50,263 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d7758060-Reviews-Legeparken_in_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:51,032 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 5 out of 56
+2017-07-23 15:33:51,038 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553210-d3585961-Reviews-Skamlingsbanken-Sjoelund_Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:51,792 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 6 out of 56
+2017-07-23 15:33:51,798 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598194-Reviews-Kolding_Miniby-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:52,525 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 7 out of 56
+2017-07-23 15:33:52,531 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3547217-Reviews-Dansk_Sygeplejehistorisk_Museum-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:53,240 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 8 out of 56
+2017-07-23 15:33:53,247 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3590054-Reviews-Marielundssoen-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:54,019 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 9 out of 56
+2017-07-23 15:33:54,025 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3554496-Reviews-Godset-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:54,717 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 10 out of 56
+2017-07-23 15:33:54,722 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3566481-Reviews-Det_Gamle_Borgerhus-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:55,454 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 11 out of 56
+2017-07-23 15:33:55,459 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3545958-Reviews-Nicolai_for_Children-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:56,184 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 12 out of 56
+2017-07-23 15:33:56,190 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3571993-Reviews-Sankt_Nicolai_Kirke-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:56,943 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 13 out of 56
+2017-07-23 15:33:56,948 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553203-d3576407-Reviews-Torskind_Grusgrav-Egtved_Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:57,635 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 14 out of 56
+2017-07-23 15:33:57,640 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3540112-Reviews-Hartevaerket-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:58,439 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 15 out of 56
+2017-07-23 15:33:58,445 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598396-Reviews-Braendkjaerkirken-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:59,195 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 16 out of 56
+2017-07-23 15:33:59,202 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553203-d3604643-Reviews-Egtvedpigens_Grav-Egtved_Kolding_South_Jutland_Jutland.html
+2017-07-23 15:33:59,909 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 17 out of 56
+2017-07-23 15:33:59,915 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553207-d3600103-Reviews-Lunderskov_Lokalhistoriske_Arkiv-Lunderskov_Kolding_South_Jutland_Jutland.html
+2017-07-23 15:34:00,609 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 18 out of 56
+2017-07-23 15:34:00,615 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3573234-Reviews-Harte_Kirke-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:34:30,600 DEBUG ActivityFinder.Program - Started
+2017-07-23 15:34:30,616 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 15:34:30,621 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 15:34:30,630 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 15:34:30,652 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:34:31,460 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 15:34:31,478 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:34:32,145 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 15:34:32,150 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa30-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:34:32,810 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 15:34:32,816 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa60-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:34:33,400 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 56
+2017-07-23 15:34:33,432 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:34:36,298 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 56
+2017-07-23 15:34:36,303 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d666212-Reviews-Trapholt-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:34:38,653 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 56
+2017-07-23 15:34:38,659 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d2219421-Reviews-Geographical_Gardens-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:34:40,675 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 3 out of 56
+2017-07-23 15:34:40,680 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d547636-Reviews-Downtown_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:34:48,376 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 4 out of 56
+2017-07-23 15:34:48,390 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d7758060-Reviews-Legeparken_in_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:34:54,068 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 5 out of 56
+2017-07-23 15:34:54,074 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553210-d3585961-Reviews-Skamlingsbanken-Sjoelund_Kolding_South_Jutland_Jutland.html
+2017-07-23 15:34:58,501 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 6 out of 56
+2017-07-23 15:34:58,510 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598194-Reviews-Kolding_Miniby-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:34:59,366 ERROR ActivityFinder.TripAdvisor.TripAdvisorAPI - Failed to get activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html. 
+ Message: '<>f__AnonymousType0<string,string>' indeholder ikke en definition til 'Url' 
+ StackTrace:    ved CallSite.Target(Closure , CallSite , Object )
+   ved System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   ved ActivityFinder.TripAdvisor.TripAdvisorAPI.GetAllActivities(List`1 activities, String cityUrl) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:linje 415
+   ved ActivityFinder.TripAdvisor.TripAdvisorAPI.GetAllActivities(List`1 activities) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:linje 363
+2017-07-23 15:34:59,379 DEBUG ActivityFinder.Program - Found 6 activities from tripadvisor
+2017-07-23 15:34:59,389 DEBUG ActivityFinder.Program - Total number of activities found: 6
+2017-07-23 15:34:59,395 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Started
+2017-07-23 15:34:59,403 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Ended
+2017-07-23 15:34:59,409 DEBUG ActivityFinder.Program - Delete all activities in the database
+2017-07-23 15:35:01,096 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-23 15:35:01,502 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-23 15:35:01,512 DEBUG ActivityFinder.Program - Ended
+2017-07-23 15:35:22,487 DEBUG ActivityFinder.Program - Started
+2017-07-23 15:35:22,504 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 15:35:22,512 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 15:35:22,522 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 15:35:22,548 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:35:23,319 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 15:35:23,326 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:35:24,009 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 15:35:24,016 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa30-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:35:24,632 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 15:35:24,638 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa60-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:35:25,218 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 56
+2017-07-23 15:35:25,248 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:35:27,571 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 56
+2017-07-23 15:35:27,577 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d666212-Reviews-Trapholt-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:35:29,924 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 56
+2017-07-23 15:35:29,933 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d2219421-Reviews-Geographical_Gardens-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:35:31,788 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 3 out of 56
+2017-07-23 15:35:31,794 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d547636-Reviews-Downtown_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:35:33,622 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 4 out of 56
+2017-07-23 15:35:33,630 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d7758060-Reviews-Legeparken_in_Kolding-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:35:37,689 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 5 out of 56
+2017-07-23 15:35:37,695 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553210-d3585961-Reviews-Skamlingsbanken-Sjoelund_Kolding_South_Jutland_Jutland.html
+2017-07-23 15:35:42,016 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 6 out of 56
+2017-07-23 15:35:42,021 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598194-Reviews-Kolding_Miniby-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:38:43,730 DEBUG ActivityFinder.Program - Started
+2017-07-23 15:38:43,745 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 15:38:43,756 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 15:38:43,764 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 1
+2017-07-23 15:38:43,785 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:38:44,547 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-07-23 15:38:44,554 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-07-23 15:38:45,277 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-07-23 15:38:45,282 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa30-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:38:45,918 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-07-23 15:38:45,925 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa60-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-07-23 15:38:46,488 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 56
+2017-07-23 15:38:46,520 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-07-23 18:33:51,845 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:33:51,861 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:33:51,867 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:33:51,874 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:33:51,919 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 18:34:11,085 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:34:11,101 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:34:11,105 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:34:11,111 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:34:11,123 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 18:38:30,573 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:38:30,590 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:38:30,595 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:38:30,602 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:38:30,615 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 18:40:54,232 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:40:54,252 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:40:54,257 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:40:54,262 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:40:54,275 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 18:41:41,387 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:41:41,408 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:41:41,416 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:41:41,421 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:41:41,436 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 18:42:43,843 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:42:43,859 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:42:43,865 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:42:43,870 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:42:43,886 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 18:44:07,171 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:44:07,186 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:44:07,194 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:44:07,200 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:44:07,214 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 18:44:41,059 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:44:41,078 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:44:41,082 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:44:41,089 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:44:41,115 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 18:45:11,440 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-23 18:45:11,445 DEBUG ActivityFinder.Program - Total number of activities found: 0
+2017-07-23 18:45:11,450 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Started
+2017-07-23 18:45:11,456 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Ended
+2017-07-23 18:45:11,461 DEBUG ActivityFinder.Program - Delete all activities in the database
+2017-07-23 18:45:17,502 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:45:17,518 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:45:17,522 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:45:17,530 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:45:17,542 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 18:46:04,759 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:46:04,775 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:46:04,780 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:46:04,788 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:46:04,801 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 18:46:54,088 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:46:54,108 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:46:54,117 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:46:54,126 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:46:54,137 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 3200
+2017-07-23 18:47:03,251 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:47:03,269 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:47:03,278 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:47:03,284 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:47:03,299 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 250
+2017-07-23 18:50:51,342 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:50:51,355 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:50:51,362 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:50:51,368 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:50:51,381 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 18:53:20,529 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:53:20,546 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:53:20,555 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:53:20,563 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:53:20,582 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 18:53:54,728 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:53:54,741 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:53:54,748 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:53:54,755 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:53:54,769 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 18:55:09,908 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:55:09,929 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:55:09,939 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:55:09,950 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:55:09,965 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 18:56:19,964 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:56:19,979 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:56:19,987 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:56:19,992 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:56:20,005 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 18:59:39,114 DEBUG ActivityFinder.Program - Started
+2017-07-23 18:59:39,135 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 18:59:39,140 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 18:59:39,147 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 18:59:39,174 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:00:08,105 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:00:08,121 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:00:08,128 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:00:08,138 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:00:08,151 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:03:19,333 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:03:19,353 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:03:19,359 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:03:19,366 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:03:19,381 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:06:51,659 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:06:51,677 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:06:51,681 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:06:51,686 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:06:51,700 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:09:30,158 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:09:30,174 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:09:30,179 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:09:30,187 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:09:30,204 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:11:06,188 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:11:06,205 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:11:06,210 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:11:06,216 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:11:06,231 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:11:44,037 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:11:44,051 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:11:44,058 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:11:44,063 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:11:44,077 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:14:51,896 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:14:51,911 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:14:51,918 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:14:51,925 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:14:51,942 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:15:07,353 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:15:07,370 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:15:07,378 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:15:07,387 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:15:07,400 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:18:37,635 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:18:37,651 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:18:37,656 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:18:37,663 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:18:37,677 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:18:53,935 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 22
+2017-07-23 19:19:07,735 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:19:07,751 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:19:07,756 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:19:07,764 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:19:07,778 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:19:23,977 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-23 19:19:23,983 DEBUG ActivityFinder.Program - Found 21 activities from visitdenmark
+2017-07-23 19:19:23,989 DEBUG ActivityFinder.Program - Total number of activities found: 21
+2017-07-23 19:19:23,996 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Started
+2017-07-23 19:19:24,002 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Ended
+2017-07-23 19:19:24,008 DEBUG ActivityFinder.Program - Delete all activities in the database
+2017-07-23 19:21:37,306 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-23 19:21:38,490 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-23 19:21:38,500 DEBUG ActivityFinder.Program - Ended
+2017-07-23 19:24:37,175 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:24:37,190 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:24:37,199 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:24:37,209 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:24:37,223 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:25:01,966 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:25:01,981 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:25:01,987 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:25:01,995 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:25:02,020 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:29:18,243 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:29:18,258 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:29:18,265 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:29:18,271 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:29:18,288 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:31:51,857 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:31:51,876 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:31:51,882 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:31:51,889 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:31:51,906 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:33:26,496 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:33:26,510 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:33:26,515 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:33:26,523 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:33:26,538 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:33:48,475 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:33:48,493 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:33:48,501 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:33:48,507 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:33:48,522 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:35:28,895 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:35:28,912 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:35:28,920 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:35:28,928 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:35:28,945 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:35:44,825 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:35:44,838 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:35:44,844 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:35:44,852 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:35:44,869 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:36:00,842 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-23 19:36:00,848 DEBUG ActivityFinder.Program - Found 21 activities from visitdenmark
+2017-07-23 19:36:00,853 DEBUG ActivityFinder.Program - Total number of activities found: 21
+2017-07-23 19:36:00,860 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Started
+2017-07-23 19:36:00,866 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Ended
+2017-07-23 19:36:00,873 DEBUG ActivityFinder.Program - Delete all activities in the database
+2017-07-23 19:36:03,238 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-23 19:36:04,378 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-23 19:36:04,387 DEBUG ActivityFinder.Program - Ended
+2017-07-23 19:39:44,221 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:39:44,237 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:39:44,242 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:39:44,249 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:39:44,264 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:40:14,711 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-23 19:40:14,718 DEBUG ActivityFinder.Program - Found 21 activities from visitdenmark
+2017-07-23 19:40:14,724 DEBUG ActivityFinder.Program - Total number of activities found: 21
+2017-07-23 19:40:14,730 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Started
+2017-07-23 19:40:14,737 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Ended
+2017-07-23 19:40:14,742 DEBUG ActivityFinder.Program - Delete all activities in the database
+2017-07-23 19:40:16,997 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-23 19:40:18,151 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-23 19:40:18,165 DEBUG ActivityFinder.Program - Ended
+2017-07-23 19:46:18,151 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:46:18,168 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:46:18,175 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:46:18,187 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:46:18,203 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:46:32,871 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:46:32,885 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:46:32,892 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:46:32,900 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:46:32,916 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:46:45,301 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:46:45,316 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:46:45,323 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:46:45,328 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:46:45,342 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:47:05,788 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:47:05,802 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:47:05,809 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:47:05,814 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:47:05,831 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:47:17,703 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:47:17,722 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:47:17,727 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:47:17,732 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:47:17,758 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:48:07,471 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:48:07,486 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:48:07,495 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:48:07,500 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:48:07,522 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:48:25,740 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:48:25,756 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:48:25,766 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:48:25,773 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:48:25,788 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:48:45,790 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:48:45,805 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:48:45,811 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:48:45,817 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:48:45,832 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:49:32,247 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:49:32,264 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:49:32,272 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:49:32,278 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:49:32,293 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:49:42,393 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:49:42,407 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:49:42,413 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:49:42,419 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:49:42,434 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:50:22,806 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:50:22,820 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:50:22,828 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:50:22,834 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:50:22,851 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:52:14,980 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:52:14,995 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:52:15,004 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:52:15,011 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:52:15,035 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 19:59:18,974 DEBUG ActivityFinder.Program - Started
+2017-07-23 19:59:18,988 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 19:59:18,999 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 19:59:19,006 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 19:59:19,027 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 20:02:38,813 DEBUG ActivityFinder.Program - Started
+2017-07-23 20:02:38,830 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 20:02:38,835 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 20:02:38,840 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 20:02:38,855 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 20:02:55,757 DEBUG ActivityFinder.Program - Started
+2017-07-23 20:02:55,773 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 20:02:55,778 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 20:02:55,785 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 20:02:55,802 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 20:03:37,567 DEBUG ActivityFinder.Program - Started
+2017-07-23 20:03:37,581 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 20:03:37,588 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 20:03:37,593 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 20:03:37,613 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 20:03:53,914 DEBUG ActivityFinder.Program - Started
+2017-07-23 20:03:53,930 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 20:03:53,936 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 20:03:53,944 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 20:03:53,958 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 20:04:51,163 DEBUG ActivityFinder.Program - Started
+2017-07-23 20:04:51,181 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 20:04:51,191 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 20:04:51,201 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 20:04:51,246 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 20:05:33,628 DEBUG ActivityFinder.Program - Started
+2017-07-23 20:05:33,645 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 20:05:33,653 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 20:05:33,658 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 20:05:33,686 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 20:08:53,241 DEBUG ActivityFinder.Program - Started
+2017-07-23 20:08:53,258 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 20:08:53,265 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 20:08:53,270 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 20:08:53,284 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 20:09:12,707 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 22
+2017-07-23 20:09:50,148 DEBUG ActivityFinder.Program - Started
+2017-07-23 20:09:50,166 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 20:09:50,176 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 20:09:50,181 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 20:09:50,196 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 20:10:09,479 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 22
+2017-07-23 20:10:55,113 DEBUG ActivityFinder.Program - Started
+2017-07-23 20:10:55,133 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 20:10:55,142 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 20:10:55,151 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 20:10:55,165 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 20:11:14,573 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 22
+2017-07-23 20:11:43,337 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 43
+2017-07-23 20:12:28,471 DEBUG ActivityFinder.Program - Started
+2017-07-23 20:12:28,487 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 20:12:28,491 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 20:12:28,496 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 20:12:28,513 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 20:12:47,727 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 22
+2017-07-23 20:13:07,249 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 43
+2017-07-23 20:15:36,267 DEBUG ActivityFinder.Program - Started
+2017-07-23 20:15:36,282 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 20:15:36,292 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 20:15:36,299 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 20:15:36,323 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 20:15:56,338 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 22
+2017-07-23 20:16:15,774 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 43
+2017-07-23 20:16:20,610 ERROR ActivityFinder.VisitDenmark.VisitDenmarkAPI - Could not get latitude longitude information from visitdenmark.
+Address: Fregatøen - S.A. Jensensvej 4, 8400 Ebeltoft
+Message: Der opstod en eller flere fejl.
+StackTrace:    ved System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   ved System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   ved System.Threading.Tasks.Task.Wait()
+   ved ActivityFinder.VisitDenmark.VisitDenmarkAPI.GetAllActivities(List`1 activities, Int32 startIndex) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\VisitDenmark\VisitDenmarkAPI.cs:linje 71
+
+2017-07-23 20:16:49,147 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-23 20:16:49,153 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-23 20:16:49,158 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-23 20:16:49,163 DEBUG ActivityFinder.Program - Found 63 activities from visitdenmark
+2017-07-23 20:16:49,169 DEBUG ActivityFinder.Program - Total number of activities found: 63
+2017-07-23 20:16:49,175 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Started
+2017-07-23 20:16:49,180 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Ended
+2017-07-23 20:16:49,186 DEBUG ActivityFinder.Program - Delete all activities in the database
+2017-07-23 20:16:51,474 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-23 20:16:54,836 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-23 20:16:54,844 DEBUG ActivityFinder.Program - Ended
+2017-07-23 20:19:54,672 DEBUG ActivityFinder.Program - Started
+2017-07-23 20:19:54,689 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 20:19:54,694 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 20:19:54,702 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 20:19:54,717 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 20:20:13,984 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 22
+2017-07-23 20:20:33,118 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 43
+2017-07-23 20:20:37,570 ERROR ActivityFinder.VisitDenmark.VisitDenmarkAPI - Could not get latitude longitude information from visitdenmark.
+Address: Fregatøen - S.A. Jensensvej 4, 8400 Ebeltoft
+Message: Der opstod en eller flere fejl.
+StackTrace:    ved System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   ved System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   ved System.Threading.Tasks.Task.Wait()
+   ved ActivityFinder.VisitDenmark.VisitDenmarkAPI.GetAllActivities(List`1 activities, Int32 startIndex) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\VisitDenmark\VisitDenmarkAPI.cs:linje 71
+
+2017-07-23 20:20:52,370 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-23 20:20:52,377 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-23 20:20:52,382 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-23 20:20:52,388 DEBUG ActivityFinder.Program - Found 63 activities from visitdenmark
+2017-07-23 20:20:52,395 DEBUG ActivityFinder.Program - Total number of activities found: 63
+2017-07-23 20:20:52,401 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Started
+2017-07-23 20:20:52,407 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Ended
+2017-07-23 20:20:52,414 DEBUG ActivityFinder.Program - Delete all activities in the database
+2017-07-23 20:20:56,632 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-23 20:21:00,052 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-23 20:21:00,057 DEBUG ActivityFinder.Program - Ended
+2017-07-23 20:22:20,055 DEBUG ActivityFinder.Program - Started
+2017-07-23 20:22:20,073 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 20:22:20,077 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 20:22:20,082 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 20:22:20,099 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-23 21:41:05,413 DEBUG ActivityFinder.Program - Started
+2017-07-23 21:41:05,435 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 21:41:05,444 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 21:41:05,451 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 21:41:05,475 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 64
+2017-07-23 22:14:20,862 DEBUG ActivityFinder.Program - Started
+2017-07-23 22:14:20,882 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-23 22:14:20,890 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-23 22:14:20,895 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-23 22:14:20,910 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 127
+2017-07-23 22:14:31,367 ERROR ActivityFinder.VisitDenmark.VisitDenmarkAPI - Could not get latitude longitude information from visitdenmark.
+Address: Universitetsparken, Wilhelm Meyers
+Message: Der opstod en eller flere fejl.
+StackTrace:    ved System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   ved System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   ved System.Threading.Tasks.Task.Wait()
+   ved ActivityFinder.VisitDenmark.VisitDenmarkAPI.GetAllActivities(List`1 activities, Int32 startIndex) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\VisitDenmark\VisitDenmarkAPI.cs:linje 71
+

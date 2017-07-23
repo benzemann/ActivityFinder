@@ -17,6 +17,7 @@ namespace ActivityFinder.GoogleMaps
 
         private static readonly ILog log = log4net.LogManager.GetLogger
             (System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+
         #region Types
         private static string[] types = new string[] { "bowling_alley", "amusement_park", "aquarium",
         "casino", "movie_theater", "museum", "zoo" }; // Possible types: art_gallery spa
@@ -123,6 +124,7 @@ namespace ActivityFinder.GoogleMaps
             "Læsø"*/
         }; // mayor cities in DK
         #endregion
+
         public async static Task GetAllActivities(List<Activity> activities)
         {
             log.Debug($"GetAllActivities: Start iterating all cities and types");
@@ -200,7 +202,7 @@ namespace ActivityFinder.GoogleMaps
                     {
                         foreach (var oh in googleMapsDetailModel.result.opening_hours.weekday_text)
                         {
-                            openHours += oh + Environment.NewLine;
+                            openHours += oh + "\n";
                         }
                     }
 
@@ -221,13 +223,13 @@ namespace ActivityFinder.GoogleMaps
                         Url = googleMapsDetailModel.result.url,
                         Address = (from a in googleMapsDetailModel.result.address_components.AsEnumerable()
                                    where a.types.Contains("route") && a.long_name != null
-                                   select a.long_name).FirstOrDefault() + " " +
+                                   select a.long_name).FirstOrDefault() +
                                    (from a in googleMapsDetailModel.result.address_components.AsEnumerable()
                                     where a.types.Contains("street_number") && a.long_name != null
-                                    select a.long_name).FirstOrDefault() + " " +
+                                    select " " + a.long_name).FirstOrDefault() +
                                    (from a in googleMapsDetailModel.result.address_components.AsEnumerable()
                                     where a.types.Contains("floor") && a.long_name != null
-                                    select a.long_name).FirstOrDefault(),
+                                    select " " + a.long_name).FirstOrDefault(),
                         PostalCode = (from a in googleMapsDetailModel.result.address_components.AsEnumerable()
                                       where a.types.Contains("postal_code") && a.long_name != null
                                       select a.long_name).FirstOrDefault(),
@@ -241,10 +243,14 @@ namespace ActivityFinder.GoogleMaps
                         Website = googleMapsDetailModel.result.website,
                         Description = googleMapsDetailModel.result.place_id,
                         Category = googleMapsDetailModel.result.types != null ?
-                        googleMapsDetailModel.result.types.FirstOrDefault() : "",
+                        MapGoogleCategories(googleMapsDetailModel.result.types.FirstOrDefault()) : "",
                         Image = res.photos != null ? 
-                        $"https://maps.googleapis.com/maps/api/place/photo?maxwidth=250&photoreference={res.photos.FirstOrDefault().photo_reference}&key={ConfigurationManager.AppSettings["GoogleMapsAPIKey"]}" : ""
+                        GetImageUrlFromGooglePhotoReference(res.photos.FirstOrDefault().photo_reference) : null
                     };
+                    if(newActivity.Address == "")
+                    {
+                        newActivity.Address = null;
+                    }
                     activities.Add(newActivity);
                 }
                 // Next page if any
@@ -259,6 +265,93 @@ namespace ActivityFinder.GoogleMaps
                     $"Exception: {e.Message} " + Environment.NewLine +
                     $"StacTrace: {e.StackTrace}");
             }
+        }
+
+        static string MapGoogleCategories(string googleCategory)
+        {
+            // TODO: Make into switch statement
+            if(googleCategory == "museum")
+            {
+                return "Museum";
+            }
+            if(googleCategory == "bowling_alley")
+            {
+                return "Bowling";
+            }
+            if(googleCategory == "movie_theater")
+            {
+                return "Biograf";
+            }
+            if(googleCategory == "amusement_park")
+            {
+                return "Forlystelsespark";
+            }
+            if(googleCategory == "aquarium")
+            {
+                return "Akvarium";
+            }
+            if(googleCategory == "zoo")
+            {
+                return "Zoo";
+            }
+            if(googleCategory == "casino")
+            {
+                return "Casino";
+            }
+            // Default
+            return "Seværdighed";
+        }
+
+        public static string GetStaticMapUrl(string latlong)
+        {
+            return $"https://maps.googleapis.com/maps/api/staticmap?center={latlong}&markers=size:mid%7Ccolor:red|{latlong}&zoom=14&size=400x300&key={ConfigurationManager.AppSettings["GoogleMapsAPIKey"]}";
+        }
+
+        public static string GetImageUrlFromGooglePhotoReference(string reference)
+        {
+            return $"https://maps.googleapis.com/maps/api/place/photo?maxwidth=250&photoreference={reference}&key={ConfigurationManager.AppSettings["GoogleMapsAPIKey"]}";
+        }
+
+        public async static Task<GoogleMapsDetailModel> GetDetailsFromLatLongAndKeyWord(string latlong, string keyword)
+        {
+            // Get data from api
+            var http = new HttpClient();
+            var url = $"https://maps.googleapis.com/maps/api/place/nearbysearch/json?location={latlong}&keyword={keyword}&radius=5000&key=" +
+                $"{ ConfigurationManager.AppSettings["GoogleMapsAPIKey"] }";
+            
+            var response = await http.GetAsync(url);
+            var result = await response.Content.ReadAsStringAsync();
+            var serializer = new DataContractJsonSerializer(typeof(GoogleMapsModel));
+            // Serialize result into a TicketMasterModel object 
+            var ms = new MemoryStream(Encoding.UTF8.GetBytes(result));
+            var googleMapsModel = (GoogleMapsModel)serializer.ReadObject(ms);
+            // Error check
+            if (googleMapsModel.results == null)
+            {
+                throw new Exception($"Could not read data from Google Maps API.{Environment.NewLine}Results from API: {result}");
+            }
+
+            var firstResult = googleMapsModel.results.FirstOrDefault();
+
+            if(firstResult != null)
+            {
+                var detailsUrl = "https://maps.googleapis.com/maps/api/place/details/json?" +
+                        "placeid=" + firstResult.place_id +
+                        "&key=" + ConfigurationManager.AppSettings["GoogleMapsAPIKey"];
+                response = await http.GetAsync(detailsUrl);
+                result = await response.Content.ReadAsStringAsync();
+                var detailSerializer = new DataContractJsonSerializer(typeof(GoogleMapsDetailModel));
+                ms = new MemoryStream(Encoding.UTF8.GetBytes(result));
+                var googleMapsDetails = (GoogleMapsDetailModel)detailSerializer.ReadObject(ms);
+
+                if(googleMapsDetails.result == null)
+                {
+                    throw new Exception($"Could not read details from Google Maps API with url: {detailsUrl}.{Environment.NewLine}Results from API: {result}");
+                }
+
+                return googleMapsDetails;
+            }
+            return null;
         }
     }
 }

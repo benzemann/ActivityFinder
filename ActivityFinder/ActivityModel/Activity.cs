@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ActivityModel
 {
+
     public class Activity
     {
         public Guid Id { get; set; }

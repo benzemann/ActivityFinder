@@ -68,6 +68,7 @@
     <Compile Include="TicketMaster\TicketMasterAPI.cs" />
     <Compile Include="TicketMaster\TicketMasterModel.cs" />
     <Compile Include="TripAdvisor\TripAdvisorAPI.cs" />
+    <Compile Include="VisitDenmark\VisitDenmarkAPI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">

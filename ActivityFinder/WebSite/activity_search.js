@@ -13,9 +13,9 @@ $(document).ready(function () {
                 if (image === null || !image) {
                     image = "https://www.municipay.com/wp-content/themes/Artificial-Reason-WP/img/no_image.png";
                 }
-                var date = "-";
+                var date = "-</i>";
                 if (data[indx].StartDate !== null) {
-                    date = data[indx].StartDate;
+                    date = data[indx].StartDate + "</i>";
                 } else if (data[indx].OpenHours !== null) {
                     date = '</i><button type="button" class="btn btn-xs" data-toggle="modal" data-target="#openHoursModal" id="' + id_iterator + '">Åbningstider</button>';
                     
@@ -27,7 +27,9 @@ $(document).ready(function () {
                 if (data[indx].PostalCode !== null) {
                     address += data[indx].PostalCode + " ";
                 }
-                address += data[indx].City;
+                if (data[indx].City !== null) {
+                    address += data[indx].City;
+                }
                 var website = data[indx].Website;
                 if (website === null) {
                     website = data[indx].Url;
@@ -37,11 +39,15 @@ $(document).ready(function () {
                 if (price === null || !price) {
                     price = '-';
                 }
+                var website = data[indx].Website;
+                if (website === null || !website) {
+                    website = data[indx].Url;
+                }
                 //'<a class="nounderline" href= "' + data[indx].Website + '" >' +
                 $('#activity_rows').append(
                     '<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-md-3 col-lg-3 col-sm-offset-0 activity_rows">' +
                     '<div class="panel panel-default activity_panel">' +
-                    '<a class="nounderline" href= "' + data[indx].Website + '">' +
+                    '<a class="nounderline" href= "' + website + '">' +
                     '<img class="activity_img img-responsive" src="' + image + '" align="middle"' +
                     'class="img-responsive" style="padding-left: 0px;  padding-right: 0px;" />' +
                     '</a>' +

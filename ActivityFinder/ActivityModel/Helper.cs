@@ -21,7 +21,7 @@ namespace ActivityModel
         {
             var http = new HttpClient();
             var url = $"https://maps.googleapis.com/maps/api/geocode/json?address={address}" +
-                ",Denmark&key=" + ConfigurationManager.AppSettings["GoogleMapsAPIKey"];
+                ", Danmark&key=" + ConfigurationManager.AppSettings["GoogleMapsAPIKey"];
             var response = await http.GetAsync(url);
             var result = await response.Content.ReadAsStringAsync();
             var serializer = new DataContractJsonSerializer(typeof(GoogleAddressModel));
