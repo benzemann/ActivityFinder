@@ -1,0 +1,83 @@
+2017-07-24 21:47:06,550 DEBUG ActivityFinder.Program - Started
+2017-07-24 21:47:06,562 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-24 21:47:06,567 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-24 21:47:06,571 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-24 21:47:06,611 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-24 21:47:46,545 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 22
+2017-07-24 21:48:20,742 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 43
+2017-07-24 21:48:27,302 ERROR ActivityFinder.VisitDenmark.VisitDenmarkAPI - Could not get latitude longitude information from visitdenmark.
+Address: Fregatøen - S.A. Jensensvej 4, 8400 Ebeltoft
+Message: Der opstod en eller flere fejl.
+StackTrace:    ved System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   ved System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   ved System.Threading.Tasks.Task.Wait()
+   ved ActivityFinder.VisitDenmark.VisitDenmarkAPI.GetAllActivities(List`1 activities, Int32 startIndex) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\VisitDenmark\VisitDenmarkAPI.cs:linje 71
+
+2017-07-24 21:48:50,133 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 64
+2017-07-24 21:49:21,213 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 85
+2017-07-24 21:49:45,494 ERROR ActivityFinder.VisitDenmark.VisitDenmarkAPI - Could not get latitude longitude information from visitdenmark.
+Address: Toldbodvej 55, Cirkuspladsen, 4581 Rørvig
+Message: Der opstod en eller flere fejl.
+StackTrace:    ved System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   ved System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   ved System.Threading.Tasks.Task.Wait()
+   ved ActivityFinder.VisitDenmark.VisitDenmarkAPI.GetAllActivities(List`1 activities, Int32 startIndex) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\VisitDenmark\VisitDenmarkAPI.cs:linje 71
+
+2017-07-24 21:49:52,489 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 106
+2017-07-24 21:50:08,634 ERROR ActivityFinder.VisitDenmark.VisitDenmarkAPI - Could not get latitude longitude information from visitdenmark.
+Address: Frederikskanalen. Gl. Havn, 7000 Fredericia
+Message: Der opstod en eller flere fejl.
+StackTrace:    ved System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   ved System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   ved System.Threading.Tasks.Task.Wait()
+   ved ActivityFinder.VisitDenmark.VisitDenmarkAPI.GetAllActivities(List`1 activities, Int32 startIndex) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\VisitDenmark\VisitDenmarkAPI.cs:linje 71
+
+2017-07-24 21:50:23,845 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 127
+2017-07-24 21:50:35,665 ERROR ActivityFinder.VisitDenmark.VisitDenmarkAPI - Could not get latitude longitude information from visitdenmark.
+Address: Universitetsparken, Wilhelm Meyers
+Message: Der opstod en eller flere fejl.
+StackTrace:    ved System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   ved System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   ved System.Threading.Tasks.Task.Wait()
+   ved ActivityFinder.VisitDenmark.VisitDenmarkAPI.GetAllActivities(List`1 activities, Int32 startIndex) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\VisitDenmark\VisitDenmarkAPI.cs:linje 71
+
+2017-07-24 22:00:30,275 DEBUG ActivityFinder.Program - Started
+2017-07-24 22:00:30,289 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-24 22:00:30,296 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-24 22:00:30,301 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-24 22:00:30,327 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-24 22:01:11,179 DEBUG ActivityFinder.Program - Started
+2017-07-24 22:01:11,192 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-24 22:01:11,197 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-24 22:01:11,202 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-24 22:01:11,218 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-24 22:01:53,677 DEBUG ActivityFinder.Program - Started
+2017-07-24 22:01:53,689 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-24 22:01:53,695 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-24 22:01:53,699 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-24 22:01:53,714 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-24 22:02:43,488 DEBUG ActivityFinder.Program - Started
+2017-07-24 22:02:43,502 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-24 22:02:43,506 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-24 22:02:43,510 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-24 22:02:43,523 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-24 22:02:59,739 DEBUG ActivityFinder.Program - Started
+2017-07-24 22:02:59,749 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-24 22:02:59,754 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-24 22:02:59,759 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-24 22:02:59,774 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-24 22:04:17,934 DEBUG ActivityFinder.Program - Started
+2017-07-24 22:04:17,952 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-24 22:04:17,958 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-24 22:04:17,963 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-24 22:04:17,975 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-24 22:04:48,597 DEBUG ActivityFinder.Program - Started
+2017-07-24 22:04:48,614 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-24 22:04:48,620 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-24 22:04:48,629 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-24 22:04:48,673 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-24 22:05:29,865 DEBUG ActivityFinder.Program - Started
+2017-07-24 22:05:29,876 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-24 22:05:29,881 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-24 22:05:29,885 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-24 22:05:29,901 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1

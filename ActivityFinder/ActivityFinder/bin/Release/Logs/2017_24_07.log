@@ -1,0 +1,167 @@
+2017-07-24 22:06:02,483 DEBUG ActivityFinder.Program - Started
+2017-07-24 22:06:02,497 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-24 22:06:02,501 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-24 22:06:02,504 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-24 22:06:02,547 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-24 22:06:19,991 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 22
+2017-07-24 22:06:38,828 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 43
+2017-07-24 22:09:53,318 DEBUG ActivityFinder.Program - Started
+2017-07-24 22:09:53,334 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-24 22:09:53,334 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-24 22:09:53,350 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-24 22:09:53,387 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-24 22:10:10,302 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 22
+2017-07-24 22:10:28,730 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 43
+2017-07-24 22:10:46,246 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 64
+2017-07-24 22:11:02,999 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 85
+2017-07-24 22:11:20,789 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 106
+2017-07-24 22:11:37,633 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 127
+2017-07-24 22:11:54,365 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 148
+2017-07-24 22:16:58,939 DEBUG ActivityFinder.Program - Started
+2017-07-24 22:16:58,952 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-24 22:16:58,955 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-24 22:16:58,961 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-24 22:16:58,976 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-24 22:17:17,233 DEBUG ActivityFinder.Program - Started
+2017-07-24 22:17:17,247 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-24 22:17:17,251 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-24 22:17:17,254 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-24 22:17:17,269 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-24 22:17:34,633 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 22
+2017-07-24 22:17:52,391 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 43
+2017-07-24 22:18:10,087 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 64
+2017-07-24 22:18:27,451 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 85
+2017-07-24 22:18:45,330 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 106
+2017-07-24 22:19:02,528 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 127
+2017-07-24 22:19:19,839 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 148
+2017-07-24 22:19:45,662 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 169
+2017-07-24 22:20:29,314 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 190
+2017-07-24 22:21:12,274 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 211
+2017-07-24 22:21:56,399 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 232
+2017-07-24 22:22:44,862 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 253
+2017-07-24 22:23:29,523 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 274
+2017-07-24 22:24:08,598 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 295
+2017-07-24 22:24:51,791 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 316
+2017-07-24 22:30:28,446 DEBUG ActivityFinder.Program - Started
+2017-07-24 22:30:28,458 DEBUG ActivityFinder.Program - Found 0 activites from Ticketmaster
+2017-07-24 22:30:28,463 DEBUG ActivityFinder.Program - Found 0 activities from googleMaps
+2017-07-24 22:30:28,468 DEBUG ActivityFinder.Program - Found 0 activities from tripadvisor
+2017-07-24 22:30:28,508 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-07-24 22:30:45,704 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 22
+2017-07-24 22:31:05,714 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 43
+2017-07-24 22:31:26,489 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 64
+2017-07-24 22:31:43,966 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 85
+2017-07-24 22:32:01,119 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 106
+2017-07-24 22:32:18,370 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 127
+2017-07-24 22:32:35,515 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 148
+2017-07-24 22:32:52,438 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 169
+2017-07-24 22:33:12,677 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 190
+2017-07-24 22:33:29,655 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 211
+2017-07-24 22:33:46,627 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 232
+2017-07-24 22:34:06,205 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 253
+2017-07-24 22:34:25,528 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 274
+2017-07-24 22:34:44,578 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 295
+2017-07-24 22:35:02,801 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 316
+2017-07-24 22:35:13,571 ERROR ActivityFinder.VisitDenmark.VisitDenmarkAPI - Something whent wrong trying to get the contet from the url: http://www.visitdenmark.dk/da/danmark/hvalsafari-og-solnedgang-gdk1090544
+Message: En værdi må ikke være null.
+Parameternavn: source
+StackTrace:    ved System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   ved ActivityFinder.VisitDenmark.VisitDenmarkAPI.GetAllActivities(List`1 activities, Int32 startIndex) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\VisitDenmark\VisitDenmarkAPI.cs:linje 56
+2017-07-24 22:35:34,949 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 337
+2017-07-24 22:36:26,806 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 358
+2017-07-24 22:37:24,935 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 379
+2017-07-24 22:38:10,022 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 400
+2017-07-24 22:38:54,515 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 421
+2017-07-24 22:39:41,418 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 442
+2017-07-24 22:40:28,343 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 463
+2017-07-24 22:41:13,031 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 484
+2017-07-24 22:41:57,049 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 505
+2017-07-24 22:42:34,626 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 526
+2017-07-24 22:43:20,282 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 547
+2017-07-24 22:44:12,656 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 568
+2017-07-24 22:44:58,769 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 589
+2017-07-24 22:45:48,824 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 610
+2017-07-24 22:46:37,461 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 631
+2017-07-24 22:47:24,289 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 652
+2017-07-24 22:48:15,403 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 673
+2017-07-24 22:48:53,482 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 694
+2017-07-24 22:49:51,504 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 715
+2017-07-24 22:50:30,096 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 736
+2017-07-24 23:01:49,855 ERROR ActivityFinder.VisitDenmark.VisitDenmarkAPI - Something whent wrong trying to get the contet from the url: http://www.visitdenmark.dk/da/danmark/summer-night-loekken-gdk1091299
+Message: Handlingen blev afbrudt pga. timeout
+StackTrace:    ved System.Net.HttpWebRequest.GetResponse()
+   ved HtmlAgilityPack.HtmlWeb.Get(Uri uri, String method, String path, HtmlDocument doc, IWebProxy proxy, ICredentials creds) i C:\Users\Jonathan\Desktop\Z\zzzproject\HtmlAgilityPack\HtmlAgilityPack\HtmlWeb.cs:linje 1530
+   ved HtmlAgilityPack.HtmlWeb.LoadUrl(Uri uri, String method, WebProxy proxy, NetworkCredential creds) i C:\Users\Jonathan\Desktop\Z\zzzproject\HtmlAgilityPack\HtmlAgilityPack\HtmlWeb.cs:linje 1866
+   ved HtmlAgilityPack.HtmlWeb.Load(String url, String method) i C:\Users\Jonathan\Desktop\Z\zzzproject\HtmlAgilityPack\HtmlAgilityPack\HtmlWeb.cs:linje 1198
+   ved HtmlAgilityPack.HtmlWeb.Load(String url) i C:\Users\Jonathan\Desktop\Z\zzzproject\HtmlAgilityPack\HtmlAgilityPack\HtmlWeb.cs:linje 1148
+   ved ActivityFinder.VisitDenmark.VisitDenmarkAPI.GetAllActivities(List`1 activities, Int32 startIndex) i D:\Programming\AktivityFinder\ActivityFinder\ActivityFinder\VisitDenmark\VisitDenmarkAPI.cs:linje 33
+2017-07-24 23:01:56,500 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 757
+2017-07-24 23:02:39,029 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 778
+2017-07-24 23:03:24,236 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 799
+2017-07-24 23:04:19,727 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 820
+2017-07-24 23:05:10,097 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 841
+2017-07-24 23:05:51,798 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 862
+2017-07-24 23:06:44,393 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 883
+2017-07-24 23:07:28,354 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 904
+2017-07-24 23:08:02,501 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 925
+2017-07-24 23:08:50,466 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 946
+2017-07-24 23:09:29,446 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 967
+2017-07-24 23:09:57,867 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 988
+2017-07-24 23:10:26,534 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1009
+2017-07-24 23:10:52,598 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,614 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,614 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,614 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,629 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,629 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,645 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,645 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,645 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,661 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,661 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,661 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,661 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,681 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,683 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,683 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,683 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,683 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,698 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,698 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,698 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,714 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,714 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,714 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,730 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,730 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,730 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,730 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,745 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,745 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,745 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,745 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,761 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,761 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,761 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,778 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,783 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,783 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,783 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,783 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,798 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,798 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,798 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,814 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,814 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,814 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,830 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,830 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,830 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-07-24 23:10:52,845 DEBUG ActivityFinder.Program - Found 1026 activities from visitdenmark
+2017-07-24 23:10:52,845 DEBUG ActivityFinder.Program - Total number of activities found: 1026
+2017-07-24 23:10:52,845 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Started
+2017-07-24 23:10:52,861 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Ended
+2017-07-24 23:10:52,861 DEBUG ActivityFinder.Program - Delete all activities in the database
+2017-07-24 23:10:57,035 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Creating activities
+2017-07-24 23:11:53,843 DEBUG ActivityFinder.Program - CreateActivitiesInDB: Complete
+2017-07-24 23:11:53,843 DEBUG ActivityFinder.Program - Ended
