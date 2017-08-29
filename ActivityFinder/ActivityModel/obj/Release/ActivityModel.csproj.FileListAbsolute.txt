@@ -8,3 +8,14 @@ D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\bin\Release\EntityFra
 D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\obj\Release\ActivityModel.csprojResolveAssemblyReference.cache
 D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\obj\Release\ActivityModel.dll
 D:\Programming\AktivityFinder\ActivityFinder\ActivityModel\obj\Release\ActivityModel.pdb
+C:\Jeppe\ActivityFinder\ActivityFinder\ActivityModel\bin\Release\ActivityModel.dll.config
+C:\Jeppe\ActivityFinder\ActivityFinder\ActivityModel\bin\Release\ActivityModel.dll
+C:\Jeppe\ActivityFinder\ActivityFinder\ActivityModel\bin\Release\ActivityModel.pdb
+C:\Jeppe\ActivityFinder\ActivityFinder\ActivityModel\bin\Release\EntityFramework.dll
+C:\Jeppe\ActivityFinder\ActivityFinder\ActivityModel\bin\Release\EntityFramework.SqlServer.dll
+C:\Jeppe\ActivityFinder\ActivityFinder\ActivityModel\bin\Release\EntityFramework.xml
+C:\Jeppe\ActivityFinder\ActivityFinder\ActivityModel\bin\Release\EntityFramework.SqlServer.xml
+C:\Jeppe\ActivityFinder\ActivityFinder\ActivityModel\obj\Release\ActivityModel.csprojResolveAssemblyReference.cache
+C:\Jeppe\ActivityFinder\ActivityFinder\ActivityModel\obj\Release\ActivityModel.csproj.CoreCompileInputs.cache
+C:\Jeppe\ActivityFinder\ActivityFinder\ActivityModel\obj\Release\ActivityModel.dll
+C:\Jeppe\ActivityFinder\ActivityFinder\ActivityModel\obj\Release\ActivityModel.pdb

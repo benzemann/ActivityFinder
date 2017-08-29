@@ -24,15 +24,15 @@ namespace ActivityFinder
             var activities = new List<Activity>();
             // Get Activities from ticket master
             var ticketMasterActivities = new List<Activity>();
-            //TicketMasterAPI.GetAllActivities(ticketMasterActivities).Wait();
+            TicketMasterAPI.GetAllActivities(ticketMasterActivities).Wait();
             log.Debug($"Found {ticketMasterActivities.Count} activites from Ticketmaster");
             // Get Activities from google maps
             var googleMapsActivities = new List<Activity>();
-            //GoogleMaps.GoogleMapsAPI.GetAllActivities(googleMapsActivities).Wait();
+            GoogleMaps.GoogleMapsAPI.GetAllActivities(googleMapsActivities).Wait();
             log.Debug($"Found {googleMapsActivities.Count} activities from googleMaps");
             // Get Activities from tripadvisor
             var tripAdvisorActivities = new List<Activity>();
-            //TripAdvisor.TripAdvisorAPI.GetAllActivities(tripAdvisorActivities);
+            TripAdvisor.TripAdvisorAPI.GetAllActivities(tripAdvisorActivities);
             log.Debug($"Found {tripAdvisorActivities.Count} activities from tripadvisor");
             var visitDenmarkActivities = new List<Activity>();
             VisitDenmark.VisitDenmarkAPI.GetAllActivities(visitDenmarkActivities);

@@ -1,0 +1,740 @@
+2017-08-29 16:03:58,102 DEBUG ActivityFinder.Program - Started
+2017-08-29 16:03:58,128 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 0
+2017-08-29 16:03:59,835 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 250
+2017-08-29 16:04:00,870 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 500
+2017-08-29 16:04:02,142 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 750
+2017-08-29 16:04:03,757 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1000
+2017-08-29 16:04:04,851 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1250
+2017-08-29 16:04:06,027 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1500
+2017-08-29 16:04:07,431 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 1750
+2017-08-29 16:04:08,591 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2000
+2017-08-29 16:04:09,597 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2250
+2017-08-29 16:04:10,835 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2500
+2017-08-29 16:04:11,885 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 2750
+2017-08-29 16:04:13,065 DEBUG ActivityFinder.TicketMasterAPI - GetAllActivities: Getting events from ticketmaster. Page = 3000
+2017-08-29 16:04:13,672 DEBUG ActivityFinder.Program - Found 3055 activites from Ticketmaster
+2017-08-29 16:04:13,691 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Start iterating all cities and types
+2017-08-29 16:04:14,214 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.6761,12.56834
+2017-08-29 16:04:19,650 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.6761,12.56834
+2017-08-29 16:04:23,122 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.6761,12.56834
+2017-08-29 16:04:24,291 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.49597,9.473052
+2017-08-29 16:04:28,352 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.64191,12.08784
+2017-08-29 16:04:30,363 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type bowling_alley and latlong 55.64191,12.08784
+2017-08-29 16:04:32,437 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.6761,12.56834
+2017-08-29 16:04:36,761 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.6761,12.56834
+2017-08-29 16:04:38,953 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.49597,9.473052
+2017-08-29 16:04:42,904 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.64191,12.08784
+2017-08-29 16:04:44,936 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type amusement_park and latlong 55.64191,12.08784
+2017-08-29 16:04:46,576 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.6761,12.56834
+2017-08-29 16:04:50,679 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.49597,9.473052
+2017-08-29 16:04:50,947 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type aquarium and latlong 55.64191,12.08784
+2017-08-29 16:04:52,066 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.6761,12.56834
+2017-08-29 16:04:53,451 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.49597,9.473052
+2017-08-29 16:04:54,190 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type casino and latlong 55.64191,12.08784
+2017-08-29 16:04:54,630 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.6761,12.56834
+2017-08-29 16:04:59,213 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.6761,12.56834
+2017-08-29 16:05:04,073 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.6761,12.56834
+2017-08-29 16:05:08,341 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.49597,9.473052
+2017-08-29 16:05:13,032 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.49597,9.473052
+2017-08-29 16:05:13,476 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.64191,12.08784
+2017-08-29 16:05:15,786 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.64191,12.08784
+2017-08-29 16:05:17,768 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type movie_theater and latlong 55.64191,12.08784
+2017-08-29 16:05:20,674 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.6761,12.56834
+2017-08-29 16:05:24,889 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.49597,9.473052
+2017-08-29 16:05:30,039 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.49597,9.473052
+2017-08-29 16:05:34,237 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.49597,9.473052
+2017-08-29 16:05:38,058 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type museum and latlong 55.64191,12.08784
+2017-08-29 16:05:40,336 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.6761,12.56834
+2017-08-29 16:05:43,370 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.49597,9.473052
+2017-08-29 16:05:45,376 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps for type zoo and latlong 55.64191,12.08784
+2017-08-29 16:05:46,469 DEBUG ActivityFinder.GoogleMaps.GoogleMapsAPI - GetAllActivities: Getting events from google maps.
+2017-08-29 16:05:46,484 DEBUG ActivityFinder.Program - Found 300 activities from googleMaps
+2017-08-29 16:05:46,500 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g227599-Activities-[PAGE]Kolding_South_Jutland_Jutland.html, progess: 0 out of 3
+2017-08-29 16:05:46,546 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:05:47,366 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-08-29 16:05:47,371 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:05:48,072 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-08-29 16:05:48,076 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa30-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-08-29 16:05:48,682 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-08-29 16:05:48,686 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g227599-Activities-oa60-Kolding_South_Jutland_Jutland.html#ATTRACTION_LIST
+2017-08-29 16:05:49,382 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 56
+2017-08-29 16:05:49,415 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d1730637-Reviews-Koldinghus-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:05:51,452 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 56
+2017-08-29 16:05:51,459 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d666212-Reviews-Trapholt-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:05:53,202 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 56
+2017-08-29 16:05:53,207 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d7758060-Reviews-Legeparken_in_Kolding-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:05:55,218 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 3 out of 56
+2017-08-29 16:05:55,231 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d547636-Reviews-Downtown_Kolding-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:05:57,000 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 4 out of 56
+2017-08-29 16:05:57,009 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d2219421-Reviews-Geographical_Gardens-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:05:59,435 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 5 out of 56
+2017-08-29 16:05:59,448 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553210-d3585961-Reviews-Skamlingsbanken-Sjoelund_Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:01,296 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 6 out of 56
+2017-08-29 16:06:01,301 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3547217-Reviews-Dansk_Sygeplejehistorisk_Museum-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:03,061 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 7 out of 56
+2017-08-29 16:06:03,073 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598194-Reviews-Kolding_Miniby-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:05,114 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 8 out of 56
+2017-08-29 16:06:05,129 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3590054-Reviews-Marielundssoen-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:06,957 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 9 out of 56
+2017-08-29 16:06:06,971 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3566481-Reviews-Det_Gamle_Borgerhus-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:08,848 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 10 out of 56
+2017-08-29 16:06:08,853 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3554496-Reviews-Godset-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:10,790 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 11 out of 56
+2017-08-29 16:06:10,799 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3571993-Reviews-Sankt_Nicolai_Kirke-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:12,836 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 12 out of 56
+2017-08-29 16:06:12,845 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3545958-Reviews-Nicolai_for_Children-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:14,578 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 13 out of 56
+2017-08-29 16:06:14,593 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3540112-Reviews-Hartevaerket-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:16,696 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 14 out of 56
+2017-08-29 16:06:16,701 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553203-d3576407-Reviews-Torskind_Grusgrav-Egtved_Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:18,507 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 15 out of 56
+2017-08-29 16:06:18,512 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553203-d3604643-Reviews-Egtvedpigens_Grav-Egtved_Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:20,722 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 16 out of 56
+2017-08-29 16:06:20,731 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598396-Reviews-Braendkjaerkirken-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:22,595 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 17 out of 56
+2017-08-29 16:06:22,599 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553207-d3600103-Reviews-Lunderskov_Lokalhistoriske_Arkiv-Lunderskov_Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:24,337 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 18 out of 56
+2017-08-29 16:06:24,341 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3573234-Reviews-Harte_Kirke-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:26,032 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 19 out of 56
+2017-08-29 16:06:26,037 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3566424-Reviews-Bypark_Ost-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:27,446 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 20 out of 56
+2017-08-29 16:06:27,459 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3573901-Reviews-Abessinier-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:29,212 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 21 out of 56
+2017-08-29 16:06:29,226 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d10453370-Reviews-Borchs_Gaard-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:30,732 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 22 out of 56
+2017-08-29 16:06:30,740 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3605476-Reviews-Kristkirken-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:32,544 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 23 out of 56
+2017-08-29 16:06:32,548 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3562136-Reviews-Kolding_Lystbaadehavn-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:34,251 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 24 out of 56
+2017-08-29 16:06:34,256 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3584898-Reviews-Landbomuseet_Kolding-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:35,815 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 25 out of 56
+2017-08-29 16:06:35,821 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553203-d3539951-Reviews-Hojvang_Museum-Egtved_Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:37,503 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 26 out of 56
+2017-08-29 16:06:37,508 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3602462-Reviews-Chresten_Berg-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:39,345 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 27 out of 56
+2017-08-29 16:06:39,354 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d12388230-Reviews-Dronning_Dorothea_Teatret-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:41,206 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 28 out of 56
+2017-08-29 16:06:41,219 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d10263214-Reviews-Troldhedestien-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:43,154 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 29 out of 56
+2017-08-29 16:06:43,165 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3601018-Reviews-Turisthaven_Helligkorsgade-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:44,526 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 30 out of 56
+2017-08-29 16:06:44,533 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3557822-Reviews-Galleri_Pagter-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:46,308 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 31 out of 56
+2017-08-29 16:06:46,316 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3600210-Reviews-Kolding_Stadsarkiv-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:48,350 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 32 out of 56
+2017-08-29 16:06:48,357 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553210-d3582460-Reviews-Fjaellebroen-Sjoelund_Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:50,070 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 33 out of 56
+2017-08-29 16:06:50,075 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553213-d3574256-Reviews-Stenderup_Skovene-Soender_Stenderup_Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:51,980 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 34 out of 56
+2017-08-29 16:06:51,985 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553198-d3584910-Reviews-Sdr_Bjert_Kirke-Bjert_Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:54,247 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 35 out of 56
+2017-08-29 16:06:54,257 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3581712-Reviews-Apostolsk_Kirke-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:56,538 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 36 out of 56
+2017-08-29 16:06:56,542 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598066-Reviews-Klintenborg_Lys-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:06:58,654 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 37 out of 56
+2017-08-29 16:06:58,661 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553198-d3575100-Reviews-Bjert_Skulptur-Bjert_Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:00,730 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 38 out of 56
+2017-08-29 16:07:00,734 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3555939-Reviews-Legetojsmuseet-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:02,353 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 39 out of 56
+2017-08-29 16:07:02,360 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553213-d3602117-Reviews-Pragtfugl-Soender_Stenderup_Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:03,871 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 40 out of 56
+2017-08-29 16:07:03,876 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3598897-Reviews-Bacchusbarn_Med_Druer-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:05,667 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 41 out of 56
+2017-08-29 16:07:05,671 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3595692-Reviews-Gallery_Elise_Toft-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:07,170 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 42 out of 56
+2017-08-29 16:07:07,184 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3585384-Reviews-Gallery_Nielsen-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:08,839 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 43 out of 56
+2017-08-29 16:07:08,852 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3582528-Reviews-4_Elementer-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:10,323 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 44 out of 56
+2017-08-29 16:07:10,333 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553215-d3576928-Reviews-Hjarup_Kirke-Vamdrup_Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:12,020 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 45 out of 56
+2017-08-29 16:07:12,024 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553210-d3576920-Reviews-Vejstrup_Lokalhistoriske_Arkiv-Sjoelund_Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:14,006 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 46 out of 56
+2017-08-29 16:07:14,011 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553215-d3570647-Reviews-Kongeaamuseet-Vamdrup_Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:15,791 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 47 out of 56
+2017-08-29 16:07:15,795 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3570475-Reviews-Galleri_Serana-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:17,410 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 48 out of 56
+2017-08-29 16:07:17,420 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3569937-Reviews-Simon_Peters_Kirke-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:19,436 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 49 out of 56
+2017-08-29 16:07:19,450 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3569302-Reviews-Galleriet_Else_Marie_Jensen-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:20,941 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 50 out of 56
+2017-08-29 16:07:20,952 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3566537-Reviews-Bypark_Vest-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:22,497 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 51 out of 56
+2017-08-29 16:07:22,509 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3566339-Reviews-Rieskunstgalleri-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:24,589 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 52 out of 56
+2017-08-29 16:07:24,595 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553215-d3545864-Reviews-Lokalhistorisk_Arkiv_For_Vamdrup_Hjarup_Odis-Vamdrup_Kolding_South_Jutland_Jutla.html
+2017-08-29 16:07:26,155 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 53 out of 56
+2017-08-29 16:07:26,159 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g2553213-d3541283-Reviews-Gallery_Jes_Nordby-Soender_Stenderup_Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:27,808 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 54 out of 56
+2017-08-29 16:07:27,813 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3538077-Reviews-Vifdamanlaegget-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:29,667 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 55 out of 56
+2017-08-29 16:07:29,671 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g227599-d3537482-Reviews-Luftkastellet-Kolding_South_Jutland_Jutland.html
+2017-08-29 16:07:31,226 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Ended
+2017-08-29 16:07:31,231 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g189544-Activities-[PAGE]Roskilde_West_Zealand_Zealand.html, progess: 1 out of 3
+2017-08-29 16:07:31,235 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g189544-Activities-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:07:31,805 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-08-29 16:07:31,810 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g189544-Activities-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:07:32,503 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-08-29 16:07:32,507 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g189544-Activities-oa30-Roskilde_West_Zealand_Zealand.html#ATTRACTION_LIST
+2017-08-29 16:07:33,093 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 44
+2017-08-29 16:07:33,097 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d319622-Reviews-Roskilde_Cathedral-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:07:34,958 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 44
+2017-08-29 16:07:34,964 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d245516-Reviews-Viking_Ship_Museum-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:07:37,290 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 44
+2017-08-29 16:07:37,304 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d10250942-Reviews-Ragnarock-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:07:39,430 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 3 out of 44
+2017-08-29 16:07:39,443 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3543407-Reviews-Boserup_Skov-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:07:41,765 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 4 out of 44
+2017-08-29 16:07:41,771 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d5963998-Reviews-Byparken_City_Park_Roskilde-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:07:43,790 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 5 out of 44
+2017-08-29 16:07:43,805 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3605933-Reviews-Roskildekrukkerne-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:07:45,891 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 6 out of 44
+2017-08-29 16:07:45,901 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d245514-Reviews-Roskilde_Museum-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:07:48,207 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 7 out of 44
+2017-08-29 16:07:48,212 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d10020387-Reviews-Roskilde_Festival-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:07:50,262 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 8 out of 44
+2017-08-29 16:07:50,266 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d4267169-Reviews-Lutzhofts_Kobmandsgard-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:07:51,951 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 9 out of 44
+2017-08-29 16:07:51,964 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3566945-Reviews-Skt_Laurentii_Kirkeruin-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:07:53,985 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 10 out of 44
+2017-08-29 16:07:53,997 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d245507-Reviews-Ledreborg_Park_Og_Slot-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:07:55,944 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 11 out of 44
+2017-08-29 16:07:55,949 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3539757-Reviews-Roskilde_Kloster-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:07:58,062 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 12 out of 44
+2017-08-29 16:07:58,070 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d10911309-Reviews-Roskilde_Havn-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:00,259 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 13 out of 44
+2017-08-29 16:08:00,273 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g1370485-d3554331-Reviews-Jyllinge_Lystbaadehavn-Jyllinge_Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:02,452 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 14 out of 44
+2017-08-29 16:08:02,464 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3595906-Reviews-Jeppeart-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:04,314 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 15 out of 44
+2017-08-29 16:08:04,318 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d245511-Reviews-Museet_for_Samtidskunst-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:05,401 ERROR ActivityFinder.TripAdvisor.TripAdvisorAPI - Failed to get details from google. 
+Message: One or more errors occurred.
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at ActivityFinder.TripAdvisor.TripAdvisorAPI.GetDetailsFromTripAdvisor(Object obj) in C:\Jeppe\ActivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:line 520
+2017-08-29 16:08:05,406 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 16 out of 44
+2017-08-29 16:08:05,410 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d6701068-Reviews-Roskilde_Bibliotekerne-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:07,298 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 17 out of 44
+2017-08-29 16:08:07,303 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3537864-Reviews-Det_Gamle_Raadhus-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:08,958 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 18 out of 44
+2017-08-29 16:08:08,962 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d245512-Reviews-Palaesamlingerne_The_Palace_Collections-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:10,560 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 19 out of 44
+2017-08-29 16:08:10,567 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d10461688-Reviews-Roskilde_Racing_Center-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:12,572 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 20 out of 44
+2017-08-29 16:08:12,577 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3542101-Reviews-Osted_Kirke-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:14,180 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 21 out of 44
+2017-08-29 16:08:14,194 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3572094-Reviews-Glasgalleriet-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:16,134 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 22 out of 44
+2017-08-29 16:08:16,150 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d10536077-Reviews-Musicon-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:17,985 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 23 out of 44
+2017-08-29 16:08:17,990 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d11804113-Reviews-Sankt_Joergenbjerg_Church-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:19,874 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 24 out of 44
+2017-08-29 16:08:19,879 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d10794481-Reviews-Bognaes-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:21,700 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 25 out of 44
+2017-08-29 16:08:21,706 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d11637965-Reviews-Lise_Noergaard_Statue-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:22,884 ERROR ActivityFinder.TripAdvisor.TripAdvisorAPI - Failed to get details from google. 
+Message: One or more errors occurred.
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at ActivityFinder.TripAdvisor.TripAdvisorAPI.GetDetailsFromTripAdvisor(Object obj) in C:\Jeppe\ActivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:line 520
+2017-08-29 16:08:22,889 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 26 out of 44
+2017-08-29 16:08:22,894 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3576680-Reviews-Veddelev_Strand_og_Lystbadehavn-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:24,731 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 27 out of 44
+2017-08-29 16:08:24,736 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3570896-Reviews-Galleri_Boserup-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:26,421 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 28 out of 44
+2017-08-29 16:08:26,426 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3547518-Reviews-Helle_Duus_Weiss-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:28,242 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 29 out of 44
+2017-08-29 16:08:28,247 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3605960-Reviews-Gl_Vor_Frue_Kirke-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:30,142 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 30 out of 44
+2017-08-29 16:08:30,147 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d12670344-Reviews-Roskilde_Tourist_Information-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:32,402 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 31 out of 44
+2017-08-29 16:08:32,407 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3591516-Reviews-Vaevestuen-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:34,208 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 32 out of 44
+2017-08-29 16:08:34,213 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3569552-Reviews-Roskildegalleriet-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:35,877 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 33 out of 44
+2017-08-29 16:08:35,882 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d10236530-Reviews-Glim_Kirke-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:37,624 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 34 out of 44
+2017-08-29 16:08:37,633 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3545956-Reviews-Gallery_Working_Art-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:39,266 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 35 out of 44
+2017-08-29 16:08:39,270 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3542030-Reviews-Hvedshoj_Gravhoj-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:40,908 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 36 out of 44
+2017-08-29 16:08:40,912 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d12842064-Reviews-L_A_Rings_Atelier_og_Besogscenter-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:42,473 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 37 out of 44
+2017-08-29 16:08:42,477 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3599087-Reviews-Gundsomagle_Kirke-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:44,148 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 38 out of 44
+2017-08-29 16:08:44,153 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3584696-Reviews-Smykkevaerkstedet_V_Ella_Stokbro-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:45,748 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 39 out of 44
+2017-08-29 16:08:45,753 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3581680-Reviews-Kirkerup_Kirke-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:47,389 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 40 out of 44
+2017-08-29 16:08:47,393 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3554754-Reviews-Art_Corner-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:49,138 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 41 out of 44
+2017-08-29 16:08:49,142 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3547754-Reviews-Himmelev_Kirke-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:50,945 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 42 out of 44
+2017-08-29 16:08:50,950 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3543271-Reviews-Kunst_I_Roskilde-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:53,120 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 43 out of 44
+2017-08-29 16:08:53,124 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189544-d3538212-Reviews-Galleri_Olivius-Roskilde_West_Zealand_Zealand.html
+2017-08-29 16:08:55,123 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Ended
+2017-08-29 16:08:55,127 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from city url: /Attractions-g189541-Activities-[PAGE]Copenhagen_Zealand.html, progess: 2 out of 3
+2017-08-29 16:08:55,131 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - GetAllActivities: Getting activities from tripadvisor. City Url: https://www.tripadvisor.dk/Attractions-g189541-Activities-Copenhagen_Zealand.html
+2017-08-29 16:08:55,853 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 0
+2017-08-29 16:08:55,858 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g189541-Activities-Copenhagen_Zealand.html
+2017-08-29 16:08:56,536 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 30
+2017-08-29 16:08:56,541 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g189541-Activities-oa30-Copenhagen_Zealand.html#ATTRACTION_LIST
+2017-08-29 16:08:57,206 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 60
+2017-08-29 16:08:57,213 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g189541-Activities-oa60-Copenhagen_Zealand.html#ATTRACTION_LIST
+2017-08-29 16:08:57,922 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 90
+2017-08-29 16:08:57,927 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g189541-Activities-oa90-Copenhagen_Zealand.html#ATTRACTION_LIST
+2017-08-29 16:08:58,636 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 120
+2017-08-29 16:08:58,641 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g189541-Activities-oa120-Copenhagen_Zealand.html#ATTRACTION_LIST
+2017-08-29 16:08:59,315 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 150
+2017-08-29 16:08:59,319 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g189541-Activities-oa150-Copenhagen_Zealand.html#ATTRACTION_LIST
+2017-08-29 16:09:00,011 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 180
+2017-08-29 16:09:00,016 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g189541-Activities-oa180-Copenhagen_Zealand.html#ATTRACTION_LIST
+2017-08-29 16:09:00,730 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 210
+2017-08-29 16:09:00,737 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g189541-Activities-oa210-Copenhagen_Zealand.html#ATTRACTION_LIST
+2017-08-29 16:09:01,451 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 240
+2017-08-29 16:09:01,455 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g189541-Activities-oa240-Copenhagen_Zealand.html#ATTRACTION_LIST
+2017-08-29 16:09:02,172 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 270
+2017-08-29 16:09:06,181 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g189541-Activities-oa270-Copenhagen_Zealand.html#ATTRACTION_LIST
+2017-08-29 16:09:06,877 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 300
+2017-08-29 16:09:06,882 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g189541-Activities-oa300-Copenhagen_Zealand.html#ATTRACTION_LIST
+2017-08-29 16:09:07,581 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 330
+2017-08-29 16:09:07,585 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g189541-Activities-oa330-Copenhagen_Zealand.html#ATTRACTION_LIST
+2017-08-29 16:09:08,334 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting activities from tripadvisor with offset: 360
+2017-08-29 16:09:08,338 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - https://www.tripadvisor.dk//Attractions-g189541-Activities-oa360-Copenhagen_Zealand.html#ATTRACTION_LIST
+2017-08-29 16:09:09,009 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 0 out of 298
+2017-08-29 16:09:09,015 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d207265-Reviews-Nyhavn-Copenhagen_Zealand.html
+2017-08-29 16:09:11,447 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 1 out of 298
+2017-08-29 16:09:11,456 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d197738-Reviews-Tivoli_Gardens-Copenhagen_Zealand.html
+2017-08-29 16:09:13,654 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 2 out of 298
+2017-08-29 16:09:13,659 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d197741-Reviews-Rosenborg_Castle-Copenhagen_Zealand.html
+2017-08-29 16:09:15,486 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 3 out of 298
+2017-08-29 16:09:15,491 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246393-Reviews-Church_of_Our_Saviour-Copenhagen_Zealand.html
+2017-08-29 16:09:18,043 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 4 out of 298
+2017-08-29 16:09:18,052 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d207227-Reviews-Ny_Carlsberg_Glyptotek-Copenhagen_Zealand.html
+2017-08-29 16:09:19,983 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 5 out of 298
+2017-08-29 16:09:19,990 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245021-Reviews-The_David_Collection-Copenhagen_Zealand.html
+2017-08-29 16:09:22,033 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 6 out of 298
+2017-08-29 16:09:22,048 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d548649-Reviews-Torvehallerne-Copenhagen_Zealand.html
+2017-08-29 16:09:23,224 ERROR ActivityFinder.TripAdvisor.TripAdvisorAPI - Failed to get details from google. 
+Message: One or more errors occurred.
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at ActivityFinder.TripAdvisor.TripAdvisorAPI.GetDetailsFromTripAdvisor(Object obj) in C:\Jeppe\ActivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:line 520
+2017-08-29 16:09:23,241 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 7 out of 298
+2017-08-29 16:09:23,251 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d7605834-Reviews-Papiroeen-Copenhagen_Zealand.html
+2017-08-29 16:09:25,608 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 8 out of 298
+2017-08-29 16:09:25,618 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d207300-Reviews-Christiansborg_Palace-Copenhagen_Zealand.html
+2017-08-29 16:09:27,931 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 9 out of 298
+2017-08-29 16:09:27,936 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d207266-Reviews-The_National_Museum_of_Denmark-Copenhagen_Zealand.html
+2017-08-29 16:09:30,011 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 10 out of 298
+2017-08-29 16:09:30,025 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d207299-Reviews-Rundetaarn-Copenhagen_Zealand.html
+2017-08-29 16:09:32,169 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 11 out of 298
+2017-08-29 16:09:32,178 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246341-Reviews-Frederiksberg_Have-Copenhagen_Zealand.html
+2017-08-29 16:09:34,429 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 12 out of 298
+2017-08-29 16:09:34,444 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245019-Reviews-Botanical_Gardens_Botanisk_Have-Copenhagen_Zealand.html
+2017-08-29 16:09:36,441 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 13 out of 298
+2017-08-29 16:09:36,450 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d548642-Reviews-Oresund_Bridge-Copenhagen_Zealand.html
+2017-08-29 16:09:38,231 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 14 out of 298
+2017-08-29 16:09:38,236 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d583163-Reviews-Copenhagen_Opera_House-Copenhagen_Zealand.html
+2017-08-29 16:09:40,208 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 15 out of 298
+2017-08-29 16:09:40,213 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d197740-Reviews-Frederiks_Kirke_The_Marble_Church-Copenhagen_Zealand.html
+2017-08-29 16:09:42,348 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 16 out of 298
+2017-08-29 16:09:42,363 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245030-Reviews-Grundtvig_Church_Grundtvigs_Kirke-Copenhagen_Zealand.html
+2017-08-29 16:09:44,384 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 17 out of 298
+2017-08-29 16:09:44,391 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g806262-d245046-Reviews-Copenhagen_Zoo-Frederiksberg_Copenhagen_Zealand.html
+2017-08-29 16:09:46,438 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 18 out of 298
+2017-08-29 16:09:46,443 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245963-Reviews-Kastellet-Copenhagen_Zealand.html
+2017-08-29 16:09:48,569 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 19 out of 298
+2017-08-29 16:09:48,583 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246354-Reviews-Kongens_Have-Copenhagen_Zealand.html
+2017-08-29 16:09:50,911 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 20 out of 298
+2017-08-29 16:09:50,920 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245018-Reviews-Assistens_Cemetery-Copenhagen_Zealand.html
+2017-08-29 16:09:53,242 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 21 out of 298
+2017-08-29 16:09:53,247 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246343-Reviews-Gefionspringvandet-Copenhagen_Zealand.html
+2017-08-29 16:09:55,498 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 22 out of 298
+2017-08-29 16:09:55,503 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d207301-Reviews-Amalienborg-Copenhagen_Zealand.html
+2017-08-29 16:09:57,559 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 23 out of 298
+2017-08-29 16:09:57,564 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d593441-Reviews-Copenhagen_City_Hall-Copenhagen_Zealand.html
+2017-08-29 16:10:00,003 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 24 out of 298
+2017-08-29 16:10:00,013 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d197739-Reviews-Stroeget-Copenhagen_Zealand.html
+2017-08-29 16:10:02,766 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 25 out of 298
+2017-08-29 16:10:02,771 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d4335080-Reviews-Den_Bla_Planet_National_Aquarium_Denmark-Copenhagen_Zealand.html
+2017-08-29 16:10:04,675 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 26 out of 298
+2017-08-29 16:10:04,680 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g806262-d7098939-Reviews-Frederiksberg_Slot-Frederiksberg_Copenhagen_Zealand.html
+2017-08-29 16:10:06,658 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 27 out of 298
+2017-08-29 16:10:06,663 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245969-Reviews-Church_of_Our_Lady_Copenhagen_Cathedral-Copenhagen_Zealand.html
+2017-08-29 16:10:08,596 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 28 out of 298
+2017-08-29 16:10:08,613 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d3537045-Reviews-St_Alban_s_Church-Copenhagen_Zealand.html
+2017-08-29 16:10:11,119 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 29 out of 298
+2017-08-29 16:10:11,128 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d3537819-Reviews-Amager_Strandpark-Copenhagen_Zealand.html
+2017-08-29 16:10:13,479 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 30 out of 298
+2017-08-29 16:10:13,484 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245040-Reviews-Thorvaldsens_Museum-Copenhagen_Zealand.html
+2017-08-29 16:10:15,559 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 31 out of 298
+2017-08-29 16:10:15,564 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245033-Reviews-Royal_Library_Kongelige_Bibliotek-Copenhagen_Zealand.html
+2017-08-29 16:10:17,781 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 32 out of 298
+2017-08-29 16:10:17,786 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245034-Reviews-Designmuseum_Danmark-Copenhagen_Zealand.html
+2017-08-29 16:10:19,768 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 33 out of 298
+2017-08-29 16:10:19,773 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246327-Reviews-Visit_Carlsberg-Copenhagen_Zealand.html
+2017-08-29 16:10:21,908 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 34 out of 298
+2017-08-29 16:10:21,917 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246367-Reviews-Central_Station-Copenhagen_Zealand.html
+2017-08-29 16:10:24,653 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 35 out of 298
+2017-08-29 16:10:24,658 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245029-Reviews-The_Open_Air_Museum-Copenhagen_Zealand.html
+2017-08-29 16:10:26,724 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 36 out of 298
+2017-08-29 16:10:26,730 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245022-Reviews-Hirschsprung_Collection_Hirschsprungske_Samling-Copenhagen_Zealand.html
+2017-08-29 16:10:28,497 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 37 out of 298
+2017-08-29 16:10:28,503 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d207226-Reviews-Arken_Museum_of_Modern_Art-Copenhagen_Zealand.html
+2017-08-29 16:10:30,607 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 38 out of 298
+2017-08-29 16:10:30,614 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d2457257-Reviews-Islands_Brygge-Copenhagen_Zealand.html
+2017-08-29 16:10:31,818 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 39 out of 298
+2017-08-29 16:10:31,822 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d4606443-Reviews-Changing_of_her_Majesty_s_guard_at_Amalienborg_Castle-Copenhagen_Zealand.html
+2017-08-29 16:10:33,623 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 40 out of 298
+2017-08-29 16:10:33,627 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d6701072-Reviews-Taarnet-Copenhagen_Zealand.html
+2017-08-29 16:10:35,782 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 41 out of 298
+2017-08-29 16:10:35,787 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d259687-Reviews-Christiania-Copenhagen_Zealand.html
+2017-08-29 16:10:38,023 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 42 out of 298
+2017-08-29 16:10:38,034 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245024-Reviews-The_Little_Mermaid_Den_Lille_Havfrue-Copenhagen_Zealand.html
+2017-08-29 16:10:39,951 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 43 out of 298
+2017-08-29 16:10:39,960 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245020-Reviews-Stock_Exchange-Copenhagen_Zealand.html
+2017-08-29 16:10:41,865 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 44 out of 298
+2017-08-29 16:10:41,869 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d548716-Reviews-H_C_Andersen_Statue-Copenhagen_Zealand.html
+2017-08-29 16:10:43,903 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 45 out of 298
+2017-08-29 16:10:43,909 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d661783-Reviews-Fisketorvet_Copenhagen_Mall-Copenhagen_Zealand.html
+2017-08-29 16:10:46,376 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 46 out of 298
+2017-08-29 16:10:46,386 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245965-Reviews-Royal_Danish_Theater_Kongelige_Teater-Copenhagen_Zealand.html
+2017-08-29 16:10:47,525 ERROR ActivityFinder.TripAdvisor.TripAdvisorAPI - Failed to get details from google. 
+Message: One or more errors occurred.
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at ActivityFinder.TripAdvisor.TripAdvisorAPI.GetDetailsFromTripAdvisor(Object obj) in C:\Jeppe\ActivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:line 520
+2017-08-29 16:10:47,531 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 47 out of 298
+2017-08-29 16:10:47,535 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g806262-d5257023-Reviews-The_Cisterns-Frederiksberg_Copenhagen_Zealand.html
+2017-08-29 16:10:49,232 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 48 out of 298
+2017-08-29 16:10:49,237 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245043-Reviews-The_Royal_Danish_Arsenal_Museum-Copenhagen_Zealand.html
+2017-08-29 16:10:51,160 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 49 out of 298
+2017-08-29 16:10:51,168 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246370-Reviews-Radhuspladsen-Copenhagen_Zealand.html
+2017-08-29 16:10:53,539 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 50 out of 298
+2017-08-29 16:10:53,543 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g806262-d2226318-Reviews-Landbohojskolens_Have-Frederiksberg_Copenhagen_Zealand.html
+2017-08-29 16:10:55,947 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 51 out of 298
+2017-08-29 16:10:55,951 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g806262-d2226315-Reviews-Sondermarken-Frederiksberg_Copenhagen_Zealand.html
+2017-08-29 16:10:57,932 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 52 out of 298
+2017-08-29 16:10:57,937 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246360-Reviews-Medical_Museion-Copenhagen_Zealand.html
+2017-08-29 16:11:00,139 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 53 out of 298
+2017-08-29 16:11:00,152 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245017-Reviews-The_Workers_Museum-Copenhagen_Zealand.html
+2017-08-29 16:11:02,259 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 54 out of 298
+2017-08-29 16:11:02,265 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d8672428-Reviews-Copenhagen_City_Hall-Copenhagen_Zealand.html
+2017-08-29 16:11:04,553 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 55 out of 298
+2017-08-29 16:11:04,567 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d4267098-Reviews-Royal_Danish_Theatre_Play_House-Copenhagen_Zealand.html
+2017-08-29 16:11:06,800 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 56 out of 298
+2017-08-29 16:11:06,804 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245031-Reviews-Holmens_Kirke-Copenhagen_Zealand.html
+2017-08-29 16:11:08,948 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 57 out of 298
+2017-08-29 16:11:08,954 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d3336299-Reviews-Zoologisk_Museum-Copenhagen_Zealand.html
+2017-08-29 16:11:11,031 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 58 out of 298
+2017-08-29 16:11:11,044 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d1418579-Reviews-Bella_Center_Copenhagen-Copenhagen_Zealand.html
+2017-08-29 16:11:13,176 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 59 out of 298
+2017-08-29 16:11:13,181 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d548520-Reviews-Stork_Fountain-Copenhagen_Zealand.html
+2017-08-29 16:11:15,350 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 60 out of 298
+2017-08-29 16:11:15,354 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246349-Reviews-Grabrodretorv-Copenhagen_Zealand.html
+2017-08-29 16:11:17,653 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 61 out of 298
+2017-08-29 16:11:17,657 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246336-Reviews-Post_Tele_Museum-Copenhagen_Zealand.html
+2017-08-29 16:11:19,879 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 62 out of 298
+2017-08-29 16:11:19,884 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g806262-d2226325-Reviews-Haveselskabs_Have-Frederiksberg_Copenhagen_Zealand.html
+2017-08-29 16:11:22,324 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 63 out of 298
+2017-08-29 16:11:22,336 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d593429-Reviews-Oerstedsparken-Copenhagen_Zealand.html
+2017-08-29 16:11:24,399 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 64 out of 298
+2017-08-29 16:11:24,410 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246345-Reviews-Faelledparken-Copenhagen_Zealand.html
+2017-08-29 16:11:26,297 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 65 out of 298
+2017-08-29 16:11:26,302 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d593424-Reviews-Amaliehaven-Copenhagen_Zealand.html
+2017-08-29 16:11:28,367 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 66 out of 298
+2017-08-29 16:11:28,374 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245962-Reviews-Church_of_the_Holy_Ghost-Copenhagen_Zealand.html
+2017-08-29 16:11:30,528 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 67 out of 298
+2017-08-29 16:11:30,535 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d7940361-Reviews-Koedbyens_Mad_Marked-Copenhagen_Zealand.html
+2017-08-29 16:11:32,984 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 68 out of 298
+2017-08-29 16:11:32,999 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d3602650-Reviews-Trinity_Church-Copenhagen_Zealand.html
+2017-08-29 16:11:35,143 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 69 out of 298
+2017-08-29 16:11:35,148 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246378-Reviews-Ruins_Under_Christiansborg-Copenhagen_Zealand.html
+2017-08-29 16:11:37,316 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 70 out of 298
+2017-08-29 16:11:37,321 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d12116784-Reviews-Westmarket-Copenhagen_Zealand.html
+2017-08-29 16:11:39,426 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 71 out of 298
+2017-08-29 16:11:39,430 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246355-Reviews-Copenhagen_King_s_Square-Copenhagen_Zealand.html
+2017-08-29 16:11:42,263 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 72 out of 298
+2017-08-29 16:11:42,277 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d548531-Reviews-St_Aleksander_Nevsky_Church-Copenhagen_Zealand.html
+2017-08-29 16:11:44,355 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 73 out of 298
+2017-08-29 16:11:44,359 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246351-Reviews-Hoejbro_Plads-Copenhagen_Zealand.html
+2017-08-29 16:11:46,116 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 74 out of 298
+2017-08-29 16:11:46,121 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d523574-Reviews-Jens_Olsen_s_World_Clock-Copenhagen_Zealand.html
+2017-08-29 16:11:48,207 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 75 out of 298
+2017-08-29 16:11:48,211 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d543226-Reviews-Ripley_s_Believe_It_or_Not_Copenhagen-Copenhagen_Zealand.html
+2017-08-29 16:11:50,452 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 76 out of 298
+2017-08-29 16:11:50,460 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d3595499-Reviews-Dr_Byens_Koncerthus-Copenhagen_Zealand.html
+2017-08-29 16:11:52,407 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 77 out of 298
+2017-08-29 16:11:52,412 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d2177394-Reviews-Copenhagen_Central_Library-Copenhagen_Zealand.html
+2017-08-29 16:11:54,736 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 78 out of 298
+2017-08-29 16:11:54,750 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d623456-Reviews-Copenhagen_Amber_Museum-Copenhagen_Zealand.html
+2017-08-29 16:11:56,770 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 79 out of 298
+2017-08-29 16:11:56,775 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d7269774-Reviews-Churchillparken-Copenhagen_Zealand.html
+2017-08-29 16:11:58,880 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 80 out of 298
+2017-08-29 16:11:58,885 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d2626671-Reviews-Hans_Christian_Andersen_Place-Copenhagen_Zealand.html
+2017-08-29 16:12:00,369 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 81 out of 298
+2017-08-29 16:12:00,373 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246344-Reviews-Geological_Museum-Copenhagen_Zealand.html
+2017-08-29 16:12:02,867 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 82 out of 298
+2017-08-29 16:12:02,876 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d312096-Reviews-Slotsholmen-Copenhagen_Zealand.html
+2017-08-29 16:12:04,019 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 83 out of 298
+2017-08-29 16:12:04,024 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d3588049-Reviews-Caritasbroenden-Copenhagen_Zealand.html
+2017-08-29 16:12:06,550 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 84 out of 298
+2017-08-29 16:12:06,562 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246347-Reviews-Gammeltorv-Copenhagen_Zealand.html
+2017-08-29 16:12:07,736 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 85 out of 298
+2017-08-29 16:12:07,740 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d7363440-Reviews-Vesterbro-Copenhagen_Zealand.html
+2017-08-29 16:12:10,283 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 86 out of 298
+2017-08-29 16:12:10,289 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245966-Reviews-Lur_Blower_Column-Copenhagen_Zealand.html
+2017-08-29 16:12:12,425 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 87 out of 298
+2017-08-29 16:12:12,429 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d8795530-Reviews-Zinkglobal-Copenhagen_Zealand.html
+2017-08-29 16:12:14,337 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 88 out of 298
+2017-08-29 16:12:14,344 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d7899116-Reviews-Dome_of_Visions-Copenhagen_Zealand.html
+2017-08-29 16:12:16,347 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 89 out of 298
+2017-08-29 16:12:16,352 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d3562088-Reviews-Nyboders_Mindestuer-Copenhagen_Zealand.html
+2017-08-29 16:12:18,431 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 90 out of 298
+2017-08-29 16:12:18,439 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d10499948-Reviews-Ofelia_Plads-Copenhagen_Zealand.html
+2017-08-29 16:12:20,621 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 91 out of 298
+2017-08-29 16:12:20,636 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d312041-Reviews-Latin_Quarter-Copenhagen_Zealand.html
+2017-08-29 16:12:21,812 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 92 out of 298
+2017-08-29 16:12:21,818 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245032-Reviews-Museum_of_Copenhagen-Copenhagen_Zealand.html
+2017-08-29 16:12:24,120 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 93 out of 298
+2017-08-29 16:12:24,126 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246338-Reviews-Folketinget-Copenhagen_Zealand.html
+2017-08-29 16:12:26,039 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 94 out of 298
+2017-08-29 16:12:26,043 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d3599537-Reviews-Dieselhouse-Copenhagen_Zealand.html
+2017-08-29 16:12:27,858 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 95 out of 298
+2017-08-29 16:12:27,862 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d9719364-Reviews-Rytterstatue_af_Frederik_V-Copenhagen_Zealand.html
+2017-08-29 16:12:29,154 ERROR ActivityFinder.TripAdvisor.TripAdvisorAPI - Failed to get details from google. 
+Message: One or more errors occurred.
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at ActivityFinder.TripAdvisor.TripAdvisorAPI.GetDetailsFromTripAdvisor(Object obj) in C:\Jeppe\ActivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:line 520
+2017-08-29 16:12:29,159 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 96 out of 298
+2017-08-29 16:12:29,164 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g806262-d5000593-Reviews-Frederiksberg_Radhus-Frederiksberg_Copenhagen_Zealand.html
+2017-08-29 16:12:31,499 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 97 out of 298
+2017-08-29 16:12:31,504 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246324-Reviews-Renes_Brasserie_Restaurant-Copenhagen_Zealand.html
+2017-08-29 16:12:33,721 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 98 out of 298
+2017-08-29 16:12:33,729 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d3544406-Reviews-Politimuseet-Copenhagen_Zealand.html
+2017-08-29 16:12:36,007 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 99 out of 298
+2017-08-29 16:12:36,020 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d8560423-Reviews-Starbucks-Copenhagen_Zealand.html
+2017-08-29 16:12:38,226 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 100 out of 298
+2017-08-29 16:12:38,231 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d7158812-Reviews-Brondby_Stadium-Copenhagen_Zealand.html
+2017-08-29 16:12:40,301 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 101 out of 298
+2017-08-29 16:12:40,309 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d245042-Reviews-IMAX_Tycho_Brahe_Planetarium-Copenhagen_Zealand.html
+2017-08-29 16:12:42,334 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 102 out of 298
+2017-08-29 16:12:42,340 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d8711955-Reviews-Cirkelbroen-Copenhagen_Zealand.html
+2017-08-29 16:12:43,525 ERROR ActivityFinder.TripAdvisor.TripAdvisorAPI - Failed to get details from google. 
+Message: One or more errors occurred.
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at ActivityFinder.TripAdvisor.TripAdvisorAPI.GetDetailsFromTripAdvisor(Object obj) in C:\Jeppe\ActivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:line 520
+2017-08-29 16:12:43,532 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 103 out of 298
+2017-08-29 16:12:43,538 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d10562921-Reviews-Inderhavnsbroen-Copenhagen_Zealand.html
+2017-08-29 16:12:44,828 ERROR ActivityFinder.TripAdvisor.TripAdvisorAPI - Failed to get details from google. 
+Message: One or more errors occurred.
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at ActivityFinder.TripAdvisor.TripAdvisorAPI.GetDetailsFromTripAdvisor(Object obj) in C:\Jeppe\ActivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:line 520
+2017-08-29 16:12:44,838 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 104 out of 298
+2017-08-29 16:12:44,852 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d2409754-Reviews-Ostre_Anlaeg-Copenhagen_Zealand.html
+2017-08-29 16:12:46,776 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 105 out of 298
+2017-08-29 16:12:46,781 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d593443-Reviews-Copenhagen_University_Kobenhavns_Universitet-Copenhagen_Zealand.html
+2017-08-29 16:12:49,490 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 106 out of 298
+2017-08-29 16:12:49,507 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246382-Reviews-St_Nicholas_Church-Copenhagen_Zealand.html
+2017-08-29 16:12:51,670 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 107 out of 298
+2017-08-29 16:12:51,679 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d8146519-Reviews-Det_Kongelige_Biblioteks_Have-Copenhagen_Zealand.html
+2017-08-29 16:12:53,743 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 108 out of 298
+2017-08-29 16:12:53,752 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d548726-Reviews-Gammel_Strand-Copenhagen_Zealand.html
+2017-08-29 16:12:55,185 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 109 out of 298
+2017-08-29 16:12:55,190 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d12116624-Reviews-Two_Socks_Copenhagen-Copenhagen_Zealand.html
+2017-08-29 16:12:57,216 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 110 out of 298
+2017-08-29 16:12:57,229 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d2226331-Reviews-Peblinge_Lake-Copenhagen_Zealand.html
+2017-08-29 16:12:58,543 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 111 out of 298
+2017-08-29 16:12:58,547 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d10287428-Reviews-Superkilen-Copenhagen_Zealand.html
+2017-08-29 16:13:00,232 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 112 out of 298
+2017-08-29 16:13:00,236 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d8528214-Reviews-Wonderful_Copenhagen_Visitors_Center-Copenhagen_Zealand.html
+2017-08-29 16:13:02,002 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 113 out of 298
+2017-08-29 16:13:02,007 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246331-Reviews-Christians_Kirke-Copenhagen_Zealand.html
+2017-08-29 16:13:04,805 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 114 out of 298
+2017-08-29 16:13:04,819 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246328-Reviews-Christiansborgs_Slotskirke-Copenhagen_Zealand.html
+2017-08-29 16:13:06,939 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 115 out of 298
+2017-08-29 16:13:06,945 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d12292719-Reviews-Copenhagen_Contemporary-Copenhagen_Zealand.html
+2017-08-29 16:13:09,010 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 116 out of 298
+2017-08-29 16:13:09,017 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d7896536-Reviews-Summerbird_Chocolaterie-Copenhagen_Zealand.html
+2017-08-29 16:13:10,901 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 117 out of 298
+2017-08-29 16:13:10,917 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d10230730-Reviews-Bispebjerg_Cemetery-Copenhagen_Zealand.html
+2017-08-29 16:13:12,923 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 118 out of 298
+2017-08-29 16:13:12,932 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d523766-Reviews-Pusher_Street-Copenhagen_Zealand.html
+2017-08-29 16:13:14,833 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 119 out of 298
+2017-08-29 16:13:14,838 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d593439-Reviews-Kastelskirken-Copenhagen_Zealand.html
+2017-08-29 16:13:16,848 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 120 out of 298
+2017-08-29 16:13:16,858 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g806262-d7729409-Reviews-The_Danish_Music_Museum-Frederiksberg_Copenhagen_Zealand.html
+2017-08-29 16:13:18,815 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 121 out of 298
+2017-08-29 16:13:18,819 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d8743820-Reviews-8Tallet-Copenhagen_Zealand.html
+2017-08-29 16:13:20,782 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 122 out of 298
+2017-08-29 16:13:20,789 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d6999208-Reviews-Kunsthal_Charlottenborg-Copenhagen_Zealand.html
+2017-08-29 16:13:22,927 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 123 out of 298
+2017-08-29 16:13:22,941 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246329-Reviews-DGI_byen-Copenhagen_Zealand.html
+2017-08-29 16:13:25,046 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 124 out of 298
+2017-08-29 16:13:25,051 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d3537658-Reviews-Sankt_Petri_Kirke_Og_Gravkapeller-Copenhagen_Zealand.html
+2017-08-29 16:13:27,232 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 125 out of 298
+2017-08-29 16:13:27,237 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246339-Reviews-Frederiksberg_Alle-Copenhagen_Zealand.html
+2017-08-29 16:13:28,595 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 126 out of 298
+2017-08-29 16:13:28,611 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d10712658-Reviews-Langelinie_Park-Copenhagen_Zealand.html
+2017-08-29 16:13:30,510 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 127 out of 298
+2017-08-29 16:13:30,514 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246325-Reviews-Bakkehusmuseet-Copenhagen_Zealand.html
+2017-08-29 16:13:32,814 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 128 out of 298
+2017-08-29 16:13:32,818 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246358-Reviews-Storm_P_Museum-Copenhagen_Zealand.html
+2017-08-29 16:13:34,026 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 129 out of 298
+2017-08-29 16:13:34,031 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d10020385-Reviews-Copenhagen_Jazz_Festival-Copenhagen_Zealand.html
+2017-08-29 16:13:35,964 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 130 out of 298
+2017-08-29 16:13:35,969 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d246352-Reviews-Holmen-Copenhagen_Zealand.html
+2017-08-29 16:13:37,342 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 131 out of 298
+2017-08-29 16:13:37,349 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d8541842-Reviews-Kultorvet-Copenhagen_Zealand.html
+2017-08-29 16:13:39,832 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 132 out of 298
+2017-08-29 16:13:39,838 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d8071342-Reviews-Oestre_Gasvaerk_Teater-Copenhagen_Zealand.html
+2017-08-29 16:13:42,007 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 133 out of 298
+2017-08-29 16:13:42,016 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d8809364-Reviews-Saint_Ansgar_s_Cathedral-Copenhagen_Zealand.html
+2017-08-29 16:13:44,223 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 134 out of 298
+2017-08-29 16:13:44,229 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d3555469-Reviews-Soren_Kierkegaard_Statue_I_Bibliotekshaven-Copenhagen_Zealand.html
+2017-08-29 16:13:46,148 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 135 out of 298
+2017-08-29 16:13:46,167 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d7729410-Reviews-The_Vessels_at_Holmen_Saelen_Sehested_and_Peder_Skram-Copenhagen_Zealand.html
+2017-08-29 16:13:48,349 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 136 out of 298
+2017-08-29 16:13:48,360 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d8180074-Reviews-University_of_Copenhagen-Copenhagen_Zealand.html
+2017-08-29 16:13:50,954 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 137 out of 298
+2017-08-29 16:13:50,959 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d3538573-Reviews-VM_Bjerget-Copenhagen_Zealand.html
+2017-08-29 16:13:53,042 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 138 out of 298
+2017-08-29 16:13:53,051 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d10307509-Reviews-Dragon_Fountain-Copenhagen_Zealand.html
+2017-08-29 16:13:55,046 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 139 out of 298
+2017-08-29 16:13:55,052 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d593427-Reviews-Frihavnen-Copenhagen_Zealand.html
+2017-08-29 16:13:57,131 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 140 out of 298
+2017-08-29 16:13:57,140 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d593456-Reviews-St_Paul_s_Church-Copenhagen_Zealand.html
+2017-08-29 16:13:59,031 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 141 out of 298
+2017-08-29 16:13:59,036 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d3585069-Reviews-Kunstforeningen_Gl_Strand-Copenhagen_Zealand.html
+2017-08-29 16:14:01,323 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 142 out of 298
+2017-08-29 16:14:01,333 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d548501-Reviews-Tuborg_Brewery-Copenhagen_Zealand.html
+2017-08-29 16:14:03,642 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Detail extraction progress: 143 out of 298
+2017-08-29 16:14:03,650 DEBUG ActivityFinder.TripAdvisor.TripAdvisorAPI - Getting details from url: https://www.tripadvisor.dk/Attraction_Review-g189541-d7076299-Reviews-Rum_Club_Copenhagen-Copenhagen_Zealand.html
+2017-08-29 16:14:04,285 ERROR ActivityFinder.TripAdvisor.TripAdvisorAPI - Failed to get activities from city url: /Attractions-g189541-Activities-[PAGE]Copenhagen_Zealand.html. 
+ Message: '<>f__AnonymousType0<string,string>' does not contain a definition for 'Url' 
+ StackTrace:    at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at ActivityFinder.TripAdvisor.TripAdvisorAPI.GetAllActivities(List`1 activities, String cityUrl) in C:\Jeppe\ActivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:line 415
+   at ActivityFinder.TripAdvisor.TripAdvisorAPI.GetAllActivities(List`1 activities) in C:\Jeppe\ActivityFinder\ActivityFinder\ActivityFinder\TripAdvisor\TripAdvisorAPI.cs:line 363
+2017-08-29 16:14:04,292 DEBUG ActivityFinder.Program - Found 243 activities from tripadvisor
+2017-08-29 16:14:04,301 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1
+2017-08-29 16:15:18,457 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 22
+2017-08-29 16:16:24,098 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 43
+2017-08-29 16:17:29,339 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 64
+2017-08-29 16:18:35,294 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 85
+2017-08-29 16:19:44,290 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 106
+2017-08-29 16:20:55,112 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 127
+2017-08-29 16:22:05,163 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 148
+2017-08-29 16:23:14,808 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 169
+2017-08-29 16:24:19,927 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 190
+2017-08-29 16:25:25,612 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 211
+2017-08-29 16:26:36,671 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 232
+2017-08-29 16:27:45,450 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 253
+2017-08-29 16:28:55,629 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 274
+2017-08-29 16:30:03,583 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 295
+2017-08-29 16:31:02,581 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 316
+2017-08-29 16:32:06,082 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 337
+2017-08-29 16:32:55,578 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 358
+2017-08-29 16:33:48,645 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 379
+2017-08-29 16:34:41,005 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 400
+2017-08-29 16:35:22,761 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 421
+2017-08-29 16:36:28,473 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 442
+2017-08-29 16:37:32,214 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 463
+2017-08-29 16:38:15,014 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 484
+2017-08-29 16:39:19,386 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 505
+2017-08-29 16:40:26,618 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 526
+2017-08-29 16:41:21,466 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 547
+2017-08-29 16:42:11,855 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 568
+2017-08-29 16:42:31,045 ERROR ActivityFinder.VisitDenmark.VisitDenmarkAPI - Something whent wrong trying to get the contet from the url: http://www.visitdenmark.dk/da/danmark/haandvaerkerdag-paa-frilandsmuseet-maribo-gdk1081302
+Message: Value cannot be null.
+Parameter name: source
+StackTrace:    at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at ActivityFinder.VisitDenmark.VisitDenmarkAPI.GetAllActivities(List`1 activities, Int32 startIndex) in C:\Jeppe\ActivityFinder\ActivityFinder\ActivityFinder\VisitDenmark\VisitDenmarkAPI.cs:line 56
+2017-08-29 16:43:05,139 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 589
+2017-08-29 16:43:36,584 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 610
+2017-08-29 16:44:23,442 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 631
+2017-08-29 16:45:02,319 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 652
+2017-08-29 16:45:48,303 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 673
+2017-08-29 16:46:43,051 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 694
+2017-08-29 16:47:37,244 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 715
+2017-08-29 16:48:43,715 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 736
+2017-08-29 16:49:40,629 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 757
+2017-08-29 16:50:37,056 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 778
+2017-08-29 16:51:28,321 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 799
+2017-08-29 16:51:59,981 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 820
+2017-08-29 16:52:34,394 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 841
+2017-08-29 16:53:16,951 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 862
+2017-08-29 16:53:55,903 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 883
+2017-08-29 16:54:43,601 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 904
+2017-08-29 16:55:46,935 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 925
+2017-08-29 16:56:31,332 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 946
+2017-08-29 16:57:39,570 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 967
+2017-08-29 16:58:13,546 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 988
+2017-08-29 16:59:09,316 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Getting activities from visitdenmark. startIndex = 1009
+2017-08-29 16:59:42,829 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,833 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,838 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,843 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,850 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,856 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,861 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,867 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,872 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,878 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,883 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,888 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,893 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,898 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,903 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,908 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,915 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,920 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,926 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,931 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,938 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,943 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,949 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,955 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,960 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,965 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,971 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,976 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,981 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,986 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,991 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:42,996 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,001 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,007 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,013 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,019 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,024 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,029 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,034 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,038 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,044 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,048 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,053 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,058 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,063 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,068 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,075 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,079 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,084 DEBUG ActivityFinder.VisitDenmark.VisitDenmarkAPI - GetAllActivities: Ended
+2017-08-29 16:59:43,089 DEBUG ActivityFinder.Program - Found 1027 activities from visitdenmark
+2017-08-29 16:59:43,093 DEBUG ActivityFinder.Program - Total number of activities found: 4625
+2017-08-29 16:59:43,099 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Started
+2017-08-29 16:59:43,105 DEBUG ActivityFinder.Program - SetMapImagesOnUnsetImages: Ended
+2017-08-29 16:59:43,112 DEBUG ActivityFinder.Program - Delete all activities in the database
